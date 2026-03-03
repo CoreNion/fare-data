@@ -320,6 +320,12 @@
     "minamikashiwa": {
       "id": "minamikashiwa",
       "name": "南柏",
+      "km": 245,
+      "sp": []
+    },
+    "kashiwa": {
+      "id": "kashiwa",
+      "name": "柏",
       "km": 269,
       "sp": []
     },
@@ -355,7 +361,7 @@
     },
     "ryugasakishi": {
       "id": "ryugasakishi",
-      "name": "龍ヶ崎市",
+      "name": "龍ケ崎市",
       "km": 455,
       "sp": []
     },
@@ -410,7 +416,7 @@
     },
     "shiomi": {
       "id": "shiomi",
-      "name": "塩見",
+      "name": "潮見",
       "km": 54,
       "sp": [
         "tokunai"
@@ -664,6 +670,14 @@
         "yokohama"
       ]
     },
+    "yako": {
+      "id": "yako",
+      "name": "矢向",
+      "km": 26,
+      "sp": [
+        "yokohama"
+      ]
+    },
     "kashimada": {
       "id": "kashimada",
       "name": "鹿島田",
@@ -706,6 +720,12 @@
       "km": 127,
       "sp": []
     },
+    "tsudayama": {
+      "id": "tsudayama",
+      "name": "津田山",
+      "km": 139,
+      "sp": []
+    },
     "kuji": {
       "id": "kuji",
       "name": "久地",
@@ -716,6 +736,12 @@
       "id": "noborito",
       "name": "登戸",
       "km": 173,
+      "sp": []
+    },
+    "nakanoshima": {
+      "id": "nakanoshima",
+      "name": "中野島",
+      "km": 195,
       "sp": []
     },
     "inadazutsumi": {
@@ -2222,14 +2248,26 @@
       },
       {
         "to": "minamikashiwa",
-        "weight": 49,
+        "weight": 25,
         "type": "line"
       }
     ],
     "minamikashiwa": [
       {
         "to": "kitakogane",
-        "weight": 49,
+        "weight": 25,
+        "type": "line"
+      },
+      {
+        "to": "kashiwa",
+        "weight": 24,
+        "type": "line"
+      }
+    ],
+    "kashiwa": [
+      {
+        "to": "minamikashiwa",
+        "weight": 24,
         "type": "line"
       },
       {
@@ -2240,7 +2278,7 @@
     ],
     "kitakashiwa": [
       {
-        "to": "minamikashiwa",
+        "to": "kashiwa",
         "weight": 23,
         "type": "line"
       },
@@ -2924,13 +2962,8 @@
         "type": "line"
       },
       {
-        "to": "shitte",
+        "to": "yako",
         "weight": 9,
-        "type": "line"
-      },
-      {
-        "to": "kashimada",
-        "weight": 15,
         "type": "line"
       },
       {
@@ -2956,9 +2989,21 @@
         "type": "line"
       }
     ],
-    "kashimada": [
+    "yako": [
       {
         "to": "shitte",
+        "weight": 9,
+        "type": "line"
+      },
+      {
+        "to": "kashimada",
+        "weight": 15,
+        "type": "line"
+      }
+    ],
+    "kashimada": [
+      {
+        "to": "yako",
         "weight": 15,
         "type": "line"
       },
@@ -3045,15 +3090,27 @@
         "type": "line"
       },
       {
+        "to": "tsudayama",
+        "weight": 12,
+        "type": "line"
+      }
+    ],
+    "tsudayama": [
+      {
+        "to": "musashimizonokuchi",
+        "weight": 12,
+        "type": "line"
+      },
+      {
         "to": "kuji",
-        "weight": 22,
+        "weight": 10,
         "type": "line"
       }
     ],
     "kuji": [
       {
-        "to": "musashimizonokuchi",
-        "weight": 22,
+        "to": "tsudayama",
+        "weight": 10,
         "type": "line"
       },
       {
@@ -3074,6 +3131,13 @@
         "type": "line"
       },
       {
+        "to": "nakanoshima",
+        "weight": 22,
+        "type": "line"
+      }
+    ],
+    "nakanoshima": [
+      {
         "to": "noborito",
         "weight": 22,
         "type": "line"
@@ -3086,7 +3150,7 @@
     ],
     "inadazutsumi": [
       {
-        "to": "noborito",
+        "to": "nakanoshima",
         "weight": 13,
         "type": "line"
       },
