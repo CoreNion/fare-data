@@ -1,0 +1,112 @@
+{
+  "lines": [
+    {
+      "id": "tsurumi",
+      "chihou": false,
+      "stations": [
+        {
+          "name": "鶴見",
+          "id": "tsurumi",
+          "km": 0,
+          "sp": ["yokohama"]
+        },
+        {
+          "name": "国道",
+          "id": "kokudo",
+          "km": 9,
+          "sp": ["yokohama"]
+        },
+        {
+          "name": "鶴見小野",
+          "id": "tsurumiono",
+          "km": 15,
+          "sp": ["yokohama"]
+        },
+        {
+          "name": "弁天橋",
+          "id": "bentenbashi",
+          "km": 24,
+          "sp": ["yokohama"]
+        },
+        {
+          "name": "浅野",
+          "id": "asano",
+          "km": 30,
+          "sp": ["yokohama"]
+        },
+        {
+          "name": "安善",
+          "id": "anzen",
+          "km": 35,
+          "sp": ["yokohama"]
+        },
+        {
+          "name": "武蔵白石",
+          "id": "musashishiraishi",
+          "km": 41,
+          "sp": ["yokohama"]
+        },
+        {
+          "name": "浜川崎",
+          "id": "hamakawasaki",
+          "km": 57,
+          "sp": ["yokohama"]
+        },
+        {
+          "name": "昭和",
+          "id": "syowa",
+          "km": 64,
+          "sp": ["yokohama"]
+        },
+        {
+          "name": "扇町",
+          "id": "ogimachi",
+          "km": 70,
+          "sp": ["yokohama"]
+        }
+      ]
+    },
+    {
+      "id": "tsurumi-shibaura",
+      "chihou": false,
+      "stations": [
+        {
+          "name": "浅野",
+          "id": "asano",
+          "km": 0,
+          "sp": ["yokohama"]
+        },
+        {
+          "name": "新芝浦",
+          "id": "shinshibaura",
+          "km": 9,
+          "sp": ["yokohama"]
+        },
+        {
+          "name": "海芝浦",
+          "id": "umishibaura",
+          "km": 17,
+          "sp": ["yokohama"]
+        }
+      ]
+    },
+    {
+      "id": "tsurumi-okawa",
+      "chihou": false,
+      "stations": [
+        {
+          "name": "武蔵白石",
+          "id": "musashishiraishi",
+          "km": 0,
+          "sp": ["yokohama"]
+        },
+        {
+          "name": "大川",
+          "id": "okawa",
+          "km": 10,
+          "sp": ["yokohama"]
+        }
+      ]
+    }
+  ]
+}
