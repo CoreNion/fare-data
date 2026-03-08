@@ -1,0 +1,118 @@
+{
+  "lines": [
+    {
+      "id": "narita",
+      "chihou": false,
+      "stations": [
+        {
+          "name": "佐倉",
+          "id": "sakura",
+          "km": 0,
+          "sp": []
+        },
+        {
+          "name": "酒々井",
+          "id": "shisui",
+          "km": 64,
+          "sp": []
+        },
+        {
+          "name": "成田",
+          "id": "narita",
+          "km": 131,
+          "sp": []
+        }
+      ]
+    },
+    {
+      "id": "narita-abiko",
+      "chihou": false,
+      "stations": [
+        {
+          "name": "我孫子",
+          "id": "abiko",
+          "km": 0,
+          "sp": []
+        },
+        {
+          "name": "東我孫子",
+          "id": "higashiabiko",
+          "km": 34,
+          "sp": []
+        },
+        {
+          "name": "湖北",
+          "id": "kohoku",
+          "km": 63,
+          "sp": []
+        },
+        {
+          "name": "荒木",
+          "id": "araki",
+          "km": 89,
+          "sp": []
+        },
+        {
+          "name": "布佐",
+          "id": "fusa",
+          "km": 121,
+          "sp": []
+        },
+        {
+          "name": "木下",
+          "id": "kioroshi",
+          "km": 140,
+          "sp": []
+        },
+        {
+          "name": "小林",
+          "id": "kobayashi-narita",
+          "km": 183,
+          "sp": []
+        },
+        {
+          "name": "安食",
+          "id": "ajiki",
+          "km": 232,
+          "sp": []
+        },
+        {
+          "name": "下総松崎",
+          "id": "shimousamanzaki",
+          "km": 278,
+          "sp": []
+        },
+        {
+          "name": "成田",
+          "id": "narita",
+          "km": 329,
+          "sp": []
+        }
+      ]
+    },
+    {
+      "id": "narita-airport",
+      "chihou": false,
+      "stations": [
+        {
+          "name": "成田",
+          "id": "narita",
+          "km": 0,
+          "sp": []
+        },
+        {
+          "name": "空港第2ビル",
+          "id": "narita-airport-t2-t3",
+          "km": 98,
+          "sp": []
+        },
+        {
+          "name": "成田空港",
+          "id": "narita-airport-t1",
+          "km": 108,
+          "sp": []
+        }
+      ]
+    }
+  ]
+}
