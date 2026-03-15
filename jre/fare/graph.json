@@ -583,8 +583,8 @@
         "tokunai"
       ]
     },
-    "kamearo": {
-      "id": "kamearo",
+    "kameari": {
+      "id": "kameari",
       "name": "亀有",
       "km": 99,
       "sp": [
@@ -749,9 +749,9 @@
       "km": 1151,
       "sp": []
     },
-    "shimodatr": {
-      "id": "shimodatr",
-      "name": "偕楽園(臨時駅)",
+    "kairakuen": {
+      "id": "kairakuen",
+      "name": "偕楽園",
       "km": 1193,
       "sp": []
     },
@@ -1152,8 +1152,8 @@
       "km": 354,
       "sp": []
     },
-    "higashikawagucho": {
-      "id": "higashikawagucho",
+    "higashikawaguchi": {
+      "id": "higashikawaguchi",
       "name": "東川口",
       "km": 392,
       "sp": []
@@ -1300,6 +1300,12 @@
       "id": "kuji",
       "name": "久地",
       "km": 149,
+      "sp": []
+    },
+    "syukugawara": {
+      "id": "syukugawara",
+      "name": "宿河原",
+      "km": 162,
       "sp": []
     },
     "noborito": {
@@ -1961,8 +1967,8 @@
         "tokunai"
       ]
     },
-    "ukimahunato": {
-      "id": "ukimahunato",
+    "ukimafunato": {
+      "id": "ukimafunato",
       "name": "浮間舟渡",
       "km": 86,
       "sp": [
@@ -2709,8 +2715,8 @@
         "yokohama"
       ]
     },
-    "hodohaya": {
-      "id": "hodohaya",
+    "hodogaya": {
+      "id": "hodogaya",
       "name": "保土ヶ谷",
       "km": 318,
       "sp": [
@@ -2875,8 +2881,8 @@
         "yokohama"
       ]
     },
-    "syowa": {
-      "id": "syowa",
+    "showa": {
+      "id": "showa",
       "name": "昭和",
       "km": 64,
       "sp": [
@@ -2966,7 +2972,7 @@
     "kimitsu": {
       "id": "kimitsu",
       "name": "君津",
-      "km": 313,
+      "km": 383,
       "sp": []
     },
     "osaki": {
@@ -3023,8 +3029,8 @@
         "tokunai"
       ]
     },
-    "shinoookubo": {
-      "id": "shinoookubo",
+    "shinokubo": {
+      "id": "shinokubo",
       "name": "新大久保",
       "km": 119,
       "sp": [
@@ -3403,7 +3409,7 @@
         "chihou": false
       },
       {
-        "to": "shinoookubo",
+        "to": "shinokubo",
         "weight": 13,
         "fareWeight": 13,
         "chihou": false
@@ -4173,7 +4179,7 @@
       {
         "to": "takezawa",
         "weight": 35,
-        "fareWeight": 0,
+        "fareWeight": 38,
         "chihou": true
       }
     ],
@@ -4181,13 +4187,13 @@
       {
         "to": "ogawamachi",
         "weight": 35,
-        "fareWeight": 0,
+        "fareWeight": 38,
         "chihou": true
       },
       {
         "to": "orihara",
         "weight": 40,
-        "fareWeight": 82,
+        "fareWeight": 44,
         "chihou": true
       }
     ],
@@ -4195,7 +4201,7 @@
       {
         "to": "takezawa",
         "weight": 40,
-        "fareWeight": 82,
+        "fareWeight": 44,
         "chihou": true
       },
       {
@@ -4555,13 +4561,13 @@
         "chihou": false
       },
       {
-        "to": "kamearo",
+        "to": "kameari",
         "weight": 22,
         "fareWeight": 22,
         "chihou": false
       }
     ],
-    "kamearo": [
+    "kameari": [
       {
         "to": "ayase",
         "weight": 22,
@@ -4577,7 +4583,7 @@
     ],
     "kanamachi": [
       {
-        "to": "kamearo",
+        "to": "kameari",
         "weight": 19,
         "fareWeight": 19,
         "chihou": false
@@ -4957,13 +4963,13 @@
         "chihou": false
       },
       {
-        "to": "shimodatr",
+        "to": "kairakuen",
         "weight": 42,
         "fareWeight": 42,
         "chihou": false
       }
     ],
-    "shimodatr": [
+    "kairakuen": [
       {
         "to": "akatsuka",
         "weight": 42,
@@ -4979,7 +4985,7 @@
     ],
     "mito": [
       {
-        "to": "shimodatr",
+        "to": "kairakuen",
         "weight": 18,
         "fareWeight": 18,
         "chihou": false
@@ -5975,13 +5981,13 @@
         "chihou": false
       },
       {
-        "to": "higashikawagucho",
+        "to": "higashikawaguchi",
         "weight": 38,
         "fareWeight": 38,
         "chihou": false
       }
     ],
-    "higashikawagucho": [
+    "higashikawaguchi": [
       {
         "to": "higashiurawa",
         "weight": 38,
@@ -5997,7 +6003,7 @@
     ],
     "minamikoshigaya": [
       {
-        "to": "higashikawagucho",
+        "to": "higashikawaguchi",
         "weight": 43,
         "fareWeight": 43,
         "chihou": false
@@ -6335,6 +6341,14 @@
         "chihou": false
       },
       {
+        "to": "syukugawara",
+        "weight": 13,
+        "fareWeight": 13,
+        "chihou": false
+      }
+    ],
+    "syukugawara": [
+      {
         "to": "kuji",
         "weight": 13,
         "fareWeight": 13,
@@ -6349,7 +6363,7 @@
     ],
     "noborito": [
       {
-        "to": "kuji",
+        "to": "syukugawara",
         "weight": 11,
         "fareWeight": 11,
         "chihou": false
@@ -6557,7 +6571,7 @@
         "chihou": false
       },
       {
-        "to": "syowa",
+        "to": "showa",
         "weight": 7,
         "fareWeight": 7,
         "chihou": false
@@ -6779,7 +6793,7 @@
         "chihou": false
       },
       {
-        "to": "hodohaya",
+        "to": "hodogaya",
         "weight": 30,
         "fareWeight": 30,
         "chihou": false
@@ -7843,13 +7857,13 @@
         "chihou": false
       },
       {
-        "to": "ukimahunato",
+        "to": "ukimafunato",
         "weight": 16,
         "fareWeight": 16,
         "chihou": false
       }
     ],
-    "ukimahunato": [
+    "ukimafunato": [
       {
         "to": "kitaakabane",
         "weight": 16,
@@ -7865,7 +7879,7 @@
     ],
     "todakouen": [
       {
-        "to": "ukimahunato",
+        "to": "ukimafunato",
         "weight": 24,
         "fareWeight": 24,
         "chihou": false
@@ -9477,7 +9491,7 @@
         "chihou": false
       }
     ],
-    "hodohaya": [
+    "hodogaya": [
       {
         "to": "yokohama",
         "weight": 30,
@@ -9493,7 +9507,7 @@
     ],
     "higashitotsuka": [
       {
-        "to": "hodohaya",
+        "to": "hodogaya",
         "weight": 49,
         "fareWeight": 49,
         "chihou": false
@@ -9819,7 +9833,7 @@
         "chihou": false
       }
     ],
-    "syowa": [
+    "showa": [
       {
         "to": "hamakawasaki",
         "weight": 7,
@@ -9835,7 +9849,7 @@
     ],
     "ogimachi": [
       {
-        "to": "syowa",
+        "to": "showa",
         "weight": 6,
         "fareWeight": 6,
         "chihou": false
@@ -9978,16 +9992,16 @@
       },
       {
         "to": "kimitsu",
-        "weight": 0,
-        "fareWeight": 0,
+        "weight": 70,
+        "fareWeight": 70,
         "chihou": false
       }
     ],
     "kimitsu": [
       {
         "to": "kisarazu",
-        "weight": 0,
-        "fareWeight": 0,
+        "weight": 70,
+        "fareWeight": 70,
         "chihou": false
       }
     ],
@@ -10075,7 +10089,7 @@
         "chihou": false
       }
     ],
-    "shinoookubo": [
+    "shinokubo": [
       {
         "to": "shinjuku",
         "weight": 13,
@@ -10091,7 +10105,7 @@
     ],
     "takadanobaba": [
       {
-        "to": "shinoookubo",
+        "to": "shinokubo",
         "weight": 14,
         "fareWeight": 14,
         "chihou": false
