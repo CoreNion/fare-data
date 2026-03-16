@@ -4,7 +4,8 @@
     {
       "properties": {
         "name": "池袋",
-        "id": "ikebukuro"
+        "id": "ikebukuro",
+        "sortKey": 2
       },
       "type": "Feature",
       "geometry": {
@@ -18,7 +19,8 @@
     {
       "properties": {
         "name": "板橋",
-        "id": "itabashi"
+        "id": "itabashi",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -32,7 +34,8 @@
     {
       "properties": {
         "name": "十条",
-        "id": "jujo"
+        "id": "jujo",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -46,7 +49,8 @@
     {
       "properties": {
         "name": "赤羽",
-        "id": "akabane"
+        "id": "akabane",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -60,7 +64,8 @@
     {
       "properties": {
         "name": "神田",
-        "id": "kanda"
+        "id": "kanda",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -74,7 +79,8 @@
     {
       "properties": {
         "name": "御茶ノ水",
-        "id": "ochanomizu"
+        "id": "ochanomizu",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -88,7 +94,8 @@
     {
       "properties": {
         "name": "水道橋",
-        "id": "suidobashi"
+        "id": "suidobashi",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -102,7 +109,8 @@
     {
       "properties": {
         "name": "飯田橋",
-        "id": "iidabashi"
+        "id": "iidabashi",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -116,7 +124,8 @@
     {
       "properties": {
         "name": "市ヶ谷",
-        "id": "ichigaya"
+        "id": "ichigaya",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -130,7 +139,8 @@
     {
       "properties": {
         "name": "四ツ谷",
-        "id": "yotsuya"
+        "id": "yotsuya",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -144,7 +154,8 @@
     {
       "properties": {
         "name": "信濃町",
-        "id": "shinanomachi"
+        "id": "shinanomachi",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -158,7 +169,8 @@
     {
       "properties": {
         "name": "千駄ヶ谷",
-        "id": "sendagaya"
+        "id": "sendagaya",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -172,7 +184,8 @@
     {
       "properties": {
         "name": "代々木",
-        "id": "yoyogi"
+        "id": "yoyogi",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -186,7 +199,8 @@
     {
       "properties": {
         "name": "新宿",
-        "id": "shinjuku"
+        "id": "shinjuku",
+        "sortKey": 2
       },
       "type": "Feature",
       "geometry": {
@@ -200,7 +214,8 @@
     {
       "properties": {
         "name": "大久保",
-        "id": "okubo-chuo"
+        "id": "okubo-chuo",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -214,7 +229,8 @@
     {
       "properties": {
         "name": "東中野",
-        "id": "higashinakano"
+        "id": "higashinakano",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -228,7 +244,8 @@
     {
       "properties": {
         "name": "中野",
-        "id": "nakano"
+        "id": "nakano",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -242,7 +259,8 @@
     {
       "properties": {
         "name": "高円寺",
-        "id": "koenji"
+        "id": "koenji",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -256,7 +274,8 @@
     {
       "properties": {
         "name": "阿佐ヶ谷",
-        "id": "asagaya"
+        "id": "asagaya",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -270,7 +289,8 @@
     {
       "properties": {
         "name": "荻窪",
-        "id": "ogikubo"
+        "id": "ogikubo",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -284,7 +304,8 @@
     {
       "properties": {
         "name": "西荻窪",
-        "id": "nishiogikubo"
+        "id": "nishiogikubo",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -298,7 +319,8 @@
     {
       "properties": {
         "name": "吉祥寺",
-        "id": "kichijoji"
+        "id": "kichijoji",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -312,7 +334,8 @@
     {
       "properties": {
         "name": "三鷹",
-        "id": "mitaka"
+        "id": "mitaka",
+        "sortKey": 3
       },
       "type": "Feature",
       "geometry": {
@@ -326,7 +349,8 @@
     {
       "properties": {
         "name": "武蔵境",
-        "id": "musashisakai"
+        "id": "musashisakai",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -340,7 +364,8 @@
     {
       "properties": {
         "name": "東小金井",
-        "id": "higashikoganei"
+        "id": "higashikoganei",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -354,7 +379,8 @@
     {
       "properties": {
         "name": "武蔵小金井",
-        "id": "musashikoganei"
+        "id": "musashikoganei",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -368,7 +394,8 @@
     {
       "properties": {
         "name": "国分寺",
-        "id": "kokubunji"
+        "id": "kokubunji",
+        "sortKey": 3
       },
       "type": "Feature",
       "geometry": {
@@ -382,7 +409,8 @@
     {
       "properties": {
         "name": "西国分寺",
-        "id": "nishikokubunji"
+        "id": "nishikokubunji",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -396,7 +424,8 @@
     {
       "properties": {
         "name": "国立",
-        "id": "kunitachi"
+        "id": "kunitachi",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -410,7 +439,8 @@
     {
       "properties": {
         "name": "立川",
-        "id": "tachikawa"
+        "id": "tachikawa",
+        "sortKey": 2
       },
       "type": "Feature",
       "geometry": {
@@ -424,7 +454,8 @@
     {
       "properties": {
         "name": "日野",
-        "id": "hino"
+        "id": "hino",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -438,7 +469,8 @@
     {
       "properties": {
         "name": "豊田",
-        "id": "toyoda"
+        "id": "toyoda",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -452,7 +484,8 @@
     {
       "properties": {
         "name": "八王子",
-        "id": "hachioji"
+        "id": "hachioji",
+        "sortKey": 2
       },
       "type": "Feature",
       "geometry": {
@@ -466,7 +499,8 @@
     {
       "properties": {
         "name": "西八王子",
-        "id": "nishihachioji"
+        "id": "nishihachioji",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -480,7 +514,8 @@
     {
       "properties": {
         "name": "高尾",
-        "id": "takao"
+        "id": "takao",
+        "sortKey": 3
       },
       "type": "Feature",
       "geometry": {
@@ -494,7 +529,8 @@
     {
       "properties": {
         "name": "相模湖",
-        "id": "sagamiko"
+        "id": "sagamiko",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -508,7 +544,8 @@
     {
       "properties": {
         "name": "藤野",
-        "id": "fujino"
+        "id": "fujino",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -522,7 +559,8 @@
     {
       "properties": {
         "name": "上野原",
-        "id": "uenohara"
+        "id": "uenohara",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -536,7 +574,8 @@
     {
       "properties": {
         "name": "四方津",
-        "id": "shiotsu"
+        "id": "shiotsu",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -550,7 +589,8 @@
     {
       "properties": {
         "name": "梁川",
-        "id": "yanagawa"
+        "id": "yanagawa",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -564,7 +604,8 @@
     {
       "properties": {
         "name": "鳥沢",
-        "id": "torisawa"
+        "id": "torisawa",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -578,7 +619,8 @@
     {
       "properties": {
         "name": "大月",
-        "id": "otsuki"
+        "id": "otsuki",
+        "sortKey": 3
       },
       "type": "Feature",
       "geometry": {
@@ -592,7 +634,8 @@
     {
       "properties": {
         "name": "初狩",
-        "id": "hatsukari"
+        "id": "hatsukari",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -606,7 +649,8 @@
     {
       "properties": {
         "name": "笹子",
-        "id": "sasago"
+        "id": "sasago",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -620,7 +664,8 @@
     {
       "properties": {
         "name": "甲斐大和",
-        "id": "kaiyamato"
+        "id": "kaiyamato",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -634,7 +679,8 @@
     {
       "properties": {
         "name": "勝沼ぶどう郷",
-        "id": "katsunumabudoukyo"
+        "id": "katsunumabudoukyo",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -648,7 +694,8 @@
     {
       "properties": {
         "name": "塩山",
-        "id": "enzan"
+        "id": "enzan",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -662,7 +709,8 @@
     {
       "properties": {
         "name": "東山梨",
-        "id": "higashiyamanashi"
+        "id": "higashiyamanashi",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -676,7 +724,8 @@
     {
       "properties": {
         "name": "山梨市",
-        "id": "yamanashishi"
+        "id": "yamanashishi",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -690,7 +739,8 @@
     {
       "properties": {
         "name": "春日居町",
-        "id": "kasugaicho"
+        "id": "kasugaicho",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -704,7 +754,8 @@
     {
       "properties": {
         "name": "石和温泉",
-        "id": "isawaonsen"
+        "id": "isawaonsen",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -718,7 +769,8 @@
     {
       "properties": {
         "name": "酒折",
-        "id": "sakaori"
+        "id": "sakaori",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -732,7 +784,8 @@
     {
       "properties": {
         "name": "甲府",
-        "id": "kofu"
+        "id": "kofu",
+        "sortKey": 2
       },
       "type": "Feature",
       "geometry": {
@@ -746,7 +799,8 @@
     {
       "properties": {
         "name": "北八王子",
-        "id": "kitahachioji"
+        "id": "kitahachioji",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -760,7 +814,8 @@
     {
       "properties": {
         "name": "小宮",
-        "id": "komiya"
+        "id": "komiya",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -774,7 +829,8 @@
     {
       "properties": {
         "name": "拝島",
-        "id": "haijima"
+        "id": "haijima",
+        "sortKey": 3
       },
       "type": "Feature",
       "geometry": {
@@ -788,7 +844,8 @@
     {
       "properties": {
         "name": "東福生",
-        "id": "higashifussa"
+        "id": "higashifussa",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -802,7 +859,8 @@
     {
       "properties": {
         "name": "箱根ヶ崎",
-        "id": "hakonegasaki"
+        "id": "hakonegasaki",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -816,7 +874,8 @@
     {
       "properties": {
         "name": "金子",
-        "id": "kaneko"
+        "id": "kaneko",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -830,7 +889,8 @@
     {
       "properties": {
         "name": "東飯能",
-        "id": "higashihano"
+        "id": "higashihano",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -844,7 +904,8 @@
     {
       "properties": {
         "name": "高麗川",
-        "id": "komagawa"
+        "id": "komagawa",
+        "sortKey": 3
       },
       "type": "Feature",
       "geometry": {
@@ -858,7 +919,8 @@
     {
       "properties": {
         "name": "毛呂",
-        "id": "moro"
+        "id": "moro",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -872,7 +934,8 @@
     {
       "properties": {
         "name": "越生",
-        "id": "ogose"
+        "id": "ogose",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -886,7 +949,8 @@
     {
       "properties": {
         "name": "明覚",
-        "id": "myokaku"
+        "id": "myokaku",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -900,7 +964,8 @@
     {
       "properties": {
         "name": "小川町",
-        "id": "ogawamachi"
+        "id": "ogawamachi",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -914,7 +979,8 @@
     {
       "properties": {
         "name": "竹沢",
-        "id": "takezawa"
+        "id": "takezawa",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -928,7 +994,8 @@
     {
       "properties": {
         "name": "折原",
-        "id": "orihara"
+        "id": "orihara",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -942,7 +1009,8 @@
     {
       "properties": {
         "name": "寄居",
-        "id": "yorii"
+        "id": "yorii",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -956,7 +1024,8 @@
     {
       "properties": {
         "name": "用土",
-        "id": "yodo"
+        "id": "yodo",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -970,7 +1039,8 @@
     {
       "properties": {
         "name": "松久",
-        "id": "matsuhisa"
+        "id": "matsuhisa",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -984,7 +1054,8 @@
     {
       "properties": {
         "name": "児玉",
-        "id": "kodama"
+        "id": "kodama",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -998,7 +1069,8 @@
     {
       "properties": {
         "name": "丹荘",
-        "id": "tansyo"
+        "id": "tansyo",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -1012,7 +1084,8 @@
     {
       "properties": {
         "name": "群馬藤岡",
-        "id": "gunmafujioka"
+        "id": "gunmafujioka",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -1026,7 +1099,8 @@
     {
       "properties": {
         "name": "北藤岡",
-        "id": "kitafujioka"
+        "id": "kitafujioka",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -1040,7 +1114,8 @@
     {
       "properties": {
         "name": "倉賀野",
-        "id": "kuragano"
+        "id": "kuragano",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -1054,7 +1129,8 @@
     {
       "properties": {
         "name": "熱海",
-        "id": "atami"
+        "id": "atami",
+        "sortKey": 2
       },
       "type": "Feature",
       "geometry": {
@@ -1068,7 +1144,8 @@
     {
       "properties": {
         "name": "来宮",
-        "id": "kinomiya"
+        "id": "kinomiya",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -1082,7 +1159,8 @@
     {
       "properties": {
         "name": "伊豆多賀",
-        "id": "izutaga"
+        "id": "izutaga",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -1096,7 +1174,8 @@
     {
       "properties": {
         "name": "網代",
-        "id": "ajiro"
+        "id": "ajiro",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -1110,7 +1189,8 @@
     {
       "properties": {
         "name": "宇佐美",
-        "id": "usami"
+        "id": "usami",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -1124,7 +1204,8 @@
     {
       "properties": {
         "name": "伊東",
-        "id": "ito"
+        "id": "ito",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -1138,7 +1219,8 @@
     {
       "properties": {
         "name": "熊川",
-        "id": "kumagawa"
+        "id": "kumagawa",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -1152,7 +1234,8 @@
     {
       "properties": {
         "name": "東秋留",
-        "id": "higashiakiru"
+        "id": "higashiakiru",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -1166,7 +1249,8 @@
     {
       "properties": {
         "name": "秋川",
-        "id": "akigawa"
+        "id": "akigawa",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -1180,7 +1264,8 @@
     {
       "properties": {
         "name": "武蔵引田",
-        "id": "musashihikida"
+        "id": "musashihikida",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -1194,7 +1279,8 @@
     {
       "properties": {
         "name": "武蔵増戸",
-        "id": "musashimasuko"
+        "id": "musashimasuko",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -1208,7 +1294,8 @@
     {
       "properties": {
         "name": "武蔵五日市",
-        "id": "musashiitsukaichi"
+        "id": "musashiitsukaichi",
+        "sortKey": 3
       },
       "type": "Feature",
       "geometry": {
@@ -1222,7 +1309,8 @@
     {
       "properties": {
         "name": "日暮里",
-        "id": "nippori"
+        "id": "nippori",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -1236,7 +1324,8 @@
     {
       "properties": {
         "name": "三河島",
-        "id": "mikawashima"
+        "id": "mikawashima",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -1250,7 +1339,8 @@
     {
       "properties": {
         "name": "南千住",
-        "id": "minamisenju"
+        "id": "minamisenju",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -1264,7 +1354,8 @@
     {
       "properties": {
         "name": "北千住",
-        "id": "kitasenju"
+        "id": "kitasenju",
+        "sortKey": 2
       },
       "type": "Feature",
       "geometry": {
@@ -1278,7 +1369,8 @@
     {
       "properties": {
         "name": "綾瀬",
-        "id": "ayase"
+        "id": "ayase",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -1292,7 +1384,8 @@
     {
       "properties": {
         "name": "亀有",
-        "id": "kameari"
+        "id": "kameari",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -1306,7 +1399,8 @@
     {
       "properties": {
         "name": "金町",
-        "id": "kanamachi"
+        "id": "kanamachi",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -1320,7 +1414,8 @@
     {
       "properties": {
         "name": "松戸",
-        "id": "matsudo"
+        "id": "matsudo",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -1334,7 +1429,8 @@
     {
       "properties": {
         "name": "北松戸",
-        "id": "kitamatsudo"
+        "id": "kitamatsudo",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -1348,7 +1444,8 @@
     {
       "properties": {
         "name": "馬橋",
-        "id": "mabashi"
+        "id": "mabashi",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -1362,7 +1459,8 @@
     {
       "properties": {
         "name": "新松戸",
-        "id": "shinmatsudo"
+        "id": "shinmatsudo",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -1376,7 +1474,8 @@
     {
       "properties": {
         "name": "北小金",
-        "id": "kitakogane"
+        "id": "kitakogane",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -1390,7 +1489,8 @@
     {
       "properties": {
         "name": "南柏",
-        "id": "minamikashiwa"
+        "id": "minamikashiwa",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -1404,7 +1504,8 @@
     {
       "properties": {
         "name": "柏",
-        "id": "kashiwa"
+        "id": "kashiwa",
+        "sortKey": 3
       },
       "type": "Feature",
       "geometry": {
@@ -1418,7 +1519,8 @@
     {
       "properties": {
         "name": "北柏",
-        "id": "kitakashiwa"
+        "id": "kitakashiwa",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -1432,7 +1534,8 @@
     {
       "properties": {
         "name": "我孫子",
-        "id": "abiko"
+        "id": "abiko",
+        "sortKey": 3
       },
       "type": "Feature",
       "geometry": {
@@ -1446,7 +1549,8 @@
     {
       "properties": {
         "name": "天王台",
-        "id": "tennoudai"
+        "id": "tennoudai",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -1460,7 +1564,8 @@
     {
       "properties": {
         "name": "取手",
-        "id": "toride"
+        "id": "toride",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -1474,7 +1579,8 @@
     {
       "properties": {
         "name": "藤代",
-        "id": "fujishiro"
+        "id": "fujishiro",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -1488,7 +1594,8 @@
     {
       "properties": {
         "name": "龍ケ崎市",
-        "id": "ryugasakishi"
+        "id": "ryugasakishi",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -1502,7 +1609,8 @@
     {
       "properties": {
         "name": "牛久",
-        "id": "ushiku"
+        "id": "ushiku",
+        "sortKey": 3
       },
       "type": "Feature",
       "geometry": {
@@ -1516,7 +1624,8 @@
     {
       "properties": {
         "name": "ひたち野うしく",
-        "id": "hitachinoushiku"
+        "id": "hitachinoushiku",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -1530,7 +1639,8 @@
     {
       "properties": {
         "name": "荒川沖",
-        "id": "arakawaoki"
+        "id": "arakawaoki",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -1544,7 +1654,8 @@
     {
       "properties": {
         "name": "土浦",
-        "id": "tsuchiura"
+        "id": "tsuchiura",
+        "sortKey": 2
       },
       "type": "Feature",
       "geometry": {
@@ -1558,7 +1669,8 @@
     {
       "properties": {
         "name": "神立",
-        "id": "kandatsu"
+        "id": "kandatsu",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -1572,7 +1684,8 @@
     {
       "properties": {
         "name": "高浜",
-        "id": "takahama"
+        "id": "takahama",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -1586,7 +1699,8 @@
     {
       "properties": {
         "name": "石岡",
-        "id": "ishioka"
+        "id": "ishioka",
+        "sortKey": 3
       },
       "type": "Feature",
       "geometry": {
@@ -1600,7 +1714,8 @@
     {
       "properties": {
         "name": "羽鳥",
-        "id": "hatori"
+        "id": "hatori",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -1614,7 +1729,8 @@
     {
       "properties": {
         "name": "岩間",
-        "id": "iwama"
+        "id": "iwama",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -1628,7 +1744,8 @@
     {
       "properties": {
         "name": "友部",
-        "id": "tomobe"
+        "id": "tomobe",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -1642,7 +1759,8 @@
     {
       "properties": {
         "name": "内原",
-        "id": "uchihara"
+        "id": "uchihara",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -1656,7 +1774,8 @@
     {
       "properties": {
         "name": "赤塚",
-        "id": "akatsuka"
+        "id": "akatsuka",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -1670,7 +1789,8 @@
     {
       "properties": {
         "name": "偕楽園",
-        "id": "kairakuen"
+        "id": "kairakuen",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -1684,7 +1804,8 @@
     {
       "properties": {
         "name": "水戸",
-        "id": "mito"
+        "id": "mito",
+        "sortKey": 2
       },
       "type": "Feature",
       "geometry": {
@@ -1698,7 +1819,8 @@
     {
       "properties": {
         "name": "勝田",
-        "id": "katsuta"
+        "id": "katsuta",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -1712,7 +1834,8 @@
     {
       "properties": {
         "name": "高崎",
-        "id": "takasaki"
+        "id": "takasaki",
+        "sortKey": 2
       },
       "type": "Feature",
       "geometry": {
@@ -1726,7 +1849,8 @@
     {
       "properties": {
         "name": "高崎問屋町",
-        "id": "takasakitonyacho"
+        "id": "takasakitonyacho",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -1740,7 +1864,8 @@
     {
       "properties": {
         "name": "井野",
-        "id": "ino"
+        "id": "ino",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -1754,7 +1879,8 @@
     {
       "properties": {
         "name": "新前橋",
-        "id": "shinmaebashi"
+        "id": "shinmaebashi",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -1768,7 +1894,8 @@
     {
       "properties": {
         "name": "群馬総社",
-        "id": "gunmasosya"
+        "id": "gunmasosya",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -1782,7 +1909,8 @@
     {
       "properties": {
         "name": "八木原",
-        "id": "yagihara"
+        "id": "yagihara",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -1796,7 +1924,8 @@
     {
       "properties": {
         "name": "渋川",
-        "id": "shibukawa"
+        "id": "shibukawa",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -1810,7 +1939,8 @@
     {
       "properties": {
         "name": "大宮",
-        "id": "omiya"
+        "id": "omiya",
+        "sortKey": 2
       },
       "type": "Feature",
       "geometry": {
@@ -1824,7 +1954,8 @@
     {
       "properties": {
         "name": "日進",
-        "id": "nisshin-kawagoe"
+        "id": "nisshin-kawagoe",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -1838,7 +1969,8 @@
     {
       "properties": {
         "name": "西大宮",
-        "id": "nishiomiya"
+        "id": "nishiomiya",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -1852,7 +1984,8 @@
     {
       "properties": {
         "name": "指扇",
-        "id": "sashiogi"
+        "id": "sashiogi",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -1866,7 +1999,8 @@
     {
       "properties": {
         "name": "南古谷",
-        "id": "minamifuruya"
+        "id": "minamifuruya",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -1880,7 +2014,8 @@
     {
       "properties": {
         "name": "川越",
-        "id": "kawagoe"
+        "id": "kawagoe",
+        "sortKey": 3
       },
       "type": "Feature",
       "geometry": {
@@ -1894,7 +2029,8 @@
     {
       "properties": {
         "name": "西川越",
-        "id": "nishikawagoe"
+        "id": "nishikawagoe",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -1908,7 +2044,8 @@
     {
       "properties": {
         "name": "的場",
-        "id": "matoba"
+        "id": "matoba",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -1922,7 +2059,8 @@
     {
       "properties": {
         "name": "笠幡",
-        "id": "kasahata"
+        "id": "kasahata",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -1936,7 +2074,8 @@
     {
       "properties": {
         "name": "武蔵高萩",
-        "id": "musashitakahagi"
+        "id": "musashitakahagi",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -1950,7 +2089,8 @@
     {
       "properties": {
         "name": "東京",
-        "id": "tokyo"
+        "id": "tokyo",
+        "sortKey": 2
       },
       "type": "Feature",
       "geometry": {
@@ -1964,7 +2104,8 @@
     {
       "properties": {
         "name": "八丁堀",
-        "id": "hachobori"
+        "id": "hachobori",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -1978,7 +2119,8 @@
     {
       "properties": {
         "name": "越中島",
-        "id": "echujima"
+        "id": "echujima",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -1992,7 +2134,8 @@
     {
       "properties": {
         "name": "潮見",
-        "id": "shiomi"
+        "id": "shiomi",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -2006,7 +2149,8 @@
     {
       "properties": {
         "name": "新木場",
-        "id": "shinkiba"
+        "id": "shinkiba",
+        "sortKey": 3
       },
       "type": "Feature",
       "geometry": {
@@ -2020,7 +2164,8 @@
     {
       "properties": {
         "name": "葛西臨海公園",
-        "id": "kasairinkaipark"
+        "id": "kasairinkaipark",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -2034,7 +2179,8 @@
     {
       "properties": {
         "name": "舞浜",
-        "id": "maihama"
+        "id": "maihama",
+        "sortKey": 2
       },
       "type": "Feature",
       "geometry": {
@@ -2048,7 +2194,8 @@
     {
       "properties": {
         "name": "新浦安",
-        "id": "shinurayasu"
+        "id": "shinurayasu",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -2062,7 +2209,8 @@
     {
       "properties": {
         "name": "市川塩浜",
-        "id": "ichikawashiohama"
+        "id": "ichikawashiohama",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -2076,7 +2224,8 @@
     {
       "properties": {
         "name": "二俣新町",
-        "id": "futamatashinmachi"
+        "id": "futamatashinmachi",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -2090,7 +2239,8 @@
     {
       "properties": {
         "name": "南船橋",
-        "id": "minamifunabashi"
+        "id": "minamifunabashi",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -2104,7 +2254,8 @@
     {
       "properties": {
         "name": "新習志野",
-        "id": "shinnarashino"
+        "id": "shinnarashino",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -2118,7 +2269,8 @@
     {
       "properties": {
         "name": "幕張豊砂",
-        "id": "makuharitoyosuna"
+        "id": "makuharitoyosuna",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -2132,7 +2284,8 @@
     {
       "properties": {
         "name": "海浜幕張",
-        "id": "kaihinmakuhari"
+        "id": "kaihinmakuhari",
+        "sortKey": 2
       },
       "type": "Feature",
       "geometry": {
@@ -2146,7 +2299,8 @@
     {
       "properties": {
         "name": "検見川浜",
-        "id": "kemigawahama"
+        "id": "kemigawahama",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -2160,7 +2314,8 @@
     {
       "properties": {
         "name": "稲毛海岸",
-        "id": "inagekaigan"
+        "id": "inagekaigan",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -2174,7 +2329,8 @@
     {
       "properties": {
         "name": "千葉みなと",
-        "id": "chibaminato"
+        "id": "chibaminato",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -2188,7 +2344,8 @@
     {
       "properties": {
         "name": "蘇我",
-        "id": "soga"
+        "id": "soga",
+        "sortKey": 3
       },
       "type": "Feature",
       "geometry": {
@@ -2202,7 +2359,8 @@
     {
       "properties": {
         "name": "西船橋",
-        "id": "nishifunabashi"
+        "id": "nishifunabashi",
+        "sortKey": 3
       },
       "type": "Feature",
       "geometry": {
@@ -2216,7 +2374,8 @@
     {
       "properties": {
         "name": "小山",
-        "id": "oyama"
+        "id": "oyama",
+        "sortKey": 3
       },
       "type": "Feature",
       "geometry": {
@@ -2230,7 +2389,8 @@
     {
       "properties": {
         "name": "小田林",
-        "id": "odabayashi"
+        "id": "odabayashi",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -2244,7 +2404,8 @@
     {
       "properties": {
         "name": "結城",
-        "id": "yuki"
+        "id": "yuki",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -2258,7 +2419,8 @@
     {
       "properties": {
         "name": "東結城",
-        "id": "higashiyuki"
+        "id": "higashiyuki",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -2272,7 +2434,8 @@
     {
       "properties": {
         "name": "川島",
-        "id": "kawashima"
+        "id": "kawashima",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -2286,7 +2449,8 @@
     {
       "properties": {
         "name": "玉戸",
-        "id": "tamado"
+        "id": "tamado",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -2300,7 +2464,8 @@
     {
       "properties": {
         "name": "下館",
-        "id": "shimodate"
+        "id": "shimodate",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -2314,7 +2479,8 @@
     {
       "properties": {
         "name": "新治",
-        "id": "nihari"
+        "id": "nihari",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -2328,7 +2494,8 @@
     {
       "properties": {
         "name": "大和",
-        "id": "yamato"
+        "id": "yamato",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -2342,7 +2509,8 @@
     {
       "properties": {
         "name": "岩瀬",
-        "id": "iwase"
+        "id": "iwase",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -2356,7 +2524,8 @@
     {
       "properties": {
         "name": "羽黒",
-        "id": "haguro"
+        "id": "haguro",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -2370,7 +2539,8 @@
     {
       "properties": {
         "name": "福原",
-        "id": "fukuhara"
+        "id": "fukuhara",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -2384,7 +2554,8 @@
     {
       "properties": {
         "name": "稲田",
-        "id": "inada"
+        "id": "inada",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -2398,7 +2569,8 @@
     {
       "properties": {
         "name": "笠間",
-        "id": "kasama"
+        "id": "kasama",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -2412,7 +2584,8 @@
     {
       "properties": {
         "name": "宍戸",
-        "id": "shishido"
+        "id": "shishido",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -2426,7 +2599,8 @@
     {
       "properties": {
         "name": "府中本町",
-        "id": "fuchuhonmachi"
+        "id": "fuchuhonmachi",
+        "sortKey": 3
       },
       "type": "Feature",
       "geometry": {
@@ -2440,7 +2614,8 @@
     {
       "properties": {
         "name": "北府中",
-        "id": "kitafuchu"
+        "id": "kitafuchu",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -2454,7 +2629,8 @@
     {
       "properties": {
         "name": "新小平",
-        "id": "shinkodaira"
+        "id": "shinkodaira",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -2468,7 +2644,8 @@
     {
       "properties": {
         "name": "新秋津",
-        "id": "shinakitsu"
+        "id": "shinakitsu",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -2482,7 +2659,8 @@
     {
       "properties": {
         "name": "東所沢",
-        "id": "higashitokorozawa"
+        "id": "higashitokorozawa",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -2496,7 +2674,8 @@
     {
       "properties": {
         "name": "新座",
-        "id": "niza"
+        "id": "niza",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -2510,7 +2689,8 @@
     {
       "properties": {
         "name": "北朝霞",
-        "id": "kitaasaka"
+        "id": "kitaasaka",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -2524,7 +2704,8 @@
     {
       "properties": {
         "name": "西浦和",
-        "id": "nishiurawa"
+        "id": "nishiurawa",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -2538,7 +2719,8 @@
     {
       "properties": {
         "name": "武蔵浦和",
-        "id": "musashiurawa"
+        "id": "musashiurawa",
+        "sortKey": 3
       },
       "type": "Feature",
       "geometry": {
@@ -2552,7 +2734,8 @@
     {
       "properties": {
         "name": "南浦和",
-        "id": "minamiurawa"
+        "id": "minamiurawa",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -2566,7 +2749,8 @@
     {
       "properties": {
         "name": "東浦和",
-        "id": "higashiurawa"
+        "id": "higashiurawa",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -2580,7 +2764,8 @@
     {
       "properties": {
         "name": "東川口",
-        "id": "higashikawaguchi"
+        "id": "higashikawaguchi",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -2594,7 +2779,8 @@
     {
       "properties": {
         "name": "南越谷",
-        "id": "minamikoshigaya"
+        "id": "minamikoshigaya",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -2608,7 +2794,8 @@
     {
       "properties": {
         "name": "越谷レイクタウン",
-        "id": "koshigayalaketown"
+        "id": "koshigayalaketown",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -2622,7 +2809,8 @@
     {
       "properties": {
         "name": "吉川",
-        "id": "yoshikawa"
+        "id": "yoshikawa",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -2636,7 +2824,8 @@
     {
       "properties": {
         "name": "吉川美南",
-        "id": "yoshikawaminami"
+        "id": "yoshikawaminami",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -2650,7 +2839,8 @@
     {
       "properties": {
         "name": "新三郷",
-        "id": "shinmisato"
+        "id": "shinmisato",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -2664,7 +2854,8 @@
     {
       "properties": {
         "name": "三郷",
-        "id": "misato-musashino"
+        "id": "misato-musashino",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -2678,7 +2869,8 @@
     {
       "properties": {
         "name": "南流山",
-        "id": "minaminagareyama"
+        "id": "minaminagareyama",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -2692,7 +2884,8 @@
     {
       "properties": {
         "name": "新八柱",
-        "id": "shinyahashira"
+        "id": "shinyahashira",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -2706,7 +2899,8 @@
     {
       "properties": {
         "name": "東松戸",
-        "id": "higashimatsudo"
+        "id": "higashimatsudo",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -2720,7 +2914,8 @@
     {
       "properties": {
         "name": "市川大野",
-        "id": "ichikawaono"
+        "id": "ichikawaono",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -2734,7 +2929,8 @@
     {
       "properties": {
         "name": "船橋法典",
-        "id": "funabashihoden"
+        "id": "funabashihoden",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -2748,7 +2944,8 @@
     {
       "properties": {
         "name": "与野",
-        "id": "yono"
+        "id": "yono",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -2762,7 +2959,8 @@
     {
       "properties": {
         "name": "西国立",
-        "id": "nishikunitachi"
+        "id": "nishikunitachi",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -2776,7 +2974,8 @@
     {
       "properties": {
         "name": "矢川",
-        "id": "yagawa"
+        "id": "yagawa",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -2790,7 +2989,8 @@
     {
       "properties": {
         "name": "谷保",
-        "id": "yaho"
+        "id": "yaho",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -2804,7 +3004,8 @@
     {
       "properties": {
         "name": "西府",
-        "id": "nishifu"
+        "id": "nishifu",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -2818,7 +3019,8 @@
     {
       "properties": {
         "name": "分倍河原",
-        "id": "bubaigawara"
+        "id": "bubaigawara",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -2832,7 +3034,8 @@
     {
       "properties": {
         "name": "南多摩",
-        "id": "minamitama"
+        "id": "minamitama",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -2846,7 +3049,8 @@
     {
       "properties": {
         "name": "稲城長沼",
-        "id": "inaginaganuma"
+        "id": "inaginaganuma",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -2860,7 +3064,8 @@
     {
       "properties": {
         "name": "矢野口",
-        "id": "yanokuchi"
+        "id": "yanokuchi",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -2874,7 +3079,8 @@
     {
       "properties": {
         "name": "稲田堤",
-        "id": "inadazutsumi"
+        "id": "inadazutsumi",
+        "sortKey": 3
       },
       "type": "Feature",
       "geometry": {
@@ -2888,7 +3094,8 @@
     {
       "properties": {
         "name": "中野島",
-        "id": "nakanoshima"
+        "id": "nakanoshima",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -2902,7 +3109,8 @@
     {
       "properties": {
         "name": "登戸",
-        "id": "noborito"
+        "id": "noborito",
+        "sortKey": 3
       },
       "type": "Feature",
       "geometry": {
@@ -2916,7 +3124,8 @@
     {
       "properties": {
         "name": "宿河原",
-        "id": "syukugawara"
+        "id": "syukugawara",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -2930,7 +3139,8 @@
     {
       "properties": {
         "name": "久地",
-        "id": "kuji"
+        "id": "kuji",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -2944,7 +3154,8 @@
     {
       "properties": {
         "name": "津田山",
-        "id": "tsudayama"
+        "id": "tsudayama",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -2958,7 +3169,8 @@
     {
       "properties": {
         "name": "武蔵溝ノ口",
-        "id": "musashimizonokuchi"
+        "id": "musashimizonokuchi",
+        "sortKey": 3
       },
       "type": "Feature",
       "geometry": {
@@ -2972,7 +3184,8 @@
     {
       "properties": {
         "name": "武蔵新城",
-        "id": "musashishinjo"
+        "id": "musashishinjo",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -2986,7 +3199,8 @@
     {
       "properties": {
         "name": "武蔵中原",
-        "id": "musashinakahara"
+        "id": "musashinakahara",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -3000,7 +3214,8 @@
     {
       "properties": {
         "name": "武蔵小杉",
-        "id": "musashikosugi"
+        "id": "musashikosugi",
+        "sortKey": 2
       },
       "type": "Feature",
       "geometry": {
@@ -3014,7 +3229,8 @@
     {
       "properties": {
         "name": "向河原",
-        "id": "mukaigawara"
+        "id": "mukaigawara",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -3028,7 +3244,8 @@
     {
       "properties": {
         "name": "平間",
-        "id": "hirama"
+        "id": "hirama",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -3042,7 +3259,8 @@
     {
       "properties": {
         "name": "鹿島田",
-        "id": "kashimada"
+        "id": "kashimada",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -3056,7 +3274,8 @@
     {
       "properties": {
         "name": "矢向",
-        "id": "yako"
+        "id": "yako",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -3070,7 +3289,8 @@
     {
       "properties": {
         "name": "尻手",
-        "id": "shitte"
+        "id": "shitte",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -3084,7 +3304,8 @@
     {
       "properties": {
         "name": "八丁畷",
-        "id": "hachonawate"
+        "id": "hachonawate",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -3098,7 +3319,8 @@
     {
       "properties": {
         "name": "川崎新町",
-        "id": "kawasakishinmachi"
+        "id": "kawasakishinmachi",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -3112,7 +3334,8 @@
     {
       "properties": {
         "name": "小田栄",
-        "id": "odasakae"
+        "id": "odasakae",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -3126,7 +3349,8 @@
     {
       "properties": {
         "name": "浜川崎",
-        "id": "hamakawasaki"
+        "id": "hamakawasaki",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -3140,7 +3364,8 @@
     {
       "properties": {
         "name": "川崎",
-        "id": "kawasaki"
+        "id": "kawasaki",
+        "sortKey": 2
       },
       "type": "Feature",
       "geometry": {
@@ -3154,7 +3379,8 @@
     {
       "properties": {
         "name": "成田",
-        "id": "narita"
+        "id": "narita",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -3168,7 +3394,8 @@
     {
       "properties": {
         "name": "酒々井",
-        "id": "shisui"
+        "id": "shisui",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -3182,7 +3409,8 @@
     {
       "properties": {
         "name": "佐倉",
-        "id": "sakura"
+        "id": "sakura",
+        "sortKey": 3
       },
       "type": "Feature",
       "geometry": {
@@ -3196,7 +3424,8 @@
     {
       "properties": {
         "name": "空港第2ビル",
-        "id": "narita-airport-t2-t3"
+        "id": "narita-airport-t2-t3",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -3210,7 +3439,8 @@
     {
       "properties": {
         "name": "成田空港",
-        "id": "narita-airport-t1"
+        "id": "narita-airport-t1",
+        "sortKey": 2
       },
       "type": "Feature",
       "geometry": {
@@ -3224,7 +3454,8 @@
     {
       "properties": {
         "name": "下総松崎",
-        "id": "shimousamanzaki"
+        "id": "shimousamanzaki",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -3238,7 +3469,8 @@
     {
       "properties": {
         "name": "安食",
-        "id": "ajiki"
+        "id": "ajiki",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -3252,7 +3484,8 @@
     {
       "properties": {
         "name": "小林",
-        "id": "kobayashi-narita"
+        "id": "kobayashi-narita",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -3266,7 +3499,8 @@
     {
       "properties": {
         "name": "木下",
-        "id": "kioroshi"
+        "id": "kioroshi",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -3280,7 +3514,8 @@
     {
       "properties": {
         "name": "布佐",
-        "id": "fusa"
+        "id": "fusa",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -3294,7 +3529,8 @@
     {
       "properties": {
         "name": "湖北",
-        "id": "kohoku"
+        "id": "kohoku",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -3308,7 +3544,8 @@
     {
       "properties": {
         "name": "東我孫子",
-        "id": "higashiabiko"
+        "id": "higashiabiko",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -3322,7 +3559,8 @@
     {
       "properties": {
         "name": "横浜",
-        "id": "yokohama"
+        "id": "yokohama",
+        "sortKey": 2
       },
       "type": "Feature",
       "geometry": {
@@ -3336,7 +3574,8 @@
     {
       "properties": {
         "name": "桜木町",
-        "id": "sakuragicho"
+        "id": "sakuragicho",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -3350,7 +3589,8 @@
     {
       "properties": {
         "name": "関内",
-        "id": "kannai"
+        "id": "kannai",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -3364,7 +3604,8 @@
     {
       "properties": {
         "name": "石川町",
-        "id": "ishikawacho"
+        "id": "ishikawacho",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -3378,7 +3619,8 @@
     {
       "properties": {
         "name": "山手",
-        "id": "yamate"
+        "id": "yamate",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -3392,7 +3634,8 @@
     {
       "properties": {
         "name": "根岸",
-        "id": "negishi-negishi"
+        "id": "negishi-negishi",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -3406,7 +3649,8 @@
     {
       "properties": {
         "name": "磯子",
-        "id": "isogo"
+        "id": "isogo",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -3420,7 +3664,8 @@
     {
       "properties": {
         "name": "新杉田",
-        "id": "shinsugita"
+        "id": "shinsugita",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -3434,7 +3679,8 @@
     {
       "properties": {
         "name": "洋光台",
-        "id": "yokodai"
+        "id": "yokodai",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -3448,7 +3694,8 @@
     {
       "properties": {
         "name": "港南台",
-        "id": "konandai"
+        "id": "konandai",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -3462,7 +3709,8 @@
     {
       "properties": {
         "name": "本郷台",
-        "id": "hongodai"
+        "id": "hongodai",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -3476,7 +3724,8 @@
     {
       "properties": {
         "name": "大船",
-        "id": "ofuna"
+        "id": "ofuna",
+        "sortKey": 3
       },
       "type": "Feature",
       "geometry": {
@@ -3490,7 +3739,8 @@
     {
       "properties": {
         "name": "西立川",
-        "id": "nishitachikawa"
+        "id": "nishitachikawa",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -3504,7 +3754,8 @@
     {
       "properties": {
         "name": "東中神",
-        "id": "higashinakagami"
+        "id": "higashinakagami",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -3518,7 +3769,8 @@
     {
       "properties": {
         "name": "中神",
-        "id": "nakagami"
+        "id": "nakagami",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -3532,7 +3784,8 @@
     {
       "properties": {
         "name": "昭島",
-        "id": "akishima"
+        "id": "akishima",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -3546,7 +3799,8 @@
     {
       "properties": {
         "name": "牛浜",
-        "id": "ushihama"
+        "id": "ushihama",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -3560,7 +3814,8 @@
     {
       "properties": {
         "name": "福生",
-        "id": "fussa"
+        "id": "fussa",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -3574,7 +3829,8 @@
     {
       "properties": {
         "name": "羽村",
-        "id": "hamura"
+        "id": "hamura",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -3588,7 +3844,8 @@
     {
       "properties": {
         "name": "小作",
-        "id": "ozaku"
+        "id": "ozaku",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -3602,7 +3859,8 @@
     {
       "properties": {
         "name": "河辺",
-        "id": "kabe"
+        "id": "kabe",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -3616,7 +3874,8 @@
     {
       "properties": {
         "name": "東青梅",
-        "id": "higashiome"
+        "id": "higashiome",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -3630,7 +3889,8 @@
     {
       "properties": {
         "name": "青梅",
-        "id": "ome"
+        "id": "ome",
+        "sortKey": 3
       },
       "type": "Feature",
       "geometry": {
@@ -3644,7 +3904,8 @@
     {
       "properties": {
         "name": "宮ノ平",
-        "id": "miyanohira"
+        "id": "miyanohira",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -3658,7 +3919,8 @@
     {
       "properties": {
         "name": "日向和田",
-        "id": "hinatawada"
+        "id": "hinatawada",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -3672,7 +3934,8 @@
     {
       "properties": {
         "name": "石神前",
-        "id": "ishigamimae"
+        "id": "ishigamimae",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -3686,7 +3949,8 @@
     {
       "properties": {
         "name": "二俣尾",
-        "id": "futamatao"
+        "id": "futamatao",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -3700,7 +3964,8 @@
     {
       "properties": {
         "name": "軍畑",
-        "id": "ikusabata"
+        "id": "ikusabata",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -3714,7 +3979,8 @@
     {
       "properties": {
         "name": "沢井",
-        "id": "sawai"
+        "id": "sawai",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -3728,7 +3994,8 @@
     {
       "properties": {
         "name": "御嶽",
-        "id": "mitake"
+        "id": "mitake",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -3742,7 +4009,8 @@
     {
       "properties": {
         "name": "川井",
-        "id": "kawai"
+        "id": "kawai",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -3756,7 +4024,8 @@
     {
       "properties": {
         "name": "古里",
-        "id": "kori"
+        "id": "kori",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -3770,7 +4039,8 @@
     {
       "properties": {
         "name": "鳩ノ巣",
-        "id": "hatonosu"
+        "id": "hatonosu",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -3784,7 +4054,8 @@
     {
       "properties": {
         "name": "白丸",
-        "id": "shiromaru"
+        "id": "shiromaru",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -3798,7 +4069,8 @@
     {
       "properties": {
         "name": "奥多摩",
-        "id": "okutama"
+        "id": "okutama",
+        "sortKey": 3
       },
       "type": "Feature",
       "geometry": {
@@ -3812,7 +4084,8 @@
     {
       "properties": {
         "name": "思川",
-        "id": "omoigawa"
+        "id": "omoigawa",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -3826,7 +4099,8 @@
     {
       "properties": {
         "name": "栃木",
-        "id": "tochigi"
+        "id": "tochigi",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -3840,7 +4114,8 @@
     {
       "properties": {
         "name": "大平下",
-        "id": "ohirashita"
+        "id": "ohirashita",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -3854,7 +4129,8 @@
     {
       "properties": {
         "name": "岩舟",
-        "id": "iwafune"
+        "id": "iwafune",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -3868,7 +4144,8 @@
     {
       "properties": {
         "name": "佐野",
-        "id": "sano"
+        "id": "sano",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -3882,7 +4159,8 @@
     {
       "properties": {
         "name": "富田",
-        "id": "tomita-ryomo"
+        "id": "tomita-ryomo",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -3896,7 +4174,8 @@
     {
       "properties": {
         "name": "あしかがフラワーパーク",
-        "id": "ashikagaflowerpark"
+        "id": "ashikagaflowerpark",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -3910,7 +4189,8 @@
     {
       "properties": {
         "name": "足利",
-        "id": "ashikaga"
+        "id": "ashikaga",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -3924,7 +4204,8 @@
     {
       "properties": {
         "name": "山前",
-        "id": "yamamae"
+        "id": "yamamae",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -3938,7 +4219,8 @@
     {
       "properties": {
         "name": "小俣",
-        "id": "omata"
+        "id": "omata",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -3952,7 +4234,8 @@
     {
       "properties": {
         "name": "桐生",
-        "id": "kiryu"
+        "id": "kiryu",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -3966,7 +4249,8 @@
     {
       "properties": {
         "name": "岩宿",
-        "id": "iwajuku"
+        "id": "iwajuku",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -3980,7 +4264,8 @@
     {
       "properties": {
         "name": "国定",
-        "id": "kunisada"
+        "id": "kunisada",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -3994,7 +4279,8 @@
     {
       "properties": {
         "name": "伊勢崎",
-        "id": "isesaki"
+        "id": "isesaki",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -4008,7 +4294,8 @@
     {
       "properties": {
         "name": "駒形",
-        "id": "komagata"
+        "id": "komagata",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -4022,7 +4309,8 @@
     {
       "properties": {
         "name": "前橋大島",
-        "id": "maebashioshima"
+        "id": "maebashioshima",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -4036,7 +4324,8 @@
     {
       "properties": {
         "name": "前橋",
-        "id": "maebashi"
+        "id": "maebashi",
+        "sortKey": 3
       },
       "type": "Feature",
       "geometry": {
@@ -4050,7 +4339,8 @@
     {
       "properties": {
         "name": "茅ヶ崎",
-        "id": "chigasaki"
+        "id": "chigasaki",
+        "sortKey": 3
       },
       "type": "Feature",
       "geometry": {
@@ -4064,7 +4354,8 @@
     {
       "properties": {
         "name": "北茅ヶ崎",
-        "id": "kitachigasaki"
+        "id": "kitachigasaki",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -4078,7 +4369,8 @@
     {
       "properties": {
         "name": "香川",
-        "id": "kagawa"
+        "id": "kagawa",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -4092,7 +4384,8 @@
     {
       "properties": {
         "name": "寒川",
-        "id": "samukawa"
+        "id": "samukawa",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -4106,7 +4399,8 @@
     {
       "properties": {
         "name": "宮山",
-        "id": "miyayama"
+        "id": "miyayama",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -4120,7 +4414,8 @@
     {
       "properties": {
         "name": "倉見",
-        "id": "kurami"
+        "id": "kurami",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -4134,7 +4429,8 @@
     {
       "properties": {
         "name": "門沢橋",
-        "id": "kadosawabashi"
+        "id": "kadosawabashi",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -4148,7 +4444,8 @@
     {
       "properties": {
         "name": "社家",
-        "id": "syake"
+        "id": "syake",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -4162,7 +4459,8 @@
     {
       "properties": {
         "name": "厚木",
-        "id": "atsugi"
+        "id": "atsugi",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -4176,7 +4474,8 @@
     {
       "properties": {
         "name": "海老名",
-        "id": "ebina"
+        "id": "ebina",
+        "sortKey": 3
       },
       "type": "Feature",
       "geometry": {
@@ -4190,7 +4489,8 @@
     {
       "properties": {
         "name": "入谷",
-        "id": "iriya"
+        "id": "iriya",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -4204,7 +4504,8 @@
     {
       "properties": {
         "name": "相武台下",
-        "id": "sobudaishita"
+        "id": "sobudaishita",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -4218,7 +4519,8 @@
     {
       "properties": {
         "name": "下溝",
-        "id": "shimomizo"
+        "id": "shimomizo",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -4232,7 +4534,8 @@
     {
       "properties": {
         "name": "原当麻",
-        "id": "harataima"
+        "id": "harataima",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -4246,7 +4549,8 @@
     {
       "properties": {
         "name": "番田",
-        "id": "banda"
+        "id": "banda",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -4260,7 +4564,8 @@
     {
       "properties": {
         "name": "上溝",
-        "id": "kamimizo"
+        "id": "kamimizo",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -4274,7 +4579,8 @@
     {
       "properties": {
         "name": "南橋本",
-        "id": "minamihashimoto"
+        "id": "minamihashimoto",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -4288,7 +4594,8 @@
     {
       "properties": {
         "name": "橋本",
-        "id": "hashimoto-yokohama"
+        "id": "hashimoto-yokohama",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -4302,7 +4609,8 @@
     {
       "properties": {
         "name": "新日本橋",
-        "id": "shinnihombashi"
+        "id": "shinnihombashi",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -4316,7 +4624,8 @@
     {
       "properties": {
         "name": "馬喰町",
-        "id": "bakurocho"
+        "id": "bakurocho",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -4330,7 +4639,8 @@
     {
       "properties": {
         "name": "錦糸町",
-        "id": "kinshicho"
+        "id": "kinshicho",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -4344,7 +4654,8 @@
     {
       "properties": {
         "name": "亀戸",
-        "id": "kameido"
+        "id": "kameido",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -4358,7 +4669,8 @@
     {
       "properties": {
         "name": "平井",
-        "id": "hirai"
+        "id": "hirai",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -4372,7 +4684,8 @@
     {
       "properties": {
         "name": "新小岩",
-        "id": "shinkoiwa"
+        "id": "shinkoiwa",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -4386,7 +4699,8 @@
     {
       "properties": {
         "name": "小岩",
-        "id": "koiwa"
+        "id": "koiwa",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -4400,7 +4714,8 @@
     {
       "properties": {
         "name": "市川",
-        "id": "ichikawa"
+        "id": "ichikawa",
+        "sortKey": 3
       },
       "type": "Feature",
       "geometry": {
@@ -4414,7 +4729,8 @@
     {
       "properties": {
         "name": "本八幡",
-        "id": "motoyawata"
+        "id": "motoyawata",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -4428,7 +4744,8 @@
     {
       "properties": {
         "name": "下総中山",
-        "id": "shimosonanakayama"
+        "id": "shimosonanakayama",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -4442,7 +4759,8 @@
     {
       "properties": {
         "name": "船橋",
-        "id": "funabashi"
+        "id": "funabashi",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -4456,7 +4774,8 @@
     {
       "properties": {
         "name": "東船橋",
-        "id": "higashifunabashi"
+        "id": "higashifunabashi",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -4470,7 +4789,8 @@
     {
       "properties": {
         "name": "津田沼",
-        "id": "tsudanuma"
+        "id": "tsudanuma",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -4484,7 +4804,8 @@
     {
       "properties": {
         "name": "幕張本郷",
-        "id": "makuharihongo"
+        "id": "makuharihongo",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -4498,7 +4819,8 @@
     {
       "properties": {
         "name": "幕張",
-        "id": "makuhari"
+        "id": "makuhari",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -4512,7 +4834,8 @@
     {
       "properties": {
         "name": "新検見川",
-        "id": "shinkemigawa"
+        "id": "shinkemigawa",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -4526,7 +4849,8 @@
     {
       "properties": {
         "name": "稲毛",
-        "id": "inage"
+        "id": "inage",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -4540,7 +4864,8 @@
     {
       "properties": {
         "name": "西千葉",
-        "id": "nishichiba"
+        "id": "nishichiba",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -4554,7 +4879,8 @@
     {
       "properties": {
         "name": "千葉",
-        "id": "chiba"
+        "id": "chiba",
+        "sortKey": 2
       },
       "type": "Feature",
       "geometry": {
@@ -4568,7 +4894,8 @@
     {
       "properties": {
         "name": "東千葉",
-        "id": "higashichiba"
+        "id": "higashichiba",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -4582,7 +4909,8 @@
     {
       "properties": {
         "name": "都賀",
-        "id": "tsuga"
+        "id": "tsuga",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -4596,7 +4924,8 @@
     {
       "properties": {
         "name": "四街道",
-        "id": "yotsukaido"
+        "id": "yotsukaido",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -4610,7 +4939,8 @@
     {
       "properties": {
         "name": "物井",
-        "id": "monoi"
+        "id": "monoi",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -4624,7 +4954,8 @@
     {
       "properties": {
         "name": "南酒々井",
-        "id": "minamishisui"
+        "id": "minamishisui",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -4638,7 +4969,8 @@
     {
       "properties": {
         "name": "榎戸",
-        "id": "enokido"
+        "id": "enokido",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -4652,7 +4984,8 @@
     {
       "properties": {
         "name": "八街",
-        "id": "yachimata"
+        "id": "yachimata",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -4666,7 +4999,8 @@
     {
       "properties": {
         "name": "日向",
-        "id": "hyuga"
+        "id": "hyuga",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -4680,7 +5014,8 @@
     {
       "properties": {
         "name": "成東",
-        "id": "naruto"
+        "id": "naruto",
+        "sortKey": 3
       },
       "type": "Feature",
       "geometry": {
@@ -4694,7 +5029,8 @@
     {
       "properties": {
         "name": "秋葉原",
-        "id": "akihabara"
+        "id": "akihabara",
+        "sortKey": 2
       },
       "type": "Feature",
       "geometry": {
@@ -4708,7 +5044,8 @@
     {
       "properties": {
         "name": "浅草橋",
-        "id": "asakusabashi"
+        "id": "asakusabashi",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -4722,7 +5059,8 @@
     {
       "properties": {
         "name": "両国",
-        "id": "ryogoku"
+        "id": "ryogoku",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -4736,7 +5074,8 @@
     {
       "properties": {
         "name": "本千葉",
-        "id": "honchiba"
+        "id": "honchiba",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -4750,7 +5089,8 @@
     {
       "properties": {
         "name": "鎌取",
-        "id": "kamatori"
+        "id": "kamatori",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -4764,7 +5104,8 @@
     {
       "properties": {
         "name": "誉田",
-        "id": "honda"
+        "id": "honda",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -4778,7 +5119,8 @@
     {
       "properties": {
         "name": "土気",
-        "id": "toke"
+        "id": "toke",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -4792,7 +5134,8 @@
     {
       "properties": {
         "name": "大網",
-        "id": "oami"
+        "id": "oami",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -4806,7 +5149,8 @@
     {
       "properties": {
         "name": "永田",
-        "id": "nagata"
+        "id": "nagata",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -4820,7 +5164,8 @@
     {
       "properties": {
         "name": "本納",
-        "id": "honno"
+        "id": "honno",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -4834,7 +5179,8 @@
     {
       "properties": {
         "name": "新茂原",
-        "id": "shinmobara"
+        "id": "shinmobara",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -4848,7 +5194,8 @@
     {
       "properties": {
         "name": "茂原",
-        "id": "mobara"
+        "id": "mobara",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -4862,7 +5209,8 @@
     {
       "properties": {
         "name": "八積",
-        "id": "yatsumi"
+        "id": "yatsumi",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -4876,7 +5224,8 @@
     {
       "properties": {
         "name": "上総一ノ宮",
-        "id": "kazusaichinomiya"
+        "id": "kazusaichinomiya",
+        "sortKey": 3
       },
       "type": "Feature",
       "geometry": {
@@ -4890,7 +5239,8 @@
     {
       "properties": {
         "name": "宮原",
-        "id": "miyahara"
+        "id": "miyahara",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -4904,7 +5254,8 @@
     {
       "properties": {
         "name": "上尾",
-        "id": "ageo"
+        "id": "ageo",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -4918,7 +5269,8 @@
     {
       "properties": {
         "name": "北上尾",
-        "id": "kitaageo"
+        "id": "kitaageo",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -4932,7 +5284,8 @@
     {
       "properties": {
         "name": "桶川",
-        "id": "okegawa"
+        "id": "okegawa",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -4946,7 +5299,8 @@
     {
       "properties": {
         "name": "北本",
-        "id": "kitamoto"
+        "id": "kitamoto",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -4960,7 +5314,8 @@
     {
       "properties": {
         "name": "鴻巣",
-        "id": "konosu"
+        "id": "konosu",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -4974,7 +5329,8 @@
     {
       "properties": {
         "name": "北鴻巣",
-        "id": "kitakonosu"
+        "id": "kitakonosu",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -4988,7 +5344,8 @@
     {
       "properties": {
         "name": "吹上",
-        "id": "fukiage"
+        "id": "fukiage",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -5002,7 +5359,8 @@
     {
       "properties": {
         "name": "行田",
-        "id": "gyoda"
+        "id": "gyoda",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -5016,7 +5374,8 @@
     {
       "properties": {
         "name": "熊谷",
-        "id": "kumagaya"
+        "id": "kumagaya",
+        "sortKey": 3
       },
       "type": "Feature",
       "geometry": {
@@ -5030,7 +5389,8 @@
     {
       "properties": {
         "name": "籠原",
-        "id": "kagohara"
+        "id": "kagohara",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -5044,7 +5404,8 @@
     {
       "properties": {
         "name": "深谷",
-        "id": "fukaya"
+        "id": "fukaya",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -5058,7 +5419,8 @@
     {
       "properties": {
         "name": "岡部",
-        "id": "okabe"
+        "id": "okabe",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -5072,7 +5434,8 @@
     {
       "properties": {
         "name": "本庄",
-        "id": "honjo"
+        "id": "honjo",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -5086,7 +5449,8 @@
     {
       "properties": {
         "name": "神保原",
-        "id": "jinbohara"
+        "id": "jinbohara",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -5100,7 +5464,8 @@
     {
       "properties": {
         "name": "新町",
-        "id": "sinmachi"
+        "id": "sinmachi",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -5114,7 +5479,8 @@
     {
       "properties": {
         "name": "福俵",
-        "id": "fukutawara"
+        "id": "fukutawara",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -5128,7 +5494,8 @@
     {
       "properties": {
         "name": "東金",
-        "id": "togane"
+        "id": "togane",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -5142,7 +5509,8 @@
     {
       "properties": {
         "name": "求名",
-        "id": "gumyo"
+        "id": "gumyo",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -5156,7 +5524,8 @@
     {
       "properties": {
         "name": "御徒町",
-        "id": "okachimachi"
+        "id": "okachimachi",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -5170,7 +5539,8 @@
     {
       "properties": {
         "name": "上野",
-        "id": "ueno"
+        "id": "ueno",
+        "sortKey": 2
       },
       "type": "Feature",
       "geometry": {
@@ -5184,7 +5554,8 @@
     {
       "properties": {
         "name": "鶯谷",
-        "id": "uguisudani"
+        "id": "uguisudani",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -5198,7 +5569,8 @@
     {
       "properties": {
         "name": "西日暮里",
-        "id": "nishinippori"
+        "id": "nishinippori",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -5212,7 +5584,8 @@
     {
       "properties": {
         "name": "田端",
-        "id": "tabata"
+        "id": "tabata",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -5226,7 +5599,8 @@
     {
       "properties": {
         "name": "上中里",
-        "id": "kaminakazato"
+        "id": "kaminakazato",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -5240,7 +5614,8 @@
     {
       "properties": {
         "name": "東十条",
-        "id": "higashijujo"
+        "id": "higashijujo",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -5254,7 +5629,8 @@
     {
       "properties": {
         "name": "川口",
-        "id": "kawaguchi"
+        "id": "kawaguchi",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -5268,7 +5644,8 @@
     {
       "properties": {
         "name": "西川口",
-        "id": "nishikawaguchi"
+        "id": "nishikawaguchi",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -5282,7 +5659,8 @@
     {
       "properties": {
         "name": "蕨",
-        "id": "warabi"
+        "id": "warabi",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -5296,7 +5674,8 @@
     {
       "properties": {
         "name": "浦和",
-        "id": "urawa"
+        "id": "urawa",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -5310,7 +5689,8 @@
     {
       "properties": {
         "name": "北浦和",
-        "id": "kitaurawa"
+        "id": "kitaurawa",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -5324,7 +5704,8 @@
     {
       "properties": {
         "name": "さいたま新都心",
-        "id": "saitamashintoshin"
+        "id": "saitamashintoshin",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -5338,7 +5719,8 @@
     {
       "properties": {
         "name": "東大宮",
-        "id": "higashiomiya"
+        "id": "higashiomiya",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -5352,7 +5734,8 @@
     {
       "properties": {
         "name": "蓮田",
-        "id": "hasuda"
+        "id": "hasuda",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -5366,7 +5749,8 @@
     {
       "properties": {
         "name": "白岡",
-        "id": "shiraoka"
+        "id": "shiraoka",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -5380,7 +5764,8 @@
     {
       "properties": {
         "name": "新白岡",
-        "id": "shinshiraoka"
+        "id": "shinshiraoka",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -5394,7 +5779,8 @@
     {
       "properties": {
         "name": "久喜",
-        "id": "kuki"
+        "id": "kuki",
+        "sortKey": 3
       },
       "type": "Feature",
       "geometry": {
@@ -5408,7 +5794,8 @@
     {
       "properties": {
         "name": "東鷲宮",
-        "id": "higashiwashinomiya"
+        "id": "higashiwashinomiya",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -5422,7 +5809,8 @@
     {
       "properties": {
         "name": "栗橋",
-        "id": "kurihashi"
+        "id": "kurihashi",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -5436,7 +5824,8 @@
     {
       "properties": {
         "name": "古河",
-        "id": "koga"
+        "id": "koga",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -5450,7 +5839,8 @@
     {
       "properties": {
         "name": "野木",
-        "id": "nogi"
+        "id": "nogi",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -5464,7 +5854,8 @@
     {
       "properties": {
         "name": "間々田",
-        "id": "mamada"
+        "id": "mamada",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -5478,7 +5869,8 @@
     {
       "properties": {
         "name": "小金井",
-        "id": "koganei"
+        "id": "koganei",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -5492,7 +5884,8 @@
     {
       "properties": {
         "name": "自治医大",
-        "id": "jichimedicaluniv"
+        "id": "jichimedicaluniv",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -5506,7 +5899,8 @@
     {
       "properties": {
         "name": "石橋",
-        "id": "ishibashi"
+        "id": "ishibashi",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -5520,7 +5914,8 @@
     {
       "properties": {
         "name": "雀宮",
-        "id": "suzumenomiya"
+        "id": "suzumenomiya",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -5534,7 +5929,8 @@
     {
       "properties": {
         "name": "宇都宮",
-        "id": "utsunomiya"
+        "id": "utsunomiya",
+        "sortKey": 2
       },
       "type": "Feature",
       "geometry": {
@@ -5548,7 +5944,8 @@
     {
       "properties": {
         "name": "尾久",
-        "id": "oku"
+        "id": "oku",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -5562,7 +5959,8 @@
     {
       "properties": {
         "name": "王子",
-        "id": "oji"
+        "id": "oji",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -5576,7 +5974,8 @@
     {
       "properties": {
         "name": "北与野",
-        "id": "kitayono"
+        "id": "kitayono",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -5590,7 +5989,8 @@
     {
       "properties": {
         "name": "与野本町",
-        "id": "yonohonmachi"
+        "id": "yonohonmachi",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -5604,7 +6004,8 @@
     {
       "properties": {
         "name": "南与野",
-        "id": "minamiyono"
+        "id": "minamiyono",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -5618,7 +6019,8 @@
     {
       "properties": {
         "name": "中浦和",
-        "id": "nakaurawa"
+        "id": "nakaurawa",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -5632,7 +6034,8 @@
     {
       "properties": {
         "name": "北戸田",
-        "id": "kitatoda"
+        "id": "kitatoda",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -5646,7 +6049,8 @@
     {
       "properties": {
         "name": "戸田",
-        "id": "toda-saikyo"
+        "id": "toda-saikyo",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -5660,7 +6064,8 @@
     {
       "properties": {
         "name": "戸田公園",
-        "id": "todakouen"
+        "id": "todakouen",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -5674,7 +6079,8 @@
     {
       "properties": {
         "name": "浮間舟渡",
-        "id": "ukimafunato"
+        "id": "ukimafunato",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -5688,7 +6094,8 @@
     {
       "properties": {
         "name": "北赤羽",
-        "id": "kitaakabane"
+        "id": "kitaakabane",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -5702,7 +6109,8 @@
     {
       "properties": {
         "name": "有楽町",
-        "id": "yurakucho"
+        "id": "yurakucho",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -5716,7 +6124,8 @@
     {
       "properties": {
         "name": "新橋",
-        "id": "shimbashi"
+        "id": "shimbashi",
+        "sortKey": 2
       },
       "type": "Feature",
       "geometry": {
@@ -5730,7 +6139,8 @@
     {
       "properties": {
         "name": "浜松町",
-        "id": "hamamatsucho"
+        "id": "hamamatsucho",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -5744,7 +6154,8 @@
     {
       "properties": {
         "name": "田町",
-        "id": "tamachi"
+        "id": "tamachi",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -5758,7 +6169,8 @@
     {
       "properties": {
         "name": "高輪ゲートウェイ",
-        "id": "takanawagateway"
+        "id": "takanawagateway",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -5772,7 +6184,8 @@
     {
       "properties": {
         "name": "品川",
-        "id": "shinagawa"
+        "id": "shinagawa",
+        "sortKey": 2
       },
       "type": "Feature",
       "geometry": {
@@ -5786,7 +6199,8 @@
     {
       "properties": {
         "name": "大井町",
-        "id": "oimachi"
+        "id": "oimachi",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -5800,7 +6214,8 @@
     {
       "properties": {
         "name": "大森",
-        "id": "omori"
+        "id": "omori",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -5814,7 +6229,8 @@
     {
       "properties": {
         "name": "蒲田",
-        "id": "kamata"
+        "id": "kamata",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -5828,7 +6244,8 @@
     {
       "properties": {
         "name": "鶴見",
-        "id": "tsurumi"
+        "id": "tsurumi",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -5842,7 +6259,8 @@
     {
       "properties": {
         "name": "新子安",
-        "id": "shinkoyasu"
+        "id": "shinkoyasu",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -5856,7 +6274,8 @@
     {
       "properties": {
         "name": "東神奈川",
-        "id": "higashikanagawa"
+        "id": "higashikanagawa",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -5870,7 +6289,8 @@
     {
       "properties": {
         "name": "保土ヶ谷",
-        "id": "hodogaya"
+        "id": "hodogaya",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -5884,7 +6304,8 @@
     {
       "properties": {
         "name": "東戸塚",
-        "id": "higashitotsuka"
+        "id": "higashitotsuka",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -5898,7 +6319,8 @@
     {
       "properties": {
         "name": "戸塚",
-        "id": "totsuka"
+        "id": "totsuka",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -5912,7 +6334,8 @@
     {
       "properties": {
         "name": "藤沢",
-        "id": "fujisawa"
+        "id": "fujisawa",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -5926,7 +6349,8 @@
     {
       "properties": {
         "name": "辻堂",
-        "id": "tsujido"
+        "id": "tsujido",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -5940,7 +6364,8 @@
     {
       "properties": {
         "name": "平塚",
-        "id": "hiratsuka"
+        "id": "hiratsuka",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -5954,7 +6379,8 @@
     {
       "properties": {
         "name": "大磯",
-        "id": "oiso"
+        "id": "oiso",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -5968,7 +6394,8 @@
     {
       "properties": {
         "name": "二宮",
-        "id": "ninomiya"
+        "id": "ninomiya",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -5982,7 +6409,8 @@
     {
       "properties": {
         "name": "国府津",
-        "id": "kodu"
+        "id": "kodu",
+        "sortKey": 3
       },
       "type": "Feature",
       "geometry": {
@@ -5996,7 +6424,8 @@
     {
       "properties": {
         "name": "鴨宮",
-        "id": "kamonomiya"
+        "id": "kamonomiya",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -6010,7 +6439,8 @@
     {
       "properties": {
         "name": "小田原",
-        "id": "odawara"
+        "id": "odawara",
+        "sortKey": 2
       },
       "type": "Feature",
       "geometry": {
@@ -6024,7 +6454,8 @@
     {
       "properties": {
         "name": "早川",
-        "id": "hayakawa"
+        "id": "hayakawa",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -6038,7 +6469,8 @@
     {
       "properties": {
         "name": "根府川",
-        "id": "nebukawa"
+        "id": "nebukawa",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -6052,7 +6484,8 @@
     {
       "properties": {
         "name": "真鶴",
-        "id": "manaduru"
+        "id": "manaduru",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -6066,7 +6499,8 @@
     {
       "properties": {
         "name": "湯河原",
-        "id": "yugawara"
+        "id": "yugawara",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -6080,7 +6514,8 @@
     {
       "properties": {
         "name": "西大井",
-        "id": "nishioi"
+        "id": "nishioi",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -6094,7 +6529,8 @@
     {
       "properties": {
         "name": "新川崎",
-        "id": "shinkawasaki"
+        "id": "shinkawasaki",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -6108,7 +6544,8 @@
     {
       "properties": {
         "name": "羽沢横浜国大",
-        "id": "hazawayokohamakokudai"
+        "id": "hazawayokohamakokudai",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -6122,7 +6559,8 @@
     {
       "properties": {
         "name": "国道",
-        "id": "kokudo"
+        "id": "kokudo",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -6136,7 +6574,8 @@
     {
       "properties": {
         "name": "鶴見小野",
-        "id": "tsurumiono"
+        "id": "tsurumiono",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -6150,7 +6589,8 @@
     {
       "properties": {
         "name": "弁天橋",
-        "id": "bentenbashi"
+        "id": "bentenbashi",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -6164,7 +6604,8 @@
     {
       "properties": {
         "name": "浅野",
-        "id": "asano"
+        "id": "asano",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -6178,7 +6619,8 @@
     {
       "properties": {
         "name": "安善",
-        "id": "anzen"
+        "id": "anzen",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -6192,7 +6634,8 @@
     {
       "properties": {
         "name": "武蔵白石",
-        "id": "musashishiraishi"
+        "id": "musashishiraishi",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -6206,7 +6649,8 @@
     {
       "properties": {
         "name": "昭和",
-        "id": "showa"
+        "id": "showa",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -6220,7 +6664,8 @@
     {
       "properties": {
         "name": "扇町",
-        "id": "ogimachi"
+        "id": "ogimachi",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -6234,7 +6679,8 @@
     {
       "properties": {
         "name": "新芝浦",
-        "id": "shinshibaura"
+        "id": "shinshibaura",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -6248,7 +6694,8 @@
     {
       "properties": {
         "name": "海芝浦",
-        "id": "umishibaura"
+        "id": "umishibaura",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -6262,7 +6709,8 @@
     {
       "properties": {
         "name": "大川",
-        "id": "okawa"
+        "id": "okawa",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -6276,7 +6724,8 @@
     {
       "properties": {
         "name": "浜野",
-        "id": "hamano"
+        "id": "hamano",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -6290,7 +6739,8 @@
     {
       "properties": {
         "name": "八幡宿",
-        "id": "yawatajuku"
+        "id": "yawatajuku",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -6304,7 +6754,8 @@
     {
       "properties": {
         "name": "五井",
-        "id": "goi"
+        "id": "goi",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -6318,7 +6769,8 @@
     {
       "properties": {
         "name": "姉ヶ崎",
-        "id": "anegasaki"
+        "id": "anegasaki",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -6332,7 +6784,8 @@
     {
       "properties": {
         "name": "長浦",
-        "id": "nagaura"
+        "id": "nagaura",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -6346,7 +6799,8 @@
     {
       "properties": {
         "name": "袖ヶ浦",
-        "id": "sodegaura"
+        "id": "sodegaura",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -6360,7 +6814,8 @@
     {
       "properties": {
         "name": "巌根",
-        "id": "iwane"
+        "id": "iwane",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -6374,7 +6829,8 @@
     {
       "properties": {
         "name": "木更津",
-        "id": "kisarazu"
+        "id": "kisarazu",
+        "sortKey": 3
       },
       "type": "Feature",
       "geometry": {
@@ -6388,7 +6844,8 @@
     {
       "properties": {
         "name": "君津",
-        "id": "kimitsu"
+        "id": "kimitsu",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -6402,7 +6859,8 @@
     {
       "properties": {
         "name": "大崎",
-        "id": "osaki"
+        "id": "osaki",
+        "sortKey": 2
       },
       "type": "Feature",
       "geometry": {
@@ -6416,7 +6874,8 @@
     {
       "properties": {
         "name": "五反田",
-        "id": "gotanda"
+        "id": "gotanda",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -6430,7 +6889,8 @@
     {
       "properties": {
         "name": "目黒",
-        "id": "meguro"
+        "id": "meguro",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -6444,7 +6904,8 @@
     {
       "properties": {
         "name": "恵比寿",
-        "id": "ebisu"
+        "id": "ebisu",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -6458,7 +6919,8 @@
     {
       "properties": {
         "name": "渋谷",
-        "id": "shibuya"
+        "id": "shibuya",
+        "sortKey": 2
       },
       "type": "Feature",
       "geometry": {
@@ -6472,7 +6934,8 @@
     {
       "properties": {
         "name": "原宿",
-        "id": "harajuku"
+        "id": "harajuku",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -6486,7 +6949,8 @@
     {
       "properties": {
         "name": "新大久保",
-        "id": "shinokubo"
+        "id": "shinokubo",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -6500,7 +6964,8 @@
     {
       "properties": {
         "name": "高田馬場",
-        "id": "takadanobaba"
+        "id": "takadanobaba",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -6514,7 +6979,8 @@
     {
       "properties": {
         "name": "目白",
-        "id": "mejiro"
+        "id": "mejiro",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -6528,7 +6994,8 @@
     {
       "properties": {
         "name": "大塚",
-        "id": "otsuka"
+        "id": "otsuka",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -6542,7 +7009,8 @@
     {
       "properties": {
         "name": "巣鴨",
-        "id": "sugamo"
+        "id": "sugamo",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -6556,7 +7024,8 @@
     {
       "properties": {
         "name": "駒込",
-        "id": "komagome"
+        "id": "komagome",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -6570,7 +7039,8 @@
     {
       "properties": {
         "name": "大口",
-        "id": "oguchi"
+        "id": "oguchi",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -6584,7 +7054,8 @@
     {
       "properties": {
         "name": "菊名",
-        "id": "kikuna"
+        "id": "kikuna",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -6598,7 +7069,8 @@
     {
       "properties": {
         "name": "新横浜",
-        "id": "shinyokohama"
+        "id": "shinyokohama",
+        "sortKey": 2
       },
       "type": "Feature",
       "geometry": {
@@ -6612,7 +7084,8 @@
     {
       "properties": {
         "name": "小机",
-        "id": "kozukue"
+        "id": "kozukue",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -6626,7 +7099,8 @@
     {
       "properties": {
         "name": "鴨居",
-        "id": "kamoi"
+        "id": "kamoi",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -6640,7 +7114,8 @@
     {
       "properties": {
         "name": "中山",
-        "id": "nakayama"
+        "id": "nakayama",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -6654,7 +7129,8 @@
     {
       "properties": {
         "name": "十日市場",
-        "id": "tokaichiba"
+        "id": "tokaichiba",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -6668,7 +7144,8 @@
     {
       "properties": {
         "name": "長津田",
-        "id": "nagatsuda"
+        "id": "nagatsuda",
+        "sortKey": 3
       },
       "type": "Feature",
       "geometry": {
@@ -6682,7 +7159,8 @@
     {
       "properties": {
         "name": "成瀬",
-        "id": "naruse"
+        "id": "naruse",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -6696,7 +7174,8 @@
     {
       "properties": {
         "name": "町田",
-        "id": "machida"
+        "id": "machida",
+        "sortKey": 3
       },
       "type": "Feature",
       "geometry": {
@@ -6710,7 +7189,8 @@
     {
       "properties": {
         "name": "古淵",
-        "id": "kobuchi"
+        "id": "kobuchi",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -6724,7 +7204,8 @@
     {
       "properties": {
         "name": "淵野辺",
-        "id": "fuchinobe"
+        "id": "fuchinobe",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -6738,7 +7219,8 @@
     {
       "properties": {
         "name": "矢部",
-        "id": "yabe"
+        "id": "yabe",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -6752,7 +7234,8 @@
     {
       "properties": {
         "name": "相模原",
-        "id": "sagamihara"
+        "id": "sagamihara",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -6766,7 +7249,8 @@
     {
       "properties": {
         "name": "相原",
-        "id": "aihara"
+        "id": "aihara",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -6780,7 +7264,8 @@
     {
       "properties": {
         "name": "八王子みなみ野",
-        "id": "hachiojiminamino"
+        "id": "hachiojiminamino",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -6794,7 +7279,8 @@
     {
       "properties": {
         "name": "片倉",
-        "id": "katakura"
+        "id": "katakura",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -6808,7 +7294,8 @@
     {
       "properties": {
         "name": "北鎌倉",
-        "id": "kitakamakura"
+        "id": "kitakamakura",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -6822,7 +7309,8 @@
     {
       "properties": {
         "name": "鎌倉",
-        "id": "kamakura"
+        "id": "kamakura",
+        "sortKey": 2
       },
       "type": "Feature",
       "geometry": {
@@ -6836,7 +7324,8 @@
     {
       "properties": {
         "name": "逗子",
-        "id": "zushi"
+        "id": "zushi",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -6850,7 +7339,8 @@
     {
       "properties": {
         "name": "東逗子",
-        "id": "higashizushi"
+        "id": "higashizushi",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -6864,7 +7354,8 @@
     {
       "properties": {
         "name": "田浦",
-        "id": "taura"
+        "id": "taura",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -6878,7 +7369,8 @@
     {
       "properties": {
         "name": "横須賀",
-        "id": "yokosuka"
+        "id": "yokosuka",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -6892,7 +7384,8 @@
     {
       "properties": {
         "name": "衣笠",
-        "id": "kinugasa"
+        "id": "kinugasa",
+        "sortKey": 4
       },
       "type": "Feature",
       "geometry": {
@@ -6906,7 +7399,8 @@
     {
       "properties": {
         "name": "久里浜",
-        "id": "kurihama"
+        "id": "kurihama",
+        "sortKey": 3
       },
       "type": "Feature",
       "geometry": {
