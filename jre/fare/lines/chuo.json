@@ -6,7 +6,7 @@
       "stations": [
         {
           "name": "神田",
-          "id": "kanda",
+          "id": "kanda-tohoku",
           "km": 0,
           "sp": [
             "yamanote",
@@ -105,7 +105,7 @@
         {
           "name": "東中野",
           "id": "higashinakano",
-          "km": 112,
+          "km": 115,
           "sp": [
             "tokunai"
           ]
@@ -271,6 +271,12 @@
           "sp": []
         },
         {
+          "name": "猿橋",
+          "id": "saruhashi",
+          "km": 840,
+          "sp": []
+        },
+        {
           "name": "大月",
           "id": "otsuki",
           "km": 865,
@@ -296,7 +302,7 @@
         },
         {
           "name": "勝沼ぶどう郷",
-          "id": "katsunumabudoukyo",
+          "id": "katsunumabudokyo",
           "km": 1112,
           "sp": []
         },
@@ -340,6 +346,156 @@
           "name": "甲府",
           "id": "kofu",
           "km": 1328,
+          "sp": []
+        },
+        {
+          "name": "竜王",
+          "id": "ryuo",
+          "km": 1373,
+          "sp": []
+        },
+        {
+          "name": "塩崎",
+          "id": "shiozaki",
+          "km": 1414,
+          "sp": []
+        },
+        {
+          "name": "韮崎",
+          "id": "nirasaki",
+          "km": 1457,
+          "sp": []
+        },
+        {
+          "name": "新府",
+          "id": "shinpu",
+          "km": 1499,
+          "sp": []
+        },
+        {
+          "name": "穴山",
+          "id": "anayama",
+          "km": 1534,
+          "sp": []
+        },
+        {
+          "name": "日野春",
+          "id": "hinoharu",
+          "km": 1588,
+          "sp": []
+        },
+        {
+          "name": "長坂",
+          "id": "nagasaka",
+          "km": 1650,
+          "sp": []
+        },
+        {
+          "name": "小淵沢",
+          "id": "kobuchizawa",
+          "km": 1724,
+          "sp": []
+        },
+        {
+          "name": "信濃境",
+          "id": "shinanosakai",
+          "km": 1769,
+          "sp": []
+        },
+        {
+          "name": "富士見",
+          "id": "fujimi",
+          "km": 1816,
+          "sp": []
+        },
+        {
+          "name": "すずらんの里",
+          "id": "suzurannosato",
+          "km": 1848,
+          "sp": []
+        },
+        {
+          "name": "青柳",
+          "id": "aoyagi",
+          "km": 1867,
+          "sp": []
+        },
+        {
+          "name": "茅野",
+          "id": "chino",
+          "km": 1939,
+          "sp": []
+        },
+        {
+          "name": "上諏訪",
+          "id": "kamisuwa",
+          "km": 2006,
+          "sp": []
+        },
+        {
+          "name": "下諏訪",
+          "id": "shimosuwa",
+          "km": 2050,
+          "sp": []
+        },
+        {
+          "name": "岡谷",
+          "id": "okaya",
+          "km": 2091,
+          "sp": []
+        },
+        {
+          "name": "みどり湖",
+          "id": "midoriko",
+          "km": 2169,
+          "sp": []
+        },
+        {
+          "name": "塩尻",
+          "id": "shiojiri",
+          "km": 2208,
+          "sp": []
+        }
+      ]
+    },
+    {
+      "id": "tatsuno-branch",
+      "chihou": false,
+      "stations": [
+        {
+          "name": "岡谷",
+          "id": "okaya",
+          "km": 0,
+          "sp": []
+        },
+        {
+          "name": "川岸",
+          "id": "kawagishi",
+          "km": 35,
+          "sp": []
+        },
+        {
+          "name": "辰野",
+          "id": "tatsuno-iida",
+          "km": 95,
+          "sp": []
+        },
+        {
+          "name": "信濃川島",
+          "id": "shinanokawashima",
+          "km": 138,
+          "sp": []
+        },
+        {
+          "name": "小野",
+          "id": "ono-chuo",
+          "km": 178,
+          "sp": []
+        },
+        {
+          "name": "塩尻",
+          "id": "shiojiri",
+          "km": 277,
           "sp": []
         }
       ]

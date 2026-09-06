@@ -15,10 +15,15 @@
       "id": "tokaido",
       "children":[
         {
-          "name": "品鶴線・東海道貨物線 (横須賀線・相鉄JR直通線)",
+          "name": "品鶴線・東海道貨物線(品川～鶴見～羽沢横浜国大)",
           "id": "hinkaku-freight"
         }
       ]
+    },
+    {
+      "name": "横須賀線",
+      "id": "yokosuka",
+      "children":[]
     },
     {
       "name": "東北本線",
@@ -48,7 +53,12 @@
     {
       "name": "中央本線",
       "id": "chuo",
-      "children": []
+      "children": [
+        {
+          "name": "中央本線 (辰野支線)",
+          "id": "tatsuno-branch"
+        }
+      ]
     },
     {
       "name": "青梅線",
@@ -106,6 +116,20 @@
       ]
     },
     {
+      "id": "tsurumi",
+      "name": "鶴見線",
+      "children": [
+        {
+          "name": "鶴見線 (海芝浦支線)",
+          "id": "tsurumi-shibaura"
+        },
+        {
+          "name": "鶴見線 (大川支線)",
+          "id": "tsurumi-okawa"
+        }
+      ]
+    },
+    {
       "name": "横浜線",
       "id": "yokohama",
       "children": []
@@ -113,6 +137,96 @@
     {
       "name": "根岸線",
       "id": "negishi",
+      "children": []
+    },
+    {
+      "name": "信越本線 (長野)",
+      "id": "shinetsu-nagano",
+      "children": []
+    },
+    {
+      "name": "信越本線 (群馬)",
+      "id": "shinetsu-gunma",
+      "children": []
+    },
+    {
+      "name": "上越線",
+      "id": "joetsu",
+      "children": []
+    },
+    {
+      "name": "吾妻線",
+      "id": "agatsuma",
+      "children": []
+    },
+    {
+      "name": "水郡線",
+      "id": "suigun",
+      "children": [
+        {
+          "name": "水郡線 (太田支線)",
+          "id": "suigun-ota"
+        }
+      ]
+    },
+    {
+      "id": "mito",
+      "name": "水戸線",
+      "children": []
+    },
+    {
+      "id": "karasuyama",
+      "name": "烏山線",
+      "children": []
+    },
+    {
+      "id": "nikko",
+      "name": "日光線",
+      "children": []
+    },
+    {
+      "id": "kashima",
+      "name": "鹿島線",
+      "children": []
+    },
+    {
+      "id": "uchibo",
+      "name": "内房線",
+      "children": []
+    },
+    {
+      "id": "togane",
+      "name": "東金線",
+      "children": []
+    },
+    {
+      "id": "kururi",
+      "name": "久留里線",
+      "children": []
+    },
+    {
+      "id": "sagami",
+      "name": "相模線",
+      "children": []
+    },
+    {
+      "id": "ito",
+      "name": "伊東線",
+      "children": []
+    },
+    {
+      "id": "shinonoi",
+      "name": "篠ノ井線",
+      "children": []
+    },
+    {
+      "id": "komi",
+      "name": "小海線",
+      "children": []
+    },
+    {
+      "id": "oito",
+      "name": "大糸線",
       "children": []
     }
   ]

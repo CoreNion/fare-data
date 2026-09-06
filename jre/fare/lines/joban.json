@@ -117,7 +117,7 @@
         },
         {
           "name": "天王台",
-          "id": "tennoudai",
+          "id": "tennodai",
           "km": 340,
           "sp": []
         },
@@ -147,7 +147,7 @@
         },
         {
           "name": "ひたち野うしく",
-          "id": "hitachinoushiku",
+          "id": "hitachinoshiku",
           "km": 545,
           "sp": []
         },
@@ -166,67 +166,247 @@
         {
           "name": "神立",
           "id": "kandatsu",
-          "km": 757,
+          "km": 699,
           "sp": []
         },
         {
           "name": "高浜",
           "id": "takahama",
-          "km": 822,
+          "km": 764,
           "sp": []
         },
         {
           "name": "石岡",
           "id": "ishioka",
-          "km": 858,
+          "km": 800,
           "sp": []
         },
         {
           "name": "羽鳥",
           "id": "hatori",
-          "km": 923,
+          "km": 865,
           "sp": []
         },
         {
           "name": "岩間",
           "id": "iwama",
-          "km": 977,
+          "km": 919,
           "sp": []
         },
         {
           "name": "友部",
           "id": "tomobe",
-          "km": 1046,
+          "km": 988,
           "sp": []
         },
         {
           "name": "内原",
           "id": "uchihara",
-          "km": 1093,
+          "km": 1035,
           "sp": []
         },
         {
           "name": "赤塚",
           "id": "akatsuka",
-          "km": 1151,
+          "km": 1093,
           "sp": []
         },
         {
-          "name": "偕楽園",
+          "name": "偕楽園(臨時駅)",
           "id": "kairakuen",
-          "km": 1193,
+          "km": 1135,
           "sp": []
         },
         {
           "name": "水戸",
           "id": "mito",
-          "km": 1211,
+          "km": 1153,
           "sp": []
         },
         {
           "name": "勝田",
           "id": "katsuta",
-          "km": 1269,
+          "km": 1211,
+          "sp": []
+        },
+        {
+          "name": "佐和",
+          "id": "sawa-joban",
+          "km": 1253,
+          "sp": []
+        },
+        {
+          "name": "東海",
+          "id": "tokai",
+          "km": 1300,
+          "sp": []
+        },
+        {
+          "name": "大甕",
+          "id": "omika",
+          "km": 1374,
+          "sp": []
+        },
+        {
+          "name": "常陸多賀",
+          "id": "hitachitaga",
+          "km": 1420,
+          "sp": []
+        },
+        {
+          "name": "日立",
+          "id": "hitachi",
+          "km": 1469,
+          "sp": []
+        },
+        {
+          "name": "小木津",
+          "id": "ogitsu",
+          "km": 1524,
+          "sp": []
+        },
+        {
+          "name": "十王",
+          "id": "juo",
+          "km": 1566,
+          "sp": []
+        },
+        {
+          "name": "高萩",
+          "id": "takahagi",
+          "km": 1625,
+          "sp": []
+        },
+        {
+          "name": "南中郷",
+          "id": "minaminakago",
+          "km": 1670,
+          "sp": []
+        },
+        {
+          "name": "磯原",
+          "id": "isohara",
+          "km": 1716,
+          "sp": []
+        },
+        {
+          "name": "大津港",
+          "id": "otsuko",
+          "km": 1787,
+          "sp": []
+        },
+        {
+          "name": "勿来",
+          "id": "nakoso",
+          "km": 1832,
+          "sp": []
+        },
+        {
+          "name": "植田",
+          "id": "ueda-joban",
+          "km": 1878,
+          "sp": []
+        },
+        {
+          "name": "泉",
+          "id": "izumi-joban",
+          "km": 1950,
+          "sp": []
+        },
+        {
+          "name": "湯本",
+          "id": "yumoto",
+          "km": 2015,
+          "sp": []
+        },
+        {
+          "name": "内郷",
+          "id": "uchigo",
+          "km": 2050,
+          "sp": []
+        },
+        {
+          "name": "いわき",
+          "id": "iwaki",
+          "km": 2094,
+          "sp": []
+        },
+        {
+          "name": "草野",
+          "id": "kusano-joban",
+          "km": 2148,
+          "sp": []
+        },
+        {
+          "name": "四ツ倉",
+          "id": "yotsukura",
+          "km": 2192,
+          "sp": []
+        },
+        {
+          "name": "久ノ浜",
+          "id": "hisanohama",
+          "km": 2240,
+          "sp": []
+        },
+        {
+          "name": "末続",
+          "id": "suetsugi",
+          "km": 2276,
+          "sp": []
+        },
+        {
+          "name": "広野",
+          "id": "hirono-joban",
+          "km": 2324,
+          "sp": []
+        },
+        {
+          "name": "Ｊヴィレッジ",
+          "id": "jeibirejji",
+          "km": 2359,
+          "sp": []
+        },
+        {
+          "name": "木戸",
+          "id": "kido",
+          "km": 2378,
+          "sp": []
+        },
+        {
+          "name": "竜田",
+          "id": "tatsuta",
+          "km": 2409,
+          "sp": []
+        },
+        {
+          "name": "富岡",
+          "id": "tomioka",
+          "km": 2478,
+          "sp": []
+        },
+        {
+          "name": "夜ノ森",
+          "id": "yonomori",
+          "km": 2530,
+          "sp": []
+        },
+        {
+          "name": "大野",
+          "id": "ono",
+          "km": 2579,
+          "sp": []
+        },
+        {
+          "name": "双葉",
+          "id": "futaba",
+          "km": 2637,
+          "sp": []
+        },
+        {
+          "name": "浪江",
+          "id": "namie",
+          "km": 2686,
           "sp": []
         }
       ]
