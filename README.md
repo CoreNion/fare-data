@@ -13,3 +13,5 @@
 - [ＭＡＲＳ for MS-DOS](https://www.swa785.net/pub/mars/index.html)
   - 主にJR線の営業キロデータを使用
   - 「【転載可否】　可」の記載に基づき転載していますが、問題がある場合はご連絡ください。
+- [都営地下鉄 運賃（キロ程表） - 東京都オープンデータカタログ](catalog.data.metro.tokyo.lg.jp/dataset/t000018d0000000025) CC BY-SA 4.0
+  - 都営地下鉄の運賃と営業キロ情報を使用
