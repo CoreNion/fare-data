@@ -1,0 +1,27 @@
+{
+  "lines": [
+    {
+      "id": "shinyokohama",
+      "stations": [
+        {
+          "name": "日吉",
+          "id": "hiyoshi",
+          "km": 0,
+          "sp": []
+        },
+        {
+          "name": "新綱島",
+          "id": "shintsunashima",
+          "km": 22,
+          "sp": []
+        },
+        {
+          "name": "新横浜",
+          "id": "shinyokohama_tokyu_sotetsu",
+          "km": 58,
+          "sp": ["kasan_shinyokohama"]
+        }
+      ]
+    }
+  ]
+}
