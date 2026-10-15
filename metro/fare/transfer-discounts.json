@@ -1,0 +1,1740 @@
+{
+  "operator": "metro",
+  "rules": [
+    {
+      "id": "metro-toei",
+      "kind": "combinedFare",
+      "bidirectional": true,
+      "sections": [
+        {
+          "operator": "metro",
+          "allStations": true
+        },
+        {
+          "operator": "toei",
+          "allStations": true
+        }
+      ],
+      "ticketTypes": [
+        "paper",
+        "ic"
+      ],
+      "calculation": {
+        "adultDiscount": 70,
+        "child": {
+          "base": "discountedAdultFare",
+          "multiplier": 0.5,
+          "paperRounding": {
+            "mode": "ceil",
+            "unit": 10
+          },
+          "icRounding": {
+            "mode": "floor",
+            "unit": 1
+          }
+        }
+      }
+    },
+    {
+      "id": "metro-jre-nakano",
+      "kind": "fixed",
+      "bidirectional": true,
+      "connection": [
+        {
+          "operator": "metro",
+          "id": "nakano",
+          "name": "中野"
+        },
+        {
+          "operator": "jre",
+          "id": "nakano",
+          "name": "中野"
+        }
+      ],
+      "sections": [
+        {
+          "operator": "metro",
+          "stations": [
+            {
+              "id": "ochiai",
+              "name": "落合"
+            },
+            {
+              "id": "takadanobaba_subway",
+              "name": "高田馬場"
+            }
+          ]
+        },
+        {
+          "operator": "jre",
+          "stations": [
+            {
+              "id": "koenji",
+              "name": "高円寺"
+            },
+            {
+              "id": "asagaya",
+              "name": "阿佐ヶ谷"
+            },
+            {
+              "id": "ogikubo",
+              "name": "荻窪"
+            },
+            {
+              "id": "nishiogikubo",
+              "name": "西荻窪"
+            },
+            {
+              "id": "kichijoji",
+              "name": "吉祥寺"
+            },
+            {
+              "id": "mitaka",
+              "name": "三鷹"
+            }
+          ]
+        }
+      ],
+      "ticketTypes": [
+        "paper",
+        "ic"
+      ],
+      "discount": {
+        "adult": 20,
+        "child": 10
+      }
+    },
+    {
+      "id": "metro-jre-nishifunabashi-east",
+      "kind": "fixed",
+      "bidirectional": true,
+      "connection": [
+        {
+          "operator": "metro",
+          "id": "nishifunabashi",
+          "name": "西船橋"
+        },
+        {
+          "operator": "jre",
+          "id": "nishifunabashi",
+          "name": "西船橋"
+        }
+      ],
+      "sections": [
+        {
+          "operator": "metro",
+          "stations": [
+            {
+              "id": "gyotoku",
+              "name": "行徳"
+            },
+            {
+              "id": "myoden",
+              "name": "妙典"
+            },
+            {
+              "id": "barakinakayama",
+              "name": "原木中山"
+            }
+          ]
+        },
+        {
+          "operator": "jre",
+          "stations": [
+            {
+              "id": "funabashi",
+              "name": "船橋"
+            },
+            {
+              "id": "higashifunabashi",
+              "name": "東船橋"
+            },
+            {
+              "id": "tsudanuma",
+              "name": "津田沼"
+            }
+          ]
+        }
+      ],
+      "ticketTypes": [
+        "paper",
+        "ic"
+      ],
+      "discount": {
+        "adult": 20,
+        "child": 10
+      }
+    },
+    {
+      "id": "metro-jre-kitasenju",
+      "kind": "fixed",
+      "bidirectional": true,
+      "connection": [
+        {
+          "operator": "metro",
+          "id": "kitasenju",
+          "name": "北千住"
+        },
+        {
+          "operator": "jre",
+          "id": "kitasenju",
+          "name": "北千住"
+        }
+      ],
+      "sections": [
+        {
+          "operator": "metro",
+          "stations": [
+            {
+              "id": "machiya",
+              "name": "町屋"
+            },
+            {
+              "id": "nishinippori_subway",
+              "name": "西日暮里"
+            }
+          ]
+        },
+        {
+          "operator": "jre",
+          "stations": [
+            {
+              "id": "kameari",
+              "name": "亀有"
+            },
+            {
+              "id": "kanamachi",
+              "name": "金町"
+            }
+          ]
+        }
+      ],
+      "ticketTypes": [
+        "paper",
+        "ic"
+      ],
+      "discount": {
+        "adult": 20,
+        "child": 10
+      }
+    },
+    {
+      "id": "metro-jre-nishifunabashi-west",
+      "kind": "fixed",
+      "bidirectional": true,
+      "connection": [
+        {
+          "operator": "metro",
+          "id": "nishifunabashi",
+          "name": "西船橋"
+        },
+        {
+          "operator": "jre",
+          "id": "nishifunabashi",
+          "name": "西船橋"
+        }
+      ],
+      "sections": [
+        {
+          "operator": "metro",
+          "stations": [
+            {
+              "id": "gyotoku",
+              "name": "行徳"
+            },
+            {
+              "id": "myoden",
+              "name": "妙典"
+            },
+            {
+              "id": "barakinakayama",
+              "name": "原木中山"
+            }
+          ]
+        },
+        {
+          "operator": "jre",
+          "stations": [
+            {
+              "id": "shimosanakayama",
+              "name": "下総中山"
+            },
+            {
+              "id": "funabashihoten",
+              "name": "船橋法典"
+            }
+          ]
+        }
+      ],
+      "ticketTypes": [
+        "paper",
+        "ic"
+      ],
+      "discount": {
+        "adult": 10,
+        "child": 10
+      }
+    },
+    {
+      "id": "metro-jre-ayase",
+      "kind": "fixed",
+      "bidirectional": true,
+      "connection": [
+        {
+          "operator": "metro",
+          "id": "ayase",
+          "name": "綾瀬"
+        },
+        {
+          "operator": "jre",
+          "id": "ayase",
+          "name": "綾瀬"
+        }
+      ],
+      "sections": [
+        {
+          "operator": "metro",
+          "stations": [
+            {
+              "id": "kitaayase",
+              "name": "北綾瀬"
+            }
+          ]
+        },
+        {
+          "operator": "jre",
+          "stations": [
+            {
+              "id": "kameari",
+              "name": "亀有"
+            }
+          ]
+        }
+      ],
+      "ticketTypes": [
+        "paper",
+        "ic"
+      ],
+      "discount": {
+        "adult": 10,
+        "child": 10
+      }
+    },
+    {
+      "id": "metro-tobu-asakusa",
+      "kind": "fixed",
+      "bidirectional": true,
+      "connection": [
+        {
+          "operator": "metro",
+          "id": "asakusa_subway_metro",
+          "name": "浅草"
+        },
+        {
+          "operator": "tobu",
+          "id": null,
+          "name": "浅草"
+        }
+      ],
+      "sections": [
+        {
+          "operator": "metro",
+          "stations": [
+            {
+              "id": "tawaramachi",
+              "name": "田原町"
+            },
+            {
+              "id": "inaricho",
+              "name": "稲荷町"
+            }
+          ]
+        },
+        {
+          "operator": "tobu",
+          "stations": [
+            {
+              "id": null,
+              "name": "とうきょうスカイツリー"
+            },
+            {
+              "id": null,
+              "name": "曳舟"
+            },
+            {
+              "id": null,
+              "name": "東向島"
+            },
+            {
+              "id": null,
+              "name": "小村井"
+            }
+          ]
+        }
+      ],
+      "ticketTypes": [
+        "paper",
+        "ic"
+      ],
+      "discount": {
+        "adult": 20,
+        "child": 10
+      }
+    },
+    {
+      "id": "metro-tobu-kitasenju",
+      "kind": "fixed",
+      "bidirectional": true,
+      "connection": [
+        {
+          "operator": "metro",
+          "id": "kitasenju",
+          "name": "北千住"
+        },
+        {
+          "operator": "tobu",
+          "id": null,
+          "name": "北千住"
+        }
+      ],
+      "sections": [
+        {
+          "operator": "metro",
+          "stations": [
+            {
+              "id": "minamisenju_subway",
+              "name": "南千住"
+            },
+            {
+              "id": "minowa",
+              "name": "三ノ輪"
+            },
+            {
+              "id": "kitaayase",
+              "name": "北綾瀬"
+            },
+            {
+              "id": "ayase",
+              "name": "綾瀬"
+            },
+            {
+              "id": "machiya",
+              "name": "町屋"
+            },
+            {
+              "id": "nishinippori_subway",
+              "name": "西日暮里"
+            }
+          ]
+        },
+        {
+          "operator": "tobu",
+          "stations": [
+            {
+              "id": null,
+              "name": "東向島"
+            },
+            {
+              "id": null,
+              "name": "鐘ヶ淵"
+            },
+            {
+              "id": null,
+              "name": "堀切"
+            },
+            {
+              "id": null,
+              "name": "牛田"
+            },
+            {
+              "id": null,
+              "name": "小菅"
+            },
+            {
+              "id": null,
+              "name": "五反野"
+            },
+            {
+              "id": null,
+              "name": "梅島"
+            }
+          ]
+        }
+      ],
+      "ticketTypes": [
+        "paper",
+        "ic"
+      ],
+      "discount": {
+        "adult": 20,
+        "child": 10
+      }
+    },
+    {
+      "id": "metro-tobu-oshiage",
+      "kind": "fixed",
+      "bidirectional": true,
+      "connection": [
+        {
+          "operator": "metro",
+          "id": "oshiage_metro_tobu",
+          "name": "押上"
+        },
+        {
+          "operator": "tobu",
+          "id": null,
+          "name": "押上"
+        }
+      ],
+      "sections": [
+        {
+          "operator": "metro",
+          "stations": [
+            {
+              "id": "kinshicho_subway",
+              "name": "錦糸町"
+            },
+            {
+              "id": "sumiyoshi_metro",
+              "name": "住吉"
+            }
+          ]
+        },
+        {
+          "operator": "tobu",
+          "stations": [
+            {
+              "id": null,
+              "name": "曳舟"
+            },
+            {
+              "id": null,
+              "name": "東向島"
+            },
+            {
+              "id": null,
+              "name": "鐘ヶ淵"
+            },
+            {
+              "id": null,
+              "name": "小村井"
+            },
+            {
+              "id": null,
+              "name": "東あずま"
+            },
+            {
+              "id": null,
+              "name": "亀戸水神"
+            }
+          ]
+        }
+      ],
+      "ticketTypes": [
+        "paper",
+        "ic"
+      ],
+      "discount": {
+        "adult": 20,
+        "child": 10
+      }
+    },
+    {
+      "id": "metro-tobu-ikebukuro",
+      "kind": "fixed",
+      "bidirectional": true,
+      "connection": [
+        {
+          "operator": "metro",
+          "id": "ikebukuro_subway",
+          "name": "池袋"
+        },
+        {
+          "operator": "tobu",
+          "id": null,
+          "name": "池袋"
+        }
+      ],
+      "sections": [
+        {
+          "operator": "metro",
+          "stations": [
+            {
+              "id": "shinotsuka",
+              "name": "新大塚"
+            },
+            {
+              "id": "myogadani",
+              "name": "茗荷谷"
+            },
+            {
+              "id": "senkawa",
+              "name": "千川"
+            },
+            {
+              "id": "kanamecho",
+              "name": "要町"
+            },
+            {
+              "id": "higashiikebukuro",
+              "name": "東池袋"
+            },
+            {
+              "id": "gokokuji",
+              "name": "護国寺"
+            },
+            {
+              "id": "zoshigaya",
+              "name": "雑司が谷"
+            },
+            {
+              "id": "nishiwaseda",
+              "name": "西早稲田"
+            }
+          ]
+        },
+        {
+          "operator": "tobu",
+          "stations": [
+            {
+              "id": null,
+              "name": "北池袋"
+            },
+            {
+              "id": null,
+              "name": "下板橋"
+            },
+            {
+              "id": null,
+              "name": "大山"
+            },
+            {
+              "id": null,
+              "name": "中板橋"
+            }
+          ]
+        }
+      ],
+      "ticketTypes": [
+        "paper",
+        "ic"
+      ],
+      "discount": {
+        "adult": 20,
+        "child": 10
+      }
+    },
+    {
+      "id": "metro-tobu-wakoshi",
+      "kind": "fixed",
+      "bidirectional": true,
+      "connection": [
+        {
+          "operator": "metro",
+          "id": "wakoshi",
+          "name": "和光市"
+        },
+        {
+          "operator": "tobu",
+          "id": null,
+          "name": "和光市"
+        }
+      ],
+      "sections": [
+        {
+          "operator": "metro",
+          "stations": [
+            {
+              "id": "chikatetsunarimasu",
+              "name": "地下鉄成増"
+            },
+            {
+              "id": "chikatetsuakatsuka",
+              "name": "地下鉄赤塚"
+            }
+          ]
+        },
+        {
+          "operator": "tobu",
+          "stations": [
+            {
+              "id": null,
+              "name": "朝霞"
+            },
+            {
+              "id": null,
+              "name": "朝霞台"
+            }
+          ]
+        }
+      ],
+      "ticketTypes": [
+        "paper",
+        "ic"
+      ],
+      "discount": {
+        "adult": 20,
+        "child": 10
+      }
+    },
+    {
+      "id": "metro-toyo-nishifunabashi",
+      "kind": "fixed",
+      "bidirectional": true,
+      "connection": [
+        {
+          "operator": "metro",
+          "id": "nishifunabashi",
+          "name": "西船橋"
+        },
+        {
+          "operator": "toyo",
+          "id": null,
+          "name": "西船橋"
+        }
+      ],
+      "sections": [
+        {
+          "operator": "metro",
+          "stations": [
+            {
+              "id": "gyotoku",
+              "name": "行徳"
+            },
+            {
+              "id": "myoden",
+              "name": "妙典"
+            },
+            {
+              "id": "barakinakayama",
+              "name": "原木中山"
+            }
+          ]
+        },
+        {
+          "operator": "toyo",
+          "stations": [
+            {
+              "id": null,
+              "name": "東海神"
+            }
+          ]
+        }
+      ],
+      "ticketTypes": [
+        "paper",
+        "ic"
+      ],
+      "discount": {
+        "adult": 20,
+        "child": 10
+      }
+    },
+    {
+      "id": "metro-keio-shinjuku",
+      "kind": "fixed",
+      "bidirectional": true,
+      "connection": [
+        {
+          "operator": "metro",
+          "id": "shinjuku_metro",
+          "name": "新宿"
+        },
+        {
+          "operator": "keio",
+          "id": null,
+          "name": "新宿"
+        }
+      ],
+      "sections": [
+        {
+          "operator": "metro",
+          "stations": [
+            {
+              "id": "shinjukugyoemmae",
+              "name": "新宿御苑前"
+            },
+            {
+              "id": "shinjukusanchome_metro",
+              "name": "新宿三丁目"
+            },
+            {
+              "id": "nishishinjuku",
+              "name": "西新宿"
+            },
+            {
+              "id": "nakanosakaue_metro",
+              "name": "中野坂上"
+            },
+            {
+              "id": "shinnakano",
+              "name": "新中野"
+            },
+            {
+              "id": "nakanoshimbashi",
+              "name": "中野新橋"
+            },
+            {
+              "id": "higashishinjuku_metro",
+              "name": "東新宿"
+            },
+            {
+              "id": "kitasando",
+              "name": "北参道"
+            }
+          ]
+        },
+        {
+          "operator": "keio",
+          "stations": [
+            {
+              "id": null,
+              "name": "初台"
+            },
+            {
+              "id": null,
+              "name": "幡ヶ谷"
+            },
+            {
+              "id": null,
+              "name": "笹塚"
+            }
+          ]
+        }
+      ],
+      "ticketTypes": [
+        "paper",
+        "ic"
+      ],
+      "discount": {
+        "adult": 20,
+        "child": 10
+      }
+    },
+    {
+      "id": "metro-keio-shibuya",
+      "kind": "fixed",
+      "bidirectional": true,
+      "connection": [
+        {
+          "operator": "metro",
+          "id": "shibuya_subway_tokyu",
+          "name": "渋谷"
+        },
+        {
+          "operator": "keio",
+          "id": null,
+          "name": "渋谷"
+        }
+      ],
+      "sections": [
+        {
+          "operator": "metro",
+          "stations": [
+            {
+              "id": "omotesando",
+              "name": "表参道"
+            },
+            {
+              "id": "gaiemmae",
+              "name": "外苑前"
+            },
+            {
+              "id": "aoyamaitchome_metro",
+              "name": "青山一丁目"
+            },
+            {
+              "id": "yoyogikoen",
+              "name": "代々木公園"
+            },
+            {
+              "id": "meijijingumae",
+              "name": "明治神宮前"
+            },
+            {
+              "id": "nogizaka",
+              "name": "乃木坂"
+            },
+            {
+              "id": "kitasando",
+              "name": "北参道"
+            }
+          ]
+        },
+        {
+          "operator": "keio",
+          "stations": [
+            {
+              "id": null,
+              "name": "神泉"
+            },
+            {
+              "id": null,
+              "name": "駒場東大前"
+            },
+            {
+              "id": null,
+              "name": "池ノ上"
+            },
+            {
+              "id": null,
+              "name": "下北沢"
+            },
+            {
+              "id": null,
+              "name": "新代田"
+            },
+            {
+              "id": null,
+              "name": "東松原"
+            }
+          ]
+        }
+      ],
+      "ticketTypes": [
+        "paper",
+        "ic"
+      ],
+      "discount": {
+        "adult": 20,
+        "child": 10
+      }
+    },
+    {
+      "id": "metro-keisei-machiya",
+      "kind": "fixed",
+      "bidirectional": true,
+      "connection": [
+        {
+          "operator": "metro",
+          "id": "machiya",
+          "name": "町屋"
+        },
+        {
+          "operator": "keisei",
+          "id": null,
+          "name": "町屋"
+        }
+      ],
+      "sections": [
+        {
+          "operator": "metro",
+          "stations": [
+            {
+              "id": "minamisenju_subway",
+              "name": "南千住"
+            },
+            {
+              "id": "ayase",
+              "name": "綾瀬"
+            },
+            {
+              "id": "kitasenju",
+              "name": "北千住"
+            },
+            {
+              "id": "nishinippori_subway",
+              "name": "西日暮里"
+            },
+            {
+              "id": "sendagi",
+              "name": "千駄木"
+            }
+          ]
+        },
+        {
+          "operator": "keisei",
+          "stations": [
+            {
+              "id": null,
+              "name": "日暮里"
+            },
+            {
+              "id": null,
+              "name": "新三河島"
+            },
+            {
+              "id": null,
+              "name": "千住大橋"
+            },
+            {
+              "id": null,
+              "name": "京成関屋"
+            }
+          ]
+        }
+      ],
+      "ticketTypes": [
+        "paper",
+        "ic"
+      ],
+      "discount": {
+        "adult": 20,
+        "child": 10
+      }
+    },
+    {
+      "id": "metro-keisei-oshiage",
+      "kind": "fixed",
+      "bidirectional": true,
+      "connection": [
+        {
+          "operator": "metro",
+          "id": "oshiage_metro_tobu",
+          "name": "押上"
+        },
+        {
+          "operator": "keisei",
+          "id": null,
+          "name": "押上"
+        }
+      ],
+      "sections": [
+        {
+          "operator": "metro",
+          "stations": [
+            {
+              "id": "kinshicho_subway",
+              "name": "錦糸町"
+            },
+            {
+              "id": "sumiyoshi_metro",
+              "name": "住吉"
+            }
+          ]
+        },
+        {
+          "operator": "keisei",
+          "stations": [
+            {
+              "id": null,
+              "name": "京成曳舟"
+            },
+            {
+              "id": null,
+              "name": "八広"
+            }
+          ]
+        }
+      ],
+      "ticketTypes": [
+        "paper",
+        "ic"
+      ],
+      "discount": {
+        "adult": 20,
+        "child": 10
+      }
+    },
+    {
+      "id": "metro-saitama-akabaneiwabuchi",
+      "kind": "fixed",
+      "bidirectional": true,
+      "connection": [
+        {
+          "operator": "metro",
+          "id": "akabaneiwabuchi",
+          "name": "赤羽岩淵"
+        },
+        {
+          "operator": "saitama",
+          "id": null,
+          "name": "赤羽岩淵"
+        }
+      ],
+      "sections": [
+        {
+          "operator": "metro",
+          "stations": [
+            {
+              "id": "shimo",
+              "name": "志茂"
+            },
+            {
+              "id": "ojikamiya",
+              "name": "王子神谷"
+            }
+          ]
+        },
+        {
+          "operator": "saitama",
+          "stations": [
+            {
+              "id": null,
+              "name": "川口元郷"
+            }
+          ]
+        }
+      ],
+      "ticketTypes": [
+        "paper",
+        "ic"
+      ],
+      "discount": {
+        "adult": 30,
+        "child": 20
+      }
+    },
+    {
+      "id": "metro-odakyu-shinjuku",
+      "kind": "fixed",
+      "bidirectional": true,
+      "connection": [
+        {
+          "operator": "metro",
+          "id": "shinjuku_metro",
+          "name": "新宿"
+        },
+        {
+          "operator": "odakyu",
+          "id": null,
+          "name": "新宿"
+        }
+      ],
+      "sections": [
+        {
+          "operator": "metro",
+          "stations": [
+            {
+              "id": "shinjukugyoemmae",
+              "name": "新宿御苑前"
+            },
+            {
+              "id": "shinjukusanchome_metro",
+              "name": "新宿三丁目"
+            },
+            {
+              "id": "nishishinjuku",
+              "name": "西新宿"
+            },
+            {
+              "id": "nakanosakaue_metro",
+              "name": "中野坂上"
+            },
+            {
+              "id": "shinnakano",
+              "name": "新中野"
+            },
+            {
+              "id": "nakanoshimbashi",
+              "name": "中野新橋"
+            },
+            {
+              "id": "higashishinjuku_metro",
+              "name": "東新宿"
+            },
+            {
+              "id": "kitasando",
+              "name": "北参道"
+            }
+          ]
+        },
+        {
+          "operator": "odakyu",
+          "stations": [
+            {
+              "id": null,
+              "name": "南新宿"
+            },
+            {
+              "id": null,
+              "name": "参宮橋"
+            },
+            {
+              "id": null,
+              "name": "代々木八幡"
+            },
+            {
+              "id": null,
+              "name": "代々木上原"
+            }
+          ]
+        }
+      ],
+      "ticketTypes": [
+        "paper",
+        "ic"
+      ],
+      "discount": {
+        "adult": 20,
+        "child": 10
+      }
+    },
+    {
+      "id": "metro-odakyu-yoyogiuehara",
+      "kind": "fixed",
+      "bidirectional": true,
+      "connection": [
+        {
+          "operator": "metro",
+          "id": "yoyogiuehara",
+          "name": "代々木上原"
+        },
+        {
+          "operator": "odakyu",
+          "id": null,
+          "name": "代々木上原"
+        }
+      ],
+      "sections": [
+        {
+          "operator": "metro",
+          "stations": [
+            {
+              "id": "yoyogikoen",
+              "name": "代々木公園"
+            },
+            {
+              "id": "meijijingumae",
+              "name": "明治神宮前"
+            }
+          ]
+        },
+        {
+          "operator": "odakyu",
+          "stations": [
+            {
+              "id": null,
+              "name": "新宿"
+            },
+            {
+              "id": null,
+              "name": "南新宿"
+            },
+            {
+              "id": null,
+              "name": "参宮橋"
+            },
+            {
+              "id": null,
+              "name": "代々木八幡"
+            },
+            {
+              "id": null,
+              "name": "東北沢"
+            },
+            {
+              "id": null,
+              "name": "下北沢"
+            },
+            {
+              "id": null,
+              "name": "世田谷代田"
+            },
+            {
+              "id": null,
+              "name": "梅ヶ丘"
+            },
+            {
+              "id": null,
+              "name": "豪徳寺"
+            }
+          ]
+        }
+      ],
+      "ticketTypes": [
+        "paper",
+        "ic"
+      ],
+      "discount": {
+        "adult": 20,
+        "child": 10
+      }
+    },
+    {
+      "id": "metro-seibu-shinjuku",
+      "kind": "fixed",
+      "bidirectional": true,
+      "connection": [
+        {
+          "operator": "metro",
+          "id": "shinjuku_metro",
+          "name": "新宿"
+        },
+        {
+          "operator": "seibu",
+          "id": null,
+          "name": "西武新宿"
+        }
+      ],
+      "sections": [
+        {
+          "operator": "metro",
+          "stations": [
+            {
+              "id": "shinjukugyoemmae",
+              "name": "新宿御苑前"
+            },
+            {
+              "id": "shinjukusanchome_metro",
+              "name": "新宿三丁目"
+            },
+            {
+              "id": "nishishinjuku",
+              "name": "西新宿"
+            },
+            {
+              "id": "nakanosakaue_metro",
+              "name": "中野坂上"
+            },
+            {
+              "id": "shinnakano",
+              "name": "新中野"
+            },
+            {
+              "id": "nakanoshimbashi",
+              "name": "中野新橋"
+            },
+            {
+              "id": "higashishinjuku_metro",
+              "name": "東新宿"
+            },
+            {
+              "id": "kitasando",
+              "name": "北参道"
+            }
+          ]
+        },
+        {
+          "operator": "seibu",
+          "stations": [
+            {
+              "id": null,
+              "name": "高田馬場"
+            },
+            {
+              "id": null,
+              "name": "下落合"
+            },
+            {
+              "id": null,
+              "name": "中井"
+            }
+          ]
+        }
+      ],
+      "ticketTypes": [
+        "paper",
+        "ic"
+      ],
+      "discount": {
+        "adult": 20,
+        "child": 10
+      }
+    },
+    {
+      "id": "metro-seibu-takadanobaba",
+      "kind": "fixed",
+      "bidirectional": true,
+      "connection": [
+        {
+          "operator": "metro",
+          "id": "takadanobaba_subway",
+          "name": "高田馬場"
+        },
+        {
+          "operator": "seibu",
+          "id": null,
+          "name": "高田馬場"
+        }
+      ],
+      "sections": [
+        {
+          "operator": "metro",
+          "stations": [
+            {
+              "id": "nakano",
+              "name": "中野"
+            },
+            {
+              "id": "ochiai",
+              "name": "落合"
+            },
+            {
+              "id": "waseda",
+              "name": "早稲田"
+            },
+            {
+              "id": "kagurazaka",
+              "name": "神楽坂"
+            }
+          ]
+        },
+        {
+          "operator": "seibu",
+          "stations": [
+            {
+              "id": null,
+              "name": "西武新宿"
+            },
+            {
+              "id": null,
+              "name": "下落合"
+            },
+            {
+              "id": null,
+              "name": "中井"
+            },
+            {
+              "id": null,
+              "name": "新井薬師前"
+            }
+          ]
+        }
+      ],
+      "ticketTypes": [
+        "paper",
+        "ic"
+      ],
+      "discount": {
+        "adult": 20,
+        "child": 10
+      }
+    },
+    {
+      "id": "metro-seibu-ikebukuro",
+      "kind": "fixed",
+      "bidirectional": true,
+      "connection": [
+        {
+          "operator": "metro",
+          "id": "ikebukuro_subway",
+          "name": "池袋"
+        },
+        {
+          "operator": "seibu",
+          "id": null,
+          "name": "池袋"
+        }
+      ],
+      "sections": [
+        {
+          "operator": "metro",
+          "stations": [
+            {
+              "id": "shinotsuka",
+              "name": "新大塚"
+            },
+            {
+              "id": "myogadani",
+              "name": "茗荷谷"
+            },
+            {
+              "id": "senkawa",
+              "name": "千川"
+            },
+            {
+              "id": "kanamecho",
+              "name": "要町"
+            },
+            {
+              "id": "higashiikebukuro",
+              "name": "東池袋"
+            },
+            {
+              "id": "gokokuji",
+              "name": "護国寺"
+            },
+            {
+              "id": "zoshigaya",
+              "name": "雑司が谷"
+            },
+            {
+              "id": "nishiwaseda",
+              "name": "西早稲田"
+            }
+          ]
+        },
+        {
+          "operator": "seibu",
+          "stations": [
+            {
+              "id": null,
+              "name": "椎名町"
+            },
+            {
+              "id": null,
+              "name": "東長崎"
+            }
+          ]
+        }
+      ],
+      "ticketTypes": [
+        "paper",
+        "ic"
+      ],
+      "discount": {
+        "adult": 20,
+        "child": 10
+      }
+    },
+    {
+      "id": "metro-seibu-kotakemukaihara",
+      "kind": "fixed",
+      "bidirectional": true,
+      "connection": [
+        {
+          "operator": "metro",
+          "id": "kotakemukaihara",
+          "name": "小竹向原"
+        },
+        {
+          "operator": "seibu",
+          "id": null,
+          "name": "小竹向原"
+        }
+      ],
+      "sections": [
+        {
+          "operator": "metro",
+          "stations": [
+            {
+              "id": "heiwadai",
+              "name": "平和台"
+            },
+            {
+              "id": "hikawadai",
+              "name": "氷川台"
+            },
+            {
+              "id": "senkawa",
+              "name": "千川"
+            },
+            {
+              "id": "kanamecho",
+              "name": "要町"
+            }
+          ]
+        },
+        {
+          "operator": "seibu",
+          "stations": [
+            {
+              "id": null,
+              "name": "新桜台"
+            },
+            {
+              "id": null,
+              "name": "練馬"
+            },
+            {
+              "id": null,
+              "name": "桜台"
+            },
+            {
+              "id": null,
+              "name": "豊島園"
+            }
+          ]
+        }
+      ],
+      "ticketTypes": [
+        "paper",
+        "ic"
+      ],
+      "discount": {
+        "adult": 20,
+        "child": 10
+      }
+    },
+    {
+      "id": "tokyu-metro-shibuya",
+      "kind": "fixed",
+      "bidirectional": true,
+      "connection": [
+        {
+          "operator": "tokyu",
+          "id": "shibuya_subway_tokyu",
+          "name": "渋谷"
+        },
+        {
+          "operator": "metro",
+          "id": "shibuya_subway_tokyu",
+          "name": "渋谷"
+        }
+      ],
+      "sections": [
+        {
+          "operator": "tokyu",
+          "stations": [
+            {
+              "id": "daikanyama",
+              "name": "代官山"
+            },
+            {
+              "id": "nakameguro",
+              "name": "中目黒"
+            },
+            {
+              "id": "ikejiriohashi",
+              "name": "池尻大橋"
+            },
+            {
+              "id": "sangenjaya",
+              "name": "三軒茶屋"
+            }
+          ]
+        },
+        {
+          "operator": "metro",
+          "stations": [
+            {
+              "id": "omotesando",
+              "name": "表参道"
+            },
+            {
+              "id": "gaiemmae",
+              "name": "外苑前"
+            },
+            {
+              "id": "aoyamaitchome_metro",
+              "name": "青山一丁目"
+            },
+            {
+              "id": "meijijingumae",
+              "name": "明治神宮前"
+            },
+            {
+              "id": "kitasando",
+              "name": "北参道"
+            },
+            {
+              "id": "yoyogikoen",
+              "name": "代々木公園"
+            },
+            {
+              "id": "nogizaka",
+              "name": "乃木坂"
+            }
+          ]
+        }
+      ],
+      "ticketTypes": [
+        "paper",
+        "ic"
+      ],
+      "discount": {
+        "adult": 20,
+        "child": 10
+      }
+    },
+    {
+      "id": "tokyu-metro-nakameguro",
+      "kind": "fixed",
+      "bidirectional": true,
+      "connection": [
+        {
+          "operator": "tokyu",
+          "id": "nakameguro",
+          "name": "中目黒"
+        },
+        {
+          "operator": "metro",
+          "id": "nakameguro",
+          "name": "中目黒"
+        }
+      ],
+      "sections": [
+        {
+          "operator": "tokyu",
+          "stations": [
+            {
+              "id": "shibuya_subway_tokyu",
+              "name": "渋谷"
+            },
+            {
+              "id": "daikanyama",
+              "name": "代官山"
+            },
+            {
+              "id": "yutenji",
+              "name": "祐天寺"
+            },
+            {
+              "id": "gakugeidaigaku",
+              "name": "学芸大学"
+            }
+          ]
+        },
+        {
+          "operator": "metro",
+          "stations": [
+            {
+              "id": "ebisu_subway",
+              "name": "恵比寿"
+            },
+            {
+              "id": "hiroo",
+              "name": "広尾"
+            }
+          ]
+        }
+      ],
+      "ticketTypes": [
+        "paper",
+        "ic"
+      ],
+      "discount": {
+        "adult": 20,
+        "child": 10
+      }
+    },
+    {
+      "id": "tokyu-metro-meguro",
+      "kind": "fixed",
+      "bidirectional": true,
+      "connection": [
+        {
+          "operator": "tokyu",
+          "id": "meguro_subway_tokyu",
+          "name": "目黒"
+        },
+        {
+          "operator": "metro",
+          "id": "meguro_subway_tokyu",
+          "name": "目黒"
+        }
+      ],
+      "sections": [
+        {
+          "operator": "tokyu",
+          "stations": [
+            {
+              "id": "fudomae",
+              "name": "不動前"
+            },
+            {
+              "id": "musashikoyama",
+              "name": "武蔵小山"
+            },
+            {
+              "id": "nishikoyama",
+              "name": "西小山"
+            }
+          ]
+        },
+        {
+          "operator": "metro",
+          "stations": [
+            {
+              "id": "shirokanedai",
+              "name": "白金台"
+            },
+            {
+              "id": "shirokanetakanawa",
+              "name": "白金高輪"
+            }
+          ]
+        }
+      ],
+      "ticketTypes": [
+        "paper",
+        "ic"
+      ],
+      "discount": {
+        "adult": 20,
+        "child": 10
+      }
+    }
+  ]
+}

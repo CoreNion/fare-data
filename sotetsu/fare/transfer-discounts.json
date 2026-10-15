@@ -1,0 +1,468 @@
+{
+  "operator": "sotetsu",
+  "rules": [
+    {
+      "id": "sotetsu-jre-yokohama",
+      "kind": "fixed",
+      "bidirectional": true,
+      "connection": [
+        {
+          "operator": "sotetsu",
+          "id": "yokohama_sotetsu",
+          "name": "横浜"
+        },
+        {
+          "operator": "jre",
+          "id": "yokohama",
+          "name": "横浜"
+        }
+      ],
+      "sections": [
+        {
+          "operator": "sotetsu",
+          "stations": [
+            {
+              "id": "hiranumabashi",
+              "name": "平沼橋"
+            },
+            {
+              "id": "nishiyokohama",
+              "name": "西横浜"
+            },
+            {
+              "id": "tennocho",
+              "name": "天王町"
+            }
+          ]
+        },
+        {
+          "operator": "jre",
+          "stations": [
+            {
+              "id": "higashikanagawa",
+              "name": "東神奈川"
+            },
+            {
+              "id": "hodogaya",
+              "name": "保土ヶ谷"
+            },
+            {
+              "id": "sakuragicho",
+              "name": "桜木町"
+            },
+            {
+              "id": "kannai",
+              "name": "関内"
+            }
+          ]
+        }
+      ],
+      "ticketTypes": [
+        "paper",
+        "ic"
+      ],
+      "discount": {
+        "adult": 10,
+        "child": 10
+      }
+    },
+    {
+      "id": "sotetsu-keikyu-yokohama",
+      "kind": "fixed",
+      "bidirectional": true,
+      "connection": [
+        {
+          "operator": "sotetsu",
+          "id": "yokohama_sotetsu",
+          "name": "横浜"
+        },
+        {
+          "operator": "keikyu",
+          "id": null,
+          "name": "横浜"
+        }
+      ],
+      "sections": [
+        {
+          "operator": "sotetsu",
+          "stations": [
+            {
+              "id": "hiranumabashi",
+              "name": "平沼橋"
+            },
+            {
+              "id": "nishiyokohama",
+              "name": "西横浜"
+            },
+            {
+              "id": "tennocho",
+              "name": "天王町"
+            }
+          ]
+        },
+        {
+          "operator": "keikyu",
+          "stations": [
+            {
+              "id": null,
+              "name": "神奈川"
+            },
+            {
+              "id": null,
+              "name": "京急東神奈川"
+            },
+            {
+              "id": null,
+              "name": "神奈川新町"
+            },
+            {
+              "id": null,
+              "name": "子安"
+            },
+            {
+              "id": null,
+              "name": "戸部"
+            },
+            {
+              "id": null,
+              "name": "日ノ出町"
+            }
+          ]
+        }
+      ],
+      "ticketTypes": [
+        "paper",
+        "ic"
+      ],
+      "discount": {
+        "adult": 20,
+        "child": 10
+      }
+    },
+    {
+      "id": "sotetsu-yokohama-minatomirai-yokohama",
+      "kind": "fixed",
+      "bidirectional": true,
+      "connection": [
+        {
+          "operator": "sotetsu",
+          "id": "yokohama_sotetsu",
+          "name": "横浜"
+        },
+        {
+          "operator": "yokohama-minatomirai",
+          "id": null,
+          "name": "横浜"
+        }
+      ],
+      "sections": [
+        {
+          "operator": "sotetsu",
+          "stations": [
+            {
+              "id": "hiranumabashi",
+              "name": "平沼橋"
+            },
+            {
+              "id": "nishiyokohama",
+              "name": "西横浜"
+            },
+            {
+              "id": "tennocho",
+              "name": "天王町"
+            }
+          ]
+        },
+        {
+          "operator": "yokohama-minatomirai",
+          "stations": [
+            {
+              "id": null,
+              "name": "新高島"
+            },
+            {
+              "id": null,
+              "name": "みなとみらい"
+            },
+            {
+              "id": null,
+              "name": "馬車道"
+            }
+          ]
+        }
+      ],
+      "ticketTypes": [
+        "paper",
+        "ic"
+      ],
+      "discount": {
+        "adult": 20,
+        "child": 10
+      }
+    },
+    {
+      "id": "sotetsu-odakyu-yamato",
+      "kind": "fixed",
+      "bidirectional": true,
+      "connection": [
+        {
+          "operator": "sotetsu",
+          "id": "yamato_sotetsu",
+          "name": "大和"
+        },
+        {
+          "operator": "odakyu",
+          "id": null,
+          "name": "大和"
+        }
+      ],
+      "sections": [
+        {
+          "operator": "sotetsu",
+          "stations": [
+            {
+              "id": "seya",
+              "name": "瀬谷"
+            },
+            {
+              "id": "mitsukyo",
+              "name": "三ツ境"
+            },
+            {
+              "id": "kibogaoka",
+              "name": "希望ケ丘"
+            },
+            {
+              "id": "futamatagawa",
+              "name": "二俣川"
+            },
+            {
+              "id": "sagamiotsuka",
+              "name": "相模大塚"
+            },
+            {
+              "id": "sagamino",
+              "name": "さがみ野"
+            },
+            {
+              "id": "kashiwadai",
+              "name": "かしわ台"
+            }
+          ]
+        },
+        {
+          "operator": "odakyu",
+          "stations": [
+            {
+              "id": null,
+              "name": "鶴間"
+            },
+            {
+              "id": null,
+              "name": "南林間"
+            },
+            {
+              "id": null,
+              "name": "桜ヶ丘"
+            },
+            {
+              "id": null,
+              "name": "高座渋谷"
+            }
+          ]
+        }
+      ],
+      "ticketTypes": [
+        "paper",
+        "ic"
+      ],
+      "discount": {
+        "adult": 20,
+        "child": 10
+      }
+    },
+    {
+      "id": "sotetsu-odakyu-ebina",
+      "kind": "fixed",
+      "bidirectional": true,
+      "connection": [
+        {
+          "operator": "sotetsu",
+          "id": "ebina_sotetsu",
+          "name": "海老名"
+        },
+        {
+          "operator": "odakyu",
+          "id": null,
+          "name": "海老名"
+        }
+      ],
+      "sections": [
+        {
+          "operator": "sotetsu",
+          "stations": [
+            {
+              "id": "kashiwadai",
+              "name": "かしわ台"
+            },
+            {
+              "id": "sagamino",
+              "name": "さがみ野"
+            }
+          ]
+        },
+        {
+          "operator": "odakyu",
+          "stations": [
+            {
+              "id": null,
+              "name": "座間"
+            },
+            {
+              "id": null,
+              "name": "相武台前"
+            },
+            {
+              "id": null,
+              "name": "厚木"
+            },
+            {
+              "id": null,
+              "name": "本厚木"
+            }
+          ]
+        }
+      ],
+      "ticketTypes": [
+        "paper",
+        "ic"
+      ],
+      "discount": {
+        "adult": 20,
+        "child": 10
+      }
+    },
+    {
+      "id": "sotetsu-odakyu-shonandai",
+      "kind": "fixed",
+      "bidirectional": true,
+      "connection": [
+        {
+          "operator": "sotetsu",
+          "id": "shonandai_sotetsu",
+          "name": "湘南台"
+        },
+        {
+          "operator": "odakyu",
+          "id": null,
+          "name": "湘南台"
+        }
+      ],
+      "sections": [
+        {
+          "operator": "sotetsu",
+          "stations": [
+            {
+              "id": "yumegaoka",
+              "name": "ゆめが丘"
+            },
+            {
+              "id": "izumichuo",
+              "name": "いずみ中央"
+            }
+          ]
+        },
+        {
+          "operator": "odakyu",
+          "stations": [
+            {
+              "id": null,
+              "name": "長後"
+            },
+            {
+              "id": null,
+              "name": "高座渋谷"
+            },
+            {
+              "id": null,
+              "name": "六会日大前"
+            },
+            {
+              "id": null,
+              "name": "善行"
+            }
+          ]
+        }
+      ],
+      "ticketTypes": [
+        "paper",
+        "ic"
+      ],
+      "discount": {
+        "adult": 20,
+        "child": 10
+      }
+    },
+    {
+      "id": "tokyu-sotetsu-yokohama",
+      "kind": "fixed",
+      "bidirectional": true,
+      "connection": [
+        {
+          "operator": "tokyu",
+          "id": "yokohama_tokyu_mm",
+          "name": "横浜"
+        },
+        {
+          "operator": "sotetsu",
+          "id": "yokohama_sotetsu",
+          "name": "横浜"
+        }
+      ],
+      "sections": [
+        {
+          "operator": "tokyu",
+          "stations": [
+            {
+              "id": "hakuraku",
+              "name": "白楽"
+            },
+            {
+              "id": "higashihakuraku",
+              "name": "東白楽"
+            },
+            {
+              "id": "tanmachi",
+              "name": "反町"
+            }
+          ]
+        },
+        {
+          "operator": "sotetsu",
+          "stations": [
+            {
+              "id": "hiranumabashi",
+              "name": "平沼橋"
+            },
+            {
+              "id": "nishiyokohama",
+              "name": "西横浜"
+            },
+            {
+              "id": "tennocho",
+              "name": "天王町"
+            }
+          ]
+        }
+      ],
+      "ticketTypes": [
+        "paper",
+        "ic"
+      ],
+      "discount": {
+        "adult": 20,
+        "child": 10
+      }
+    }
+  ]
+}
