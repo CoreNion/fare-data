@@ -1,0 +1,552 @@
+{
+  "stations": {
+    "futamatagawa": {
+      "id": "futamatagawa",
+      "name": "二俣川",
+      "km": 0,
+      "sp": []
+    },
+    "minamimakigahara": {
+      "id": "minamimakigahara",
+      "name": "南万騎が原",
+      "km": 16,
+      "sp": [
+        "kasan_izumino"
+      ]
+    },
+    "ryokuentoshi": {
+      "id": "ryokuentoshi",
+      "name": "緑園都市",
+      "km": 31,
+      "sp": [
+        "kasan_izumino"
+      ]
+    },
+    "yayoidai": {
+      "id": "yayoidai",
+      "name": "弥生台",
+      "km": 49,
+      "sp": [
+        "kasan_izumino"
+      ]
+    },
+    "izumino": {
+      "id": "izumino",
+      "name": "いずみ野",
+      "km": 60,
+      "sp": [
+        "kasan_izumino"
+      ]
+    },
+    "izumichuo": {
+      "id": "izumichuo",
+      "name": "いずみ中央",
+      "km": 82,
+      "sp": [
+        "kasan_izumino"
+      ]
+    },
+    "yumegaoka": {
+      "id": "yumegaoka",
+      "name": "ゆめが丘",
+      "km": 93,
+      "sp": [
+        "kasan_shonandai"
+      ]
+    },
+    "shonandai_sotetsu": {
+      "id": "shonandai_sotetsu",
+      "name": "湘南台",
+      "km": 113,
+      "sp": [
+        "kasan_shonandai"
+      ]
+    },
+    "yokohama_sotetsu": {
+      "id": "yokohama_sotetsu",
+      "name": "横浜",
+      "km": 0,
+      "sp": []
+    },
+    "hiranumabashi": {
+      "id": "hiranumabashi",
+      "name": "平沼橋",
+      "km": 9,
+      "sp": []
+    },
+    "nishiyokohama": {
+      "id": "nishiyokohama",
+      "name": "西横浜",
+      "km": 18,
+      "sp": []
+    },
+    "tennocho": {
+      "id": "tennocho",
+      "name": "天王町",
+      "km": 24,
+      "sp": []
+    },
+    "hoshikawa": {
+      "id": "hoshikawa",
+      "name": "星川",
+      "km": 33,
+      "sp": []
+    },
+    "wadamachi": {
+      "id": "wadamachi",
+      "name": "和田町",
+      "km": 43,
+      "sp": []
+    },
+    "kamihoshikawa": {
+      "id": "kamihoshikawa",
+      "name": "上星川",
+      "km": 50,
+      "sp": []
+    },
+    "nishiya": {
+      "id": "nishiya",
+      "name": "西谷",
+      "km": 69,
+      "sp": []
+    },
+    "tsurugamine": {
+      "id": "tsurugamine",
+      "name": "鶴ケ峰",
+      "km": 85,
+      "sp": []
+    },
+    "kibogaoka": {
+      "id": "kibogaoka",
+      "name": "希望ケ丘",
+      "km": 122,
+      "sp": []
+    },
+    "mitsukyo": {
+      "id": "mitsukyo",
+      "name": "三ツ境",
+      "km": 136,
+      "sp": []
+    },
+    "seya": {
+      "id": "seya",
+      "name": "瀬谷",
+      "km": 155,
+      "sp": []
+    },
+    "yamato_sotetsu": {
+      "id": "yamato_sotetsu",
+      "name": "大和",
+      "km": 174,
+      "sp": []
+    },
+    "sagamiotsuka": {
+      "id": "sagamiotsuka",
+      "name": "相模大塚",
+      "km": 193,
+      "sp": []
+    },
+    "sagamino": {
+      "id": "sagamino",
+      "name": "さがみ野",
+      "km": 205,
+      "sp": []
+    },
+    "kashiwadai": {
+      "id": "kashiwadai",
+      "name": "かしわ台",
+      "km": 218,
+      "sp": []
+    },
+    "ebina_sotetsu": {
+      "id": "ebina_sotetsu",
+      "name": "海老名",
+      "km": 246,
+      "sp": []
+    },
+    "hazawayokohamakokudai": {
+      "id": "hazawayokohamakokudai",
+      "name": "羽沢横浜国大",
+      "km": 21,
+      "sp": [
+        "kasan_hazawa"
+      ]
+    },
+    "shinyokohama_tokyu_sotetsu": {
+      "id": "shinyokohama_tokyu_sotetsu",
+      "name": "新横浜",
+      "km": 63,
+      "sp": [
+        "kasan_shinyokohama"
+      ]
+    }
+  },
+  "adj": {
+    "minamimakigahara": [
+      {
+        "to": "futamatagawa",
+        "weight": 16,
+        "fareWeight": 16,
+        "chihou": false
+      },
+      {
+        "to": "ryokuentoshi",
+        "weight": 15,
+        "fareWeight": 15,
+        "chihou": false
+      }
+    ],
+    "futamatagawa": [
+      {
+        "to": "minamimakigahara",
+        "weight": 16,
+        "fareWeight": 16,
+        "chihou": false
+      },
+      {
+        "to": "tsurugamine",
+        "weight": 20,
+        "fareWeight": 20,
+        "chihou": false
+      },
+      {
+        "to": "kibogaoka",
+        "weight": 17,
+        "fareWeight": 17,
+        "chihou": false
+      }
+    ],
+    "ryokuentoshi": [
+      {
+        "to": "minamimakigahara",
+        "weight": 15,
+        "fareWeight": 15,
+        "chihou": false
+      },
+      {
+        "to": "yayoidai",
+        "weight": 18,
+        "fareWeight": 18,
+        "chihou": false
+      }
+    ],
+    "yayoidai": [
+      {
+        "to": "ryokuentoshi",
+        "weight": 18,
+        "fareWeight": 18,
+        "chihou": false
+      },
+      {
+        "to": "izumino",
+        "weight": 11,
+        "fareWeight": 11,
+        "chihou": false
+      }
+    ],
+    "izumino": [
+      {
+        "to": "yayoidai",
+        "weight": 11,
+        "fareWeight": 11,
+        "chihou": false
+      },
+      {
+        "to": "izumichuo",
+        "weight": 22,
+        "fareWeight": 22,
+        "chihou": false
+      }
+    ],
+    "izumichuo": [
+      {
+        "to": "izumino",
+        "weight": 22,
+        "fareWeight": 22,
+        "chihou": false
+      },
+      {
+        "to": "yumegaoka",
+        "weight": 11,
+        "fareWeight": 11,
+        "chihou": false
+      }
+    ],
+    "yumegaoka": [
+      {
+        "to": "izumichuo",
+        "weight": 11,
+        "fareWeight": 11,
+        "chihou": false
+      },
+      {
+        "to": "shonandai_sotetsu",
+        "weight": 20,
+        "fareWeight": 20,
+        "chihou": false
+      }
+    ],
+    "shonandai_sotetsu": [
+      {
+        "to": "yumegaoka",
+        "weight": 20,
+        "fareWeight": 20,
+        "chihou": false
+      }
+    ],
+    "hiranumabashi": [
+      {
+        "to": "yokohama_sotetsu",
+        "weight": 9,
+        "fareWeight": 9,
+        "chihou": false
+      },
+      {
+        "to": "nishiyokohama",
+        "weight": 9,
+        "fareWeight": 9,
+        "chihou": false
+      }
+    ],
+    "yokohama_sotetsu": [
+      {
+        "to": "hiranumabashi",
+        "weight": 9,
+        "fareWeight": 9,
+        "chihou": false
+      }
+    ],
+    "nishiyokohama": [
+      {
+        "to": "hiranumabashi",
+        "weight": 9,
+        "fareWeight": 9,
+        "chihou": false
+      },
+      {
+        "to": "tennocho",
+        "weight": 6,
+        "fareWeight": 6,
+        "chihou": false
+      }
+    ],
+    "tennocho": [
+      {
+        "to": "nishiyokohama",
+        "weight": 6,
+        "fareWeight": 6,
+        "chihou": false
+      },
+      {
+        "to": "hoshikawa",
+        "weight": 9,
+        "fareWeight": 9,
+        "chihou": false
+      }
+    ],
+    "hoshikawa": [
+      {
+        "to": "tennocho",
+        "weight": 9,
+        "fareWeight": 9,
+        "chihou": false
+      },
+      {
+        "to": "wadamachi",
+        "weight": 10,
+        "fareWeight": 10,
+        "chihou": false
+      }
+    ],
+    "wadamachi": [
+      {
+        "to": "hoshikawa",
+        "weight": 10,
+        "fareWeight": 10,
+        "chihou": false
+      },
+      {
+        "to": "kamihoshikawa",
+        "weight": 7,
+        "fareWeight": 7,
+        "chihou": false
+      }
+    ],
+    "kamihoshikawa": [
+      {
+        "to": "wadamachi",
+        "weight": 7,
+        "fareWeight": 7,
+        "chihou": false
+      },
+      {
+        "to": "nishiya",
+        "weight": 19,
+        "fareWeight": 19,
+        "chihou": false
+      }
+    ],
+    "nishiya": [
+      {
+        "to": "kamihoshikawa",
+        "weight": 19,
+        "fareWeight": 19,
+        "chihou": false
+      },
+      {
+        "to": "tsurugamine",
+        "weight": 16,
+        "fareWeight": 16,
+        "chihou": false
+      },
+      {
+        "to": "hazawayokohamakokudai",
+        "weight": 21,
+        "fareWeight": 21,
+        "chihou": false
+      }
+    ],
+    "tsurugamine": [
+      {
+        "to": "nishiya",
+        "weight": 16,
+        "fareWeight": 16,
+        "chihou": false
+      },
+      {
+        "to": "futamatagawa",
+        "weight": 20,
+        "fareWeight": 20,
+        "chihou": false
+      }
+    ],
+    "kibogaoka": [
+      {
+        "to": "futamatagawa",
+        "weight": 17,
+        "fareWeight": 17,
+        "chihou": false
+      },
+      {
+        "to": "mitsukyo",
+        "weight": 14,
+        "fareWeight": 14,
+        "chihou": false
+      }
+    ],
+    "mitsukyo": [
+      {
+        "to": "kibogaoka",
+        "weight": 14,
+        "fareWeight": 14,
+        "chihou": false
+      },
+      {
+        "to": "seya",
+        "weight": 19,
+        "fareWeight": 19,
+        "chihou": false
+      }
+    ],
+    "seya": [
+      {
+        "to": "mitsukyo",
+        "weight": 19,
+        "fareWeight": 19,
+        "chihou": false
+      },
+      {
+        "to": "yamato_sotetsu",
+        "weight": 19,
+        "fareWeight": 19,
+        "chihou": false
+      }
+    ],
+    "yamato_sotetsu": [
+      {
+        "to": "seya",
+        "weight": 19,
+        "fareWeight": 19,
+        "chihou": false
+      },
+      {
+        "to": "sagamiotsuka",
+        "weight": 19,
+        "fareWeight": 19,
+        "chihou": false
+      }
+    ],
+    "sagamiotsuka": [
+      {
+        "to": "yamato_sotetsu",
+        "weight": 19,
+        "fareWeight": 19,
+        "chihou": false
+      },
+      {
+        "to": "sagamino",
+        "weight": 12,
+        "fareWeight": 12,
+        "chihou": false
+      }
+    ],
+    "sagamino": [
+      {
+        "to": "sagamiotsuka",
+        "weight": 12,
+        "fareWeight": 12,
+        "chihou": false
+      },
+      {
+        "to": "kashiwadai",
+        "weight": 13,
+        "fareWeight": 13,
+        "chihou": false
+      }
+    ],
+    "kashiwadai": [
+      {
+        "to": "sagamino",
+        "weight": 13,
+        "fareWeight": 13,
+        "chihou": false
+      },
+      {
+        "to": "ebina_sotetsu",
+        "weight": 28,
+        "fareWeight": 28,
+        "chihou": false
+      }
+    ],
+    "ebina_sotetsu": [
+      {
+        "to": "kashiwadai",
+        "weight": 28,
+        "fareWeight": 28,
+        "chihou": false
+      }
+    ],
+    "hazawayokohamakokudai": [
+      {
+        "to": "nishiya",
+        "weight": 21,
+        "fareWeight": 21,
+        "chihou": false
+      },
+      {
+        "to": "shinyokohama_tokyu_sotetsu",
+        "weight": 42,
+        "fareWeight": 42,
+        "chihou": false
+      }
+    ],
+    "shinyokohama_tokyu_sotetsu": [
+      {
+        "to": "hazawayokohamakokudai",
+        "weight": 42,
+        "fareWeight": 42,
+        "chihou": false
+      }
+    ]
+  }
+}
