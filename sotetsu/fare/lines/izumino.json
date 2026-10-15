@@ -1,0 +1,57 @@
+{
+  "lines": [
+    {
+      "id": "izumino",
+      "stations": [
+        {
+          "name": "二俣川",
+          "id": "futamatagawa",
+          "km": 0,
+          "sp": []
+        },
+        {
+          "name": "南万騎が原",
+          "id": "minamimakigahara",
+          "km": 16,
+          "sp": ["kasan_izumino"]
+        },
+        {
+          "name": "緑園都市",
+          "id": "ryokuentoshi",
+          "km": 31,
+          "sp": ["kasan_izumino"]
+        },
+        {
+          "name": "弥生台",
+          "id": "yayoidai",
+          "km": 49,
+          "sp": ["kasan_izumino"]
+        },
+        {
+          "name": "いずみ野",
+          "id": "izumino",
+          "km": 60,
+          "sp": ["kasan_izumino"]
+        },
+        {
+          "name": "いずみ中央",
+          "id": "izumichuo",
+          "km": 82,
+          "sp": ["kasan_izumino"]
+        },
+        {
+          "name": "ゆめが丘",
+          "id": "yumegaoka",
+          "km": 93,
+          "sp": ["kasan_shonandai"]
+        },
+        {
+          "name": "湘南台",
+          "id": "shonandai_sotetsu",
+          "km": 113,
+          "sp": ["kasan_shonandai"]
+        }
+      ]
+    }
+  ]
+}

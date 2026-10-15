@@ -1,0 +1,27 @@
+{
+  "lines": [
+    {
+      "id": "shinyokohama",
+      "stations": [
+        {
+          "name": "西谷",
+          "id": "nishiya",
+          "km": 0,
+          "sp": []
+        },
+        {
+          "name": "羽沢横浜国大",
+          "id": "hazawayokohamakokudai",
+          "km": 21,
+          "sp": ["kasan_hazawa"]
+        },
+        {
+          "name": "新横浜",
+          "id": "shinyokohama_tokyu_sotetsu",
+          "km": 63,
+          "sp": ["kasan_shinyokohama"]
+        }
+      ]
+    }
+  ]
+}

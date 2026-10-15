@@ -1,0 +1,84 @@
+{
+  "normal": [
+    {
+      "startK": 1,
+      "endK": 3,
+      "fare": 160,
+      "icFare": 157
+    },
+    {
+      "startK": 4,
+      "endK": 7,
+      "fare": 190,
+      "icFare": 188
+    },
+    {
+      "startK": 8,
+      "endK": 11,
+      "fare": 210,
+      "icFare": 209
+    },
+    {
+      "startK": 12,
+      "endK": 15,
+      "fare": 250,
+      "icFare": 241
+    },
+    {
+      "startK": 16,
+      "endK": 19,
+      "fare": 280,
+      "icFare": 272
+    },
+    {
+      "startK": 20,
+      "endK": 23,
+      "fare": 300,
+      "icFare": 293
+    },
+    {
+      "startK": 24,
+      "endK": 26,
+      "fare": 330,
+      "icFare": 324
+    }
+  ],
+  "kasan": [
+    {
+      "kinds": "additional_range",
+      "id": "kasan_izumino",
+      "ranges": [
+        {
+          "startK": 1,
+          "endK": 6,
+          "fare": 20,
+          "icFare": 20
+        },
+        {
+          "startK": 7,
+          "endK": 9,
+          "fare": 40,
+          "icFare": 40
+        }
+      ]
+    },
+    {
+      "kinds": "additional",
+      "id": "kasan_shonandai",
+      "fare": 30,
+      "icFare": 30
+    },
+    {
+      "kinds": "additional",
+      "id": "kasan_hazawa",
+      "fare": 30,
+      "icFare": 30
+    },
+    {
+      "kinds": "additional",
+      "id": "kasan_shinyokohama",
+      "fare": 40,
+      "icFare": 40
+    }
+  ]
+}
