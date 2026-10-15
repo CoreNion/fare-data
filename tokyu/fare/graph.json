@@ -147,7 +147,7 @@
     "minamimachida": {
       "id": "minamimachida",
       "name": "南町田グランベリーパーク",
-      "km": 280,
+      "km": 292,
       "sp": []
     },
     "tsukimino": {
@@ -300,6 +300,36 @@
       "km": 65,
       "sp": []
     },
+    "tamagawa": {
+      "id": "tamagawa",
+      "name": "多摩川",
+      "km": 73,
+      "sp": []
+    },
+    "shinmaruko": {
+      "id": "shinmaruko",
+      "name": "新丸子",
+      "km": 86,
+      "sp": []
+    },
+    "musashikosugi_tokyu": {
+      "id": "musashikosugi_tokyu",
+      "name": "武蔵小杉",
+      "km": 91,
+      "sp": []
+    },
+    "motosumiyoshi": {
+      "id": "motosumiyoshi",
+      "name": "元住吉",
+      "km": 104,
+      "sp": []
+    },
+    "hiyoshi": {
+      "id": "hiyoshi",
+      "name": "日吉",
+      "km": 119,
+      "sp": []
+    },
     "oimachi_tokyu": {
       "id": "oimachi_tokyu",
       "name": "大井町",
@@ -372,12 +402,6 @@
       "km": 92,
       "sp": []
     },
-    "hiyoshi": {
-      "id": "hiyoshi",
-      "name": "日吉",
-      "km": 0,
-      "sp": []
-    },
     "shintsunashima": {
       "id": "shintsunashima",
       "name": "新綱島",
@@ -391,12 +415,6 @@
       "sp": [
         "kasan_shinyokohama"
       ]
-    },
-    "tamagawa": {
-      "id": "tamagawa",
-      "name": "多摩川",
-      "km": 0,
-      "sp": []
     },
     "numabe": {
       "id": "numabe",
@@ -456,18 +474,6 @@
       "id": "toritsudaigaku",
       "name": "都立大学",
       "km": 56,
-      "sp": []
-    },
-    "shinmaruko": {
-      "id": "shinmaruko",
-      "name": "新丸子",
-      "km": 103,
-      "sp": []
-    },
-    "musashikosugi_tokyu": {
-      "id": "musashikosugi_tokyu",
-      "name": "武蔵小杉",
-      "km": 108,
       "sp": []
     },
     "tsunashima": {
@@ -857,30 +863,30 @@
       },
       {
         "to": "minamimachida",
-        "weight": 0,
-        "fareWeight": 0,
+        "weight": 12,
+        "fareWeight": 12,
         "chihou": false
       }
     ],
     "minamimachida": [
       {
         "to": "suzukakedai",
-        "weight": 0,
-        "fareWeight": 0,
+        "weight": 12,
+        "fareWeight": 12,
         "chihou": false
       },
       {
         "to": "tsukimino",
-        "weight": 23,
-        "fareWeight": 23,
+        "weight": 11,
+        "fareWeight": 11,
         "chihou": false
       }
     ],
     "tsukimino": [
       {
         "to": "minamimachida",
-        "weight": 23,
-        "fareWeight": 23,
+        "weight": 11,
+        "fareWeight": 11,
         "chihou": false
       },
       {
@@ -1109,8 +1115,8 @@
       },
       {
         "to": "yaguchinowatashi",
-        "weight": 0,
-        "fareWeight": 0,
+        "weight": 13,
+        "fareWeight": 13,
         "chihou": false
       }
     ],
@@ -1226,15 +1232,97 @@
         "chihou": false
       },
       {
+        "to": "tamagawa",
+        "weight": 8,
+        "fareWeight": 8,
+        "chihou": false
+      },
+      {
         "to": "jiyugaoka",
         "weight": 12,
         "fareWeight": 12,
         "chihou": false
-      },
+      }
+    ],
+    "tamagawa": [
       {
-        "to": "tamagawa",
+        "to": "denenchofu",
         "weight": 8,
         "fareWeight": 8,
+        "chihou": false
+      },
+      {
+        "to": "shinmaruko",
+        "weight": 13,
+        "fareWeight": 13,
+        "chihou": false
+      },
+      {
+        "to": "numabe",
+        "weight": 9,
+        "fareWeight": 9,
+        "chihou": false
+      }
+    ],
+    "shinmaruko": [
+      {
+        "to": "tamagawa",
+        "weight": 13,
+        "fareWeight": 13,
+        "chihou": false
+      },
+      {
+        "to": "musashikosugi_tokyu",
+        "weight": 5,
+        "fareWeight": 5,
+        "chihou": false
+      }
+    ],
+    "musashikosugi_tokyu": [
+      {
+        "to": "shinmaruko",
+        "weight": 5,
+        "fareWeight": 5,
+        "chihou": false
+      },
+      {
+        "to": "motosumiyoshi",
+        "weight": 13,
+        "fareWeight": 13,
+        "chihou": false
+      }
+    ],
+    "motosumiyoshi": [
+      {
+        "to": "musashikosugi_tokyu",
+        "weight": 13,
+        "fareWeight": 13,
+        "chihou": false
+      },
+      {
+        "to": "hiyoshi",
+        "weight": 15,
+        "fareWeight": 15,
+        "chihou": false
+      }
+    ],
+    "hiyoshi": [
+      {
+        "to": "motosumiyoshi",
+        "weight": 15,
+        "fareWeight": 15,
+        "chihou": false
+      },
+      {
+        "to": "shintsunashima",
+        "weight": 22,
+        "fareWeight": 22,
+        "chihou": false
+      },
+      {
+        "to": "tsunashima",
+        "weight": 22,
+        "fareWeight": 22,
         "chihou": false
       }
     ],
@@ -1426,26 +1514,6 @@
         "chihou": false
       }
     ],
-    "hiyoshi": [
-      {
-        "to": "shintsunashima",
-        "weight": 22,
-        "fareWeight": 22,
-        "chihou": false
-      },
-      {
-        "to": "musashikosugi_tokyu",
-        "weight": 28,
-        "fareWeight": 28,
-        "chihou": false
-      },
-      {
-        "to": "tsunashima",
-        "weight": 22,
-        "fareWeight": 22,
-        "chihou": false
-      }
-    ],
     "shinyokohama_tokyu_sotetsu": [
       {
         "to": "shintsunashima",
@@ -1465,26 +1533,6 @@
         "to": "unoki",
         "weight": 11,
         "fareWeight": 11,
-        "chihou": false
-      }
-    ],
-    "tamagawa": [
-      {
-        "to": "numabe",
-        "weight": 9,
-        "fareWeight": 9,
-        "chihou": false
-      },
-      {
-        "to": "denenchofu",
-        "weight": 8,
-        "fareWeight": 8,
-        "chihou": false
-      },
-      {
-        "to": "shinmaruko",
-        "weight": 13,
-        "fareWeight": 13,
         "chihou": false
       }
     ],
@@ -1539,8 +1587,8 @@
       },
       {
         "to": "kamata_tokyu",
-        "weight": 0,
-        "fareWeight": 0,
+        "weight": 13,
+        "fareWeight": 13,
         "chihou": false
       }
     ],
@@ -1611,34 +1659,6 @@
         "to": "jiyugaoka",
         "weight": 14,
         "fareWeight": 14,
-        "chihou": false
-      }
-    ],
-    "shinmaruko": [
-      {
-        "to": "tamagawa",
-        "weight": 13,
-        "fareWeight": 13,
-        "chihou": false
-      },
-      {
-        "to": "musashikosugi_tokyu",
-        "weight": 5,
-        "fareWeight": 5,
-        "chihou": false
-      }
-    ],
-    "musashikosugi_tokyu": [
-      {
-        "to": "shinmaruko",
-        "weight": 5,
-        "fareWeight": 5,
-        "chihou": false
-      },
-      {
-        "to": "hiyoshi",
-        "weight": 28,
-        "fareWeight": 28,
         "chihou": false
       }
     ],
