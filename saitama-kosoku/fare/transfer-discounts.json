@@ -1,0 +1,54 @@
+{
+  "operator": "saitama",
+  "rules": [
+    {
+      "id": "metro-saitama-akabaneiwabuchi",
+      "kind": "fixed",
+      "bidirectional": true,
+      "connection": [
+        {
+          "operator": "metro",
+          "id": "akabaneiwabuchi",
+          "name": "赤羽岩淵"
+        },
+        {
+          "operator": "saitama",
+          "id": "akabaneiwabuchi",
+          "name": "赤羽岩淵"
+        }
+      ],
+      "sections": [
+        {
+          "operator": "metro",
+          "stations": [
+            {
+              "id": "shimo",
+              "name": "志茂"
+            },
+            {
+              "id": "ojikamiya",
+              "name": "王子神谷"
+            }
+          ]
+        },
+        {
+          "operator": "saitama",
+          "stations": [
+            {
+              "id": "kawaguchimotogo",
+              "name": "川口元郷"
+            }
+          ]
+        }
+      ],
+      "ticketTypes": [
+        "paper",
+        "ic"
+      ],
+      "discount": {
+        "adult": 30,
+        "child": 20
+      }
+    }
+  ]
+}
