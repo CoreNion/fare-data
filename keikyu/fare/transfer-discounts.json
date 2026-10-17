@@ -1,0 +1,536 @@
+{
+  "operator": "keikyu",
+  "rules": [
+    {
+      "id": "toei-keikyu-sengakuji",
+      "kind": "fixed",
+      "bidirectional": true,
+      "connection": [
+        {
+          "operator": "toei",
+          "id": "sengakuji",
+          "name": "泉岳寺"
+        },
+        {
+          "operator": "keikyu",
+          "id": "sengakuji",
+          "name": "泉岳寺"
+        }
+      ],
+      "sections": [
+        {
+          "operator": "toei",
+          "stations": [
+            {
+              "id": "shibakoen",
+              "name": "芝公園"
+            },
+            {
+              "id": "daimon",
+              "name": "大門"
+            },
+            {
+              "id": "mita",
+              "name": "三田"
+            },
+            {
+              "id": "shirokanetakanawa",
+              "name": "白金高輪"
+            },
+            {
+              "id": "takanawadai",
+              "name": "高輪台"
+            },
+            {
+              "id": "gotanda_subway",
+              "name": "五反田"
+            }
+          ]
+        },
+        {
+          "operator": "keikyu",
+          "stations": [
+            {
+              "id": "shinagawa_keikyu",
+              "name": "品川"
+            },
+            {
+              "id": "kitashinagawa",
+              "name": "北品川"
+            },
+            {
+              "id": "shimbamba",
+              "name": "新馬場"
+            }
+          ]
+        }
+      ],
+      "ticketTypes": [
+        "paper",
+        "ic"
+      ],
+      "discount": {
+        "adult": 20,
+        "child": 10
+      }
+    },
+    {
+      "id": "tokyu-keikyu-yokohama",
+      "kind": "fixed",
+      "bidirectional": true,
+      "connection": [
+        {
+          "operator": "tokyu",
+          "id": "yokohama_tokyu_mm",
+          "name": "横浜"
+        },
+        {
+          "operator": "keikyu",
+          "id": "yokohama_keikyu",
+          "name": "横浜"
+        }
+      ],
+      "sections": [
+        {
+          "operator": "tokyu",
+          "stations": [
+            {
+              "id": "hakuraku",
+              "name": "白楽"
+            },
+            {
+              "id": "higashihakuraku",
+              "name": "東白楽"
+            },
+            {
+              "id": "tanmachi",
+              "name": "反町"
+            }
+          ]
+        },
+        {
+          "operator": "keikyu",
+          "stations": [
+            {
+              "id": "kanagawa",
+              "name": "神奈川"
+            },
+            {
+              "id": "keikyuhigashikanagawa",
+              "name": "京急東神奈川"
+            },
+            {
+              "id": "kanagawashimmachi",
+              "name": "神奈川新町"
+            },
+            {
+              "id": "koyasu",
+              "name": "子安"
+            },
+            {
+              "id": "tobe",
+              "name": "戸部"
+            },
+            {
+              "id": "hinodecho",
+              "name": "日ノ出町"
+            }
+          ]
+        }
+      ],
+      "ticketTypes": [
+        "paper",
+        "ic"
+      ],
+      "discount": {
+        "adult": 20,
+        "child": 10
+      }
+    },
+    {
+      "id": "sotetsu-keikyu-yokohama",
+      "kind": "fixed",
+      "bidirectional": true,
+      "connection": [
+        {
+          "operator": "sotetsu",
+          "id": "yokohama_sotetsu",
+          "name": "横浜"
+        },
+        {
+          "operator": "keikyu",
+          "id": "yokohama_keikyu",
+          "name": "横浜"
+        }
+      ],
+      "sections": [
+        {
+          "operator": "sotetsu",
+          "stations": [
+            {
+              "id": "hiranumabashi",
+              "name": "平沼橋"
+            },
+            {
+              "id": "nishiyokohama",
+              "name": "西横浜"
+            },
+            {
+              "id": "tennocho",
+              "name": "天王町"
+            }
+          ]
+        },
+        {
+          "operator": "keikyu",
+          "stations": [
+            {
+              "id": "kanagawa",
+              "name": "神奈川"
+            },
+            {
+              "id": "keikyuhigashikanagawa",
+              "name": "京急東神奈川"
+            },
+            {
+              "id": "kanagawashimmachi",
+              "name": "神奈川新町"
+            },
+            {
+              "id": "koyasu",
+              "name": "子安"
+            },
+            {
+              "id": "tobe",
+              "name": "戸部"
+            },
+            {
+              "id": "hinodecho",
+              "name": "日ノ出町"
+            }
+          ]
+        }
+      ],
+      "ticketTypes": [
+        "paper",
+        "ic"
+      ],
+      "discount": {
+        "adult": 20,
+        "child": 10
+      }
+    },
+    {
+      "id": "keikyu-jre-shinagawa",
+      "kind": "fixed",
+      "bidirectional": true,
+      "connection": [
+        {
+          "operator": "keikyu",
+          "id": "shinagawa_keikyu",
+          "name": "品川"
+        },
+        {
+          "operator": "jre",
+          "id": "shinagawa",
+          "name": "品川"
+        }
+      ],
+      "sections": [
+        {
+          "operator": "keikyu",
+          "stations": [
+            {
+              "id": "sengakuji",
+              "name": "泉岳寺"
+            },
+            {
+              "id": "kitashinagawa",
+              "name": "北品川"
+            },
+            {
+              "id": "shimbamba",
+              "name": "新馬場"
+            },
+            {
+              "id": "aomonoyokocho",
+              "name": "青物横丁"
+            },
+            {
+              "id": "samezu",
+              "name": "鮫洲"
+            }
+          ]
+        },
+        {
+          "operator": "jre",
+          "stations": [
+            {
+              "id": "takanawagetowei",
+              "name": "高輪ゲートウェイ"
+            },
+            {
+              "id": "tamachi",
+              "name": "田町"
+            },
+            {
+              "id": "osaki",
+              "name": "大崎"
+            },
+            {
+              "id": "gotanda",
+              "name": "五反田"
+            },
+            {
+              "id": "oimachi",
+              "name": "大井町"
+            }
+          ]
+        }
+      ],
+      "ticketTypes": [
+        "paper",
+        "ic"
+      ],
+      "discount": {
+        "adult": 10,
+        "child": 10
+      }
+    },
+    {
+      "id": "keikyu-jre-hatchonawate",
+      "kind": "fixed",
+      "bidirectional": true,
+      "connection": [
+        {
+          "operator": "keikyu",
+          "id": "hatchonawate_keikyu",
+          "name": "八丁畷"
+        },
+        {
+          "operator": "jre",
+          "id": "hatchonawate",
+          "name": "八丁畷"
+        }
+      ],
+      "sections": [
+        {
+          "operator": "keikyu",
+          "stations": [
+            {
+              "id": "rokugodote",
+              "name": "六郷土手"
+            },
+            {
+              "id": "keikyukawasaki",
+              "name": "京急川崎"
+            },
+            {
+              "id": "minatocho",
+              "name": "港町"
+            },
+            {
+              "id": "tsurumiichiba",
+              "name": "鶴見市場"
+            },
+            {
+              "id": "keikyutsurumi",
+              "name": "京急鶴見"
+            },
+            {
+              "id": "kagetsusoji",
+              "name": "花月総持寺"
+            }
+          ]
+        },
+        {
+          "operator": "jre",
+          "stations": [
+            {
+              "id": "yako",
+              "name": "矢向"
+            },
+            {
+              "id": "kawasaki",
+              "name": "川崎"
+            },
+            {
+              "id": "shitte",
+              "name": "尻手"
+            },
+            {
+              "id": "kawasakishinmachi",
+              "name": "川崎新町"
+            },
+            {
+              "id": "odasakae",
+              "name": "小田栄"
+            },
+            {
+              "id": "hamakawasaki",
+              "name": "浜川崎"
+            }
+          ]
+        }
+      ],
+      "ticketTypes": [
+        "paper",
+        "ic"
+      ],
+      "discount": {
+        "adult": 20,
+        "child": 10
+      }
+    },
+    {
+      "id": "keikyu-jre-yokohama",
+      "kind": "fixed",
+      "bidirectional": true,
+      "connection": [
+        {
+          "operator": "keikyu",
+          "id": "yokohama_keikyu",
+          "name": "横浜"
+        },
+        {
+          "operator": "jre",
+          "id": "yokohama",
+          "name": "横浜"
+        }
+      ],
+      "sections": [
+        {
+          "operator": "keikyu",
+          "stations": [
+            {
+              "id": "koyasu",
+              "name": "子安"
+            },
+            {
+              "id": "kanagawashimmachi",
+              "name": "神奈川新町"
+            },
+            {
+              "id": "keikyuhigashikanagawa",
+              "name": "京急東神奈川"
+            },
+            {
+              "id": "kanagawa",
+              "name": "神奈川"
+            },
+            {
+              "id": "tobe",
+              "name": "戸部"
+            },
+            {
+              "id": "hinodecho",
+              "name": "日ノ出町"
+            }
+          ]
+        },
+        {
+          "operator": "jre",
+          "stations": [
+            {
+              "id": "higashikanagawa",
+              "name": "東神奈川"
+            },
+            {
+              "id": "sakuragicho",
+              "name": "桜木町"
+            },
+            {
+              "id": "kannai",
+              "name": "関内"
+            },
+            {
+              "id": "hodogaya",
+              "name": "保土ヶ谷"
+            }
+          ]
+        }
+      ],
+      "ticketTypes": [
+        "paper",
+        "ic"
+      ],
+      "discount": {
+        "adult": 10,
+        "child": 10
+      }
+    },
+    {
+      "id": "keikyu-yokohama-minatomirai-yokohama",
+      "kind": "fixed",
+      "bidirectional": true,
+      "connection": [
+        {
+          "operator": "keikyu",
+          "id": "yokohama_keikyu",
+          "name": "横浜"
+        },
+        {
+          "operator": "yokohama-minatomirai",
+          "id": null,
+          "name": "横浜"
+        }
+      ],
+      "sections": [
+        {
+          "operator": "keikyu",
+          "stations": [
+            {
+              "id": "koyasu",
+              "name": "子安"
+            },
+            {
+              "id": "kanagawashimmachi",
+              "name": "神奈川新町"
+            },
+            {
+              "id": "keikyuhigashikanagawa",
+              "name": "京急東神奈川"
+            },
+            {
+              "id": "kanagawa",
+              "name": "神奈川"
+            },
+            {
+              "id": "tobe",
+              "name": "戸部"
+            },
+            {
+              "id": "hinodecho",
+              "name": "日ノ出町"
+            }
+          ]
+        },
+        {
+          "operator": "yokohama-minatomirai",
+          "stations": [
+            {
+              "id": null,
+              "name": "新高島"
+            },
+            {
+              "id": null,
+              "name": "みなとみらい"
+            },
+            {
+              "id": null,
+              "name": "馬車道"
+            }
+          ]
+        }
+      ],
+      "ticketTypes": [
+        "paper",
+        "ic"
+      ],
+      "discount": {
+        "adult": 20,
+        "child": 10
+      }
+    }
+  ]
+}

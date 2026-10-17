@@ -1,0 +1,57 @@
+{
+  "lines": [
+    {
+      "id": "airport",
+      "stations": [
+        {
+          "name": "京急蒲田",
+          "id": "keikyukamata",
+          "km": 0,
+          "sp": []
+        },
+        {
+          "name": "糀谷",
+          "id": "kojiya",
+          "km": 9,
+          "sp": []
+        },
+        {
+          "name": "大鳥居",
+          "id": "otorii",
+          "km": 19,
+          "sp": []
+        },
+        {
+          "name": "穴守稲荷",
+          "id": "anamoriiinari",
+          "km": 26,
+          "sp": []
+        },
+        {
+          "name": "天空橋",
+          "id": "tenkubashi_keikyu",
+          "km": 33,
+          "sp": [
+            "kasan_airport"
+          ]
+        },
+        {
+          "name": "羽田空港第3ターミナル",
+          "id": "haneda_airport_terminal3_keikyu",
+          "km": 45,
+          "sp": [
+            "kasan_airport"
+          ]
+        },
+        {
+          "name": "羽田空港第1・第2ターミナル",
+          "id": "haneda_airport_terminal1_2",
+          "km": 65,
+          "sp": [
+            "kasan_airport"
+          ]
+        }
+      ]
+    }
+  ]
+}
