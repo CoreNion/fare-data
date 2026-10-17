@@ -1,0 +1,907 @@
+{
+  "operator": "seibu",
+  "rules": [
+    {
+      "id": "metro-seibu-shinjuku",
+      "kind": "fixed",
+      "bidirectional": true,
+      "connection": [
+        {
+          "operator": "metro",
+          "id": "shinjuku_metro",
+          "name": "新宿"
+        },
+        {
+          "operator": "seibu",
+          "id": "seibushinjuku",
+          "name": "西武新宿"
+        }
+      ],
+      "sections": [
+        {
+          "operator": "metro",
+          "stations": [
+            {
+              "id": "shinjukugyoemmae",
+              "name": "新宿御苑前"
+            },
+            {
+              "id": "shinjukusanchome_metro",
+              "name": "新宿三丁目"
+            },
+            {
+              "id": "nishishinjuku",
+              "name": "西新宿"
+            },
+            {
+              "id": "nakanosakaue_metro",
+              "name": "中野坂上"
+            },
+            {
+              "id": "shinnakano",
+              "name": "新中野"
+            },
+            {
+              "id": "nakanoshimbashi",
+              "name": "中野新橋"
+            },
+            {
+              "id": "higashishinjuku_metro",
+              "name": "東新宿"
+            },
+            {
+              "id": "kitasando",
+              "name": "北参道"
+            }
+          ]
+        },
+        {
+          "operator": "seibu",
+          "stations": [
+            {
+              "id": "takadanobaba_seibu",
+              "name": "高田馬場"
+            },
+            {
+              "id": "shimochiai",
+              "name": "下落合"
+            },
+            {
+              "id": "nakai_seibu",
+              "name": "中井"
+            }
+          ]
+        }
+      ],
+      "ticketTypes": [
+        "paper",
+        "ic"
+      ],
+      "discount": {
+        "adult": 20,
+        "child": 10
+      }
+    },
+    {
+      "id": "metro-seibu-takadanobaba",
+      "kind": "fixed",
+      "bidirectional": true,
+      "connection": [
+        {
+          "operator": "metro",
+          "id": "takadanobaba_subway",
+          "name": "高田馬場"
+        },
+        {
+          "operator": "seibu",
+          "id": "takadanobaba_seibu",
+          "name": "高田馬場"
+        }
+      ],
+      "sections": [
+        {
+          "operator": "metro",
+          "stations": [
+            {
+              "id": "nakano",
+              "name": "中野"
+            },
+            {
+              "id": "ochiai",
+              "name": "落合"
+            },
+            {
+              "id": "waseda",
+              "name": "早稲田"
+            },
+            {
+              "id": "kagurazaka",
+              "name": "神楽坂"
+            }
+          ]
+        },
+        {
+          "operator": "seibu",
+          "stations": [
+            {
+              "id": "seibushinjuku",
+              "name": "西武新宿"
+            },
+            {
+              "id": "shimochiai",
+              "name": "下落合"
+            },
+            {
+              "id": "nakai_seibu",
+              "name": "中井"
+            },
+            {
+              "id": "araiyakushimae",
+              "name": "新井薬師前"
+            }
+          ]
+        }
+      ],
+      "ticketTypes": [
+        "paper",
+        "ic"
+      ],
+      "discount": {
+        "adult": 20,
+        "child": 10
+      }
+    },
+    {
+      "id": "metro-seibu-ikebukuro",
+      "kind": "fixed",
+      "bidirectional": true,
+      "connection": [
+        {
+          "operator": "metro",
+          "id": "ikebukuro_subway",
+          "name": "池袋"
+        },
+        {
+          "operator": "seibu",
+          "id": "ikebukuro_seibu",
+          "name": "池袋"
+        }
+      ],
+      "sections": [
+        {
+          "operator": "metro",
+          "stations": [
+            {
+              "id": "shinotsuka",
+              "name": "新大塚"
+            },
+            {
+              "id": "myogadani",
+              "name": "茗荷谷"
+            },
+            {
+              "id": "senkawa",
+              "name": "千川"
+            },
+            {
+              "id": "kanamecho",
+              "name": "要町"
+            },
+            {
+              "id": "higashiikebukuro",
+              "name": "東池袋"
+            },
+            {
+              "id": "gokokuji",
+              "name": "護国寺"
+            },
+            {
+              "id": "zoshigaya",
+              "name": "雑司が谷"
+            },
+            {
+              "id": "nishiwaseda",
+              "name": "西早稲田"
+            }
+          ]
+        },
+        {
+          "operator": "seibu",
+          "stations": [
+            {
+              "id": "shiinamachi",
+              "name": "椎名町"
+            },
+            {
+              "id": "higashinagasaki",
+              "name": "東長崎"
+            }
+          ]
+        }
+      ],
+      "ticketTypes": [
+        "paper",
+        "ic"
+      ],
+      "discount": {
+        "adult": 20,
+        "child": 10
+      }
+    },
+    {
+      "id": "metro-seibu-kotakemukaihara",
+      "kind": "fixed",
+      "bidirectional": true,
+      "connection": [
+        {
+          "operator": "metro",
+          "id": "kotakemukaihara",
+          "name": "小竹向原"
+        },
+        {
+          "operator": "seibu",
+          "id": "kotakemukaihara",
+          "name": "小竹向原"
+        }
+      ],
+      "sections": [
+        {
+          "operator": "metro",
+          "stations": [
+            {
+              "id": "heiwadai",
+              "name": "平和台"
+            },
+            {
+              "id": "hikawadai",
+              "name": "氷川台"
+            },
+            {
+              "id": "senkawa",
+              "name": "千川"
+            },
+            {
+              "id": "kanamecho",
+              "name": "要町"
+            }
+          ]
+        },
+        {
+          "operator": "seibu",
+          "stations": [
+            {
+              "id": "shinsakuradai",
+              "name": "新桜台"
+            },
+            {
+              "id": "nerima",
+              "name": "練馬"
+            },
+            {
+              "id": "sakuradai",
+              "name": "桜台"
+            },
+            {
+              "id": "toshimaen",
+              "name": "豊島園"
+            }
+          ]
+        }
+      ],
+      "ticketTypes": [
+        "paper",
+        "ic"
+      ],
+      "discount": {
+        "adult": 20,
+        "child": 10
+      }
+    },
+    {
+      "id": "toei-seibu-shinjuku",
+      "kind": "fixed",
+      "bidirectional": true,
+      "connection": [
+        {
+          "operator": "toei",
+          "id": "shinjukunishiguchi",
+          "name": "新宿西口"
+        },
+        {
+          "operator": "seibu",
+          "id": "seibushinjuku",
+          "name": "西武新宿"
+        }
+      ],
+      "sections": [
+        {
+          "operator": "toei",
+          "stations": [
+            {
+              "id": "nishishinjukugochome",
+              "name": "西新宿五丁目"
+            },
+            {
+              "id": "shinjuku_toei_keio",
+              "name": "新宿"
+            },
+            {
+              "id": "tochomae",
+              "name": "都庁前"
+            },
+            {
+              "id": "higashishinjuku_toei",
+              "name": "東新宿"
+            },
+            {
+              "id": "wakamatsukawada",
+              "name": "若松河田"
+            }
+          ]
+        },
+        {
+          "operator": "seibu",
+          "stations": [
+            {
+              "id": "takadanobaba_seibu",
+              "name": "高田馬場"
+            },
+            {
+              "id": "shimochiai",
+              "name": "下落合"
+            },
+            {
+              "id": "nakai_seibu",
+              "name": "中井"
+            }
+          ]
+        }
+      ],
+      "ticketTypes": [
+        "ic"
+      ],
+      "discount": {
+        "adult": 20,
+        "child": 10
+      }
+    },
+    {
+      "id": "toei-seibu-nakai",
+      "kind": "fixed",
+      "bidirectional": true,
+      "connection": [
+        {
+          "operator": "toei",
+          "id": "nakai",
+          "name": "中井"
+        },
+        {
+          "operator": "seibu",
+          "id": "nakai_seibu",
+          "name": "中井"
+        }
+      ],
+      "sections": [
+        {
+          "operator": "toei",
+          "stations": [
+            {
+              "id": "shinegota",
+              "name": "新江古田"
+            },
+            {
+              "id": "ochiaiminaminagasaki",
+              "name": "落合南長崎"
+            },
+            {
+              "id": "higashinakano_subway",
+              "name": "東中野"
+            },
+            {
+              "id": "nakanosakaue_toei",
+              "name": "中野坂上"
+            }
+          ]
+        },
+        {
+          "operator": "seibu",
+          "stations": [
+            {
+              "id": "shimochiai",
+              "name": "下落合"
+            },
+            {
+              "id": "takadanobaba_seibu",
+              "name": "高田馬場"
+            },
+            {
+              "id": "seibushinjuku",
+              "name": "西武新宿"
+            },
+            {
+              "id": "araiyakushimae",
+              "name": "新井薬師前"
+            },
+            {
+              "id": "numabukuro",
+              "name": "沼袋"
+            },
+            {
+              "id": "nogata",
+              "name": "野方"
+            }
+          ]
+        }
+      ],
+      "ticketTypes": [
+        "ic"
+      ],
+      "discount": {
+        "adult": 20,
+        "child": 10
+      }
+    },
+    {
+      "id": "toei-seibu-nerima",
+      "kind": "fixed",
+      "bidirectional": true,
+      "connection": [
+        {
+          "operator": "toei",
+          "id": "nerima_subway",
+          "name": "練馬"
+        },
+        {
+          "operator": "seibu",
+          "id": "nerima",
+          "name": "練馬"
+        }
+      ],
+      "sections": [
+        {
+          "operator": "toei",
+          "stations": [
+            {
+              "id": "nerimakasugacho",
+              "name": "練馬春日町"
+            },
+            {
+              "id": "toshimaen_subway",
+              "name": "豊島園"
+            },
+            {
+              "id": "shinegota",
+              "name": "新江古田"
+            },
+            {
+              "id": "ochiaiminaminagasaki",
+              "name": "落合南長崎"
+            }
+          ]
+        },
+        {
+          "operator": "seibu",
+          "stations": [
+            {
+              "id": "nakamurabashi",
+              "name": "中村橋"
+            },
+            {
+              "id": "fujimidai",
+              "name": "富士見台"
+            },
+            {
+              "id": "nerimatakanodai",
+              "name": "練馬高野台"
+            },
+            {
+              "id": "sakuradai",
+              "name": "桜台"
+            },
+            {
+              "id": "ekoda",
+              "name": "江古田"
+            },
+            {
+              "id": "higashinagasaki",
+              "name": "東長崎"
+            },
+            {
+              "id": "shinsakuradai",
+              "name": "新桜台"
+            },
+            {
+              "id": "kotakemukaihara",
+              "name": "小竹向原"
+            }
+          ]
+        }
+      ],
+      "ticketTypes": [
+        "ic"
+      ],
+      "discount": {
+        "adult": 20,
+        "child": 10
+      }
+    },
+    {
+      "id": "seibu-jre-kokubunji",
+      "kind": "fixed",
+      "bidirectional": true,
+      "connection": [
+        {
+          "operator": "seibu",
+          "id": "kokubunji_seibu",
+          "name": "国分寺"
+        },
+        {
+          "operator": "jre",
+          "id": "kokubunji",
+          "name": "国分寺"
+        }
+      ],
+      "sections": [
+        {
+          "operator": "seibu",
+          "stations": [
+            {
+              "id": "takanodai",
+              "name": "鷹の台"
+            },
+            {
+              "id": "koigakubo",
+              "name": "恋ヶ窪"
+            },
+            {
+              "id": "omekaido",
+              "name": "青梅街道"
+            },
+            {
+              "id": "hitotsubashigakuen",
+              "name": "一橋学園"
+            }
+          ]
+        },
+        {
+          "operator": "jre",
+          "stations": [
+            {
+              "id": "musashikoganei",
+              "name": "武蔵小金井"
+            },
+            {
+              "id": "nishikokubunji",
+              "name": "西国分寺"
+            }
+          ]
+        }
+      ],
+      "ticketTypes": [
+        "paper",
+        "ic"
+      ],
+      "discount": {
+        "adult": 20,
+        "child": 10
+      }
+    },
+    {
+      "id": "seibu-jre-haijima",
+      "kind": "fixed",
+      "bidirectional": true,
+      "connection": [
+        {
+          "operator": "seibu",
+          "id": "haijima_seibu",
+          "name": "拝島"
+        },
+        {
+          "operator": "jre",
+          "id": "haijima",
+          "name": "拝島"
+        }
+      ],
+      "sections": [
+        {
+          "operator": "seibu",
+          "stations": [
+            {
+              "id": "tamagawajosui",
+              "name": "玉川上水"
+            },
+            {
+              "id": "musashisunagawa",
+              "name": "武蔵砂川"
+            },
+            {
+              "id": "seibutachikawa",
+              "name": "西武立川"
+            }
+          ]
+        },
+        {
+          "operator": "jre",
+          "stations": [
+            {
+              "id": "akishima",
+              "name": "昭島"
+            },
+            {
+              "id": "ushihama",
+              "name": "牛浜"
+            },
+            {
+              "id": "fussa",
+              "name": "福生"
+            },
+            {
+              "id": "kumagawa",
+              "name": "熊川"
+            },
+            {
+              "id": "higashifussa",
+              "name": "東福生"
+            }
+          ]
+        }
+      ],
+      "ticketTypes": [
+        "paper",
+        "ic"
+      ],
+      "discount": {
+        "adult": 20,
+        "child": 10
+      }
+    },
+    {
+      "id": "seibu-jre-musashisakai",
+      "kind": "fixed",
+      "bidirectional": true,
+      "connection": [
+        {
+          "operator": "seibu",
+          "id": "musashisakai_seibu",
+          "name": "武蔵境"
+        },
+        {
+          "operator": "jre",
+          "id": "musashisakai",
+          "name": "武蔵境"
+        }
+      ],
+      "sections": [
+        {
+          "operator": "seibu",
+          "stations": [
+            {
+              "id": "tama",
+              "name": "多磨"
+            },
+            {
+              "id": "shinkoganei",
+              "name": "新小金井"
+            }
+          ]
+        },
+        {
+          "operator": "jre",
+          "stations": [
+            {
+              "id": "mitaka",
+              "name": "三鷹"
+            },
+            {
+              "id": "higashikoganei",
+              "name": "東小金井"
+            }
+          ]
+        }
+      ],
+      "ticketTypes": [
+        "paper",
+        "ic"
+      ],
+      "discount": {
+        "adult": 20,
+        "child": 10
+      }
+    },
+    {
+      "id": "seibu-jre-ikebukuro",
+      "kind": "fixed",
+      "bidirectional": true,
+      "connection": [
+        {
+          "operator": "seibu",
+          "id": "ikebukuro_seibu",
+          "name": "池袋"
+        },
+        {
+          "operator": "jre",
+          "id": "ikebukuro",
+          "name": "池袋"
+        }
+      ],
+      "sections": [
+        {
+          "operator": "seibu",
+          "stations": [
+            {
+              "id": "higashinagasaki",
+              "name": "東長崎"
+            },
+            {
+              "id": "shiinamachi",
+              "name": "椎名町"
+            }
+          ]
+        },
+        {
+          "operator": "jre",
+          "stations": [
+            {
+              "id": "mejiro",
+              "name": "目白"
+            },
+            {
+              "id": "takadanobaba",
+              "name": "高田馬場"
+            },
+            {
+              "id": "otsuka",
+              "name": "大塚"
+            },
+            {
+              "id": "sugamo",
+              "name": "巣鴨"
+            },
+            {
+              "id": "itabashi",
+              "name": "板橋"
+            }
+          ]
+        }
+      ],
+      "ticketTypes": [
+        "paper",
+        "ic"
+      ],
+      "discount": {
+        "adult": 10,
+        "child": 10
+      }
+    },
+    {
+      "id": "seibu-tobu-ikebukuro",
+      "kind": "fixed",
+      "bidirectional": true,
+      "connection": [
+        {
+          "operator": "seibu",
+          "id": "ikebukuro_seibu",
+          "name": "池袋"
+        },
+        {
+          "operator": "tobu",
+          "id": null,
+          "name": "池袋"
+        }
+      ],
+      "sections": [
+        {
+          "operator": "seibu",
+          "stations": [
+            {
+              "id": "higashinagasaki",
+              "name": "東長崎"
+            },
+            {
+              "id": "shiinamachi",
+              "name": "椎名町"
+            }
+          ]
+        },
+        {
+          "operator": "tobu",
+          "stations": [
+            {
+              "id": null,
+              "name": "北池袋"
+            },
+            {
+              "id": null,
+              "name": "下板橋"
+            },
+            {
+              "id": null,
+              "name": "大山"
+            },
+            {
+              "id": null,
+              "name": "中板橋"
+            }
+          ]
+        }
+      ],
+      "ticketTypes": [
+        "paper",
+        "ic"
+      ],
+      "discount": {
+        "adult": 20,
+        "child": 10
+      }
+    },
+    {
+      "id": "seibu-jre-takadanobaba",
+      "kind": "fixed",
+      "bidirectional": true,
+      "connection": [
+        {
+          "operator": "seibu",
+          "id": "takadanobaba_seibu",
+          "name": "高田馬場"
+        },
+        {
+          "operator": "jre",
+          "id": "takadanobaba",
+          "name": "高田馬場"
+        }
+      ],
+      "sections": [
+        {
+          "operator": "seibu",
+          "stations": [
+            {
+              "id": "seibushinjuku",
+              "name": "西武新宿"
+            },
+            {
+              "id": "araiyakushimae",
+              "name": "新井薬師前"
+            },
+            {
+              "id": "nakai_seibu",
+              "name": "中井"
+            },
+            {
+              "id": "shimochiai",
+              "name": "下落合"
+            }
+          ]
+        },
+        {
+          "operator": "jre",
+          "stations": [
+            {
+              "id": "shinokubo",
+              "name": "新大久保"
+            },
+            {
+              "id": "shinjuku",
+              "name": "新宿"
+            },
+            {
+              "id": "mejiro",
+              "name": "目白"
+            },
+            {
+              "id": "ikebukuro",
+              "name": "池袋"
+            }
+          ]
+        }
+      ],
+      "ticketTypes": [
+        "paper",
+        "ic"
+      ],
+      "discount": {
+        "adult": 10,
+        "child": 10
+      }
+    }
+  ]
+}
