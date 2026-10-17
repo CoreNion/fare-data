@@ -1,0 +1,200 @@
+{
+  "operator": "yokohama-kosoku",
+  "rules": [
+    {
+      "id": "tokyu-yokohama-kosoku",
+      "kind": "fixed",
+      "bidirectional": true,
+      "connection": [
+        {
+          "operator": "tokyu",
+          "id": "yokohama_tokyu_mm",
+          "name": "横浜"
+        },
+        {
+          "operator": "yokohama-kosoku",
+          "id": "yokohama_tokyu_mm",
+          "name": "横浜"
+        }
+      ],
+      "sections": [
+        {
+          "operator": "tokyu",
+          "stations": [
+            {
+              "id": "hakuraku",
+              "name": "白楽"
+            },
+            {
+              "id": "higashihakuraku",
+              "name": "東白楽"
+            },
+            {
+              "id": "tanmachi",
+              "name": "反町"
+            }
+          ]
+        },
+        {
+          "operator": "yokohama-kosoku",
+          "stations": [
+            {
+              "id": "shintakashima",
+              "name": "新高島"
+            },
+            {
+              "id": "minatomirai",
+              "name": "みなとみらい"
+            },
+            {
+              "id": "bashamichi",
+              "name": "馬車道"
+            }
+          ]
+        }
+      ],
+      "ticketTypes": [
+        "paper",
+        "ic"
+      ],
+      "discount": {
+        "adult": 20,
+        "child": 10
+      }
+    },
+    {
+      "id": "keikyu-yokohama-kosoku",
+      "kind": "fixed",
+      "bidirectional": true,
+      "connection": [
+        {
+          "operator": "keikyu",
+          "id": "yokohama_keikyu",
+          "name": "横浜"
+        },
+        {
+          "operator": "yokohama-kosoku",
+          "id": "yokohama_tokyu_mm",
+          "name": "横浜"
+        }
+      ],
+      "sections": [
+        {
+          "operator": "keikyu",
+          "stations": [
+            {
+              "id": "koyasu",
+              "name": "子安"
+            },
+            {
+              "id": "kanagawashimmachi",
+              "name": "神奈川新町"
+            },
+            {
+              "id": "keikyuhigashikanagawa",
+              "name": "京急東神奈川"
+            },
+            {
+              "id": "kanagawa",
+              "name": "神奈川"
+            },
+            {
+              "id": "tobe",
+              "name": "戸部"
+            },
+            {
+              "id": "hinodecho",
+              "name": "日ノ出町"
+            }
+          ]
+        },
+        {
+          "operator": "yokohama-kosoku",
+          "stations": [
+            {
+              "id": "shintakashima",
+              "name": "新高島"
+            },
+            {
+              "id": "minatomirai",
+              "name": "みなとみらい"
+            },
+            {
+              "id": "bashamichi",
+              "name": "馬車道"
+            }
+          ]
+        }
+      ],
+      "ticketTypes": [
+        "paper",
+        "ic"
+      ],
+      "discount": {
+        "adult": 20,
+        "child": 10
+      }
+    },
+    {
+      "id": "sotetsu-yokohama-kosoku",
+      "kind": "fixed",
+      "bidirectional": true,
+      "connection": [
+        {
+          "operator": "sotetsu",
+          "id": "yokohama_sotetsu",
+          "name": "横浜"
+        },
+        {
+          "operator": "yokohama-kosoku",
+          "id": "yokohama_tokyu_mm",
+          "name": "横浜"
+        }
+      ],
+      "sections": [
+        {
+          "operator": "sotetsu",
+          "stations": [
+            {
+              "id": "hiranumabashi",
+              "name": "平沼橋"
+            },
+            {
+              "id": "nishiyokohama",
+              "name": "西横浜"
+            },
+            {
+              "id": "tennocho",
+              "name": "天王町"
+            }
+          ]
+        },
+        {
+          "operator": "yokohama-kosoku",
+          "stations": [
+            {
+              "id": "shintakashima",
+              "name": "新高島"
+            },
+            {
+              "id": "minatomirai",
+              "name": "みなとみらい"
+            },
+            {
+              "id": "bashamichi",
+              "name": "馬車道"
+            }
+          ]
+        }
+      ],
+      "ticketTypes": [
+        "paper",
+        "ic"
+      ],
+      "discount": {
+        "adult": 20,
+        "child": 10
+      }
+    }
+  ]
+}

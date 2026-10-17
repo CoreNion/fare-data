@@ -493,7 +493,7 @@
       }
     },
     {
-      "id": "tokyu-yokohama-minatomirai-yokohama",
+      "id": "tokyu-yokohama-kosoku",
       "kind": "fixed",
       "bidirectional": true,
       "connection": [
@@ -503,8 +503,8 @@
           "name": "横浜"
         },
         {
-          "operator": "yokohama-minatomirai",
-          "id": null,
+          "operator": "yokohama-kosoku",
+          "id": "yokohama_tokyu_mm",
           "name": "横浜"
         }
       ],
@@ -527,18 +527,18 @@
           ]
         },
         {
-          "operator": "yokohama-minatomirai",
+          "operator": "yokohama-kosoku",
           "stations": [
             {
-              "id": null,
+              "id": "shintakashima",
               "name": "新高島"
             },
             {
-              "id": null,
+              "id": "minatomirai",
               "name": "みなとみらい"
             },
             {
-              "id": null,
+              "id": "bashamichi",
               "name": "馬車道"
             }
           ]
@@ -993,7 +993,7 @@
       }
     },
     {
-      "id": "tokyu-yokohama-minatomirai-nagatsuta",
+      "id": "tokyu-kodomonokuni-nagatsuta",
       "kind": "fixed",
       "bidirectional": true,
       "connection": [
@@ -1003,7 +1003,7 @@
           "name": "長津田"
         },
         {
-          "operator": "yokohama-minatomirai",
+          "operator": "tokyu",
           "id": null,
           "name": "長津田"
         }
@@ -1031,7 +1031,7 @@
           ]
         },
         {
-          "operator": "yokohama-minatomirai",
+          "operator": "tokyu",
           "stations": [
             {
               "id": null,

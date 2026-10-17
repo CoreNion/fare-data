@@ -1,0 +1,114 @@
+{
+  "stations": {
+    "yokohama_tokyu_mm": {
+      "id": "yokohama_tokyu_mm",
+      "name": "横浜",
+      "km": 0,
+      "sp": []
+    },
+    "shintakashima": {
+      "id": "shintakashima",
+      "name": "新高島",
+      "km": 8,
+      "sp": []
+    },
+    "minatomirai": {
+      "id": "minatomirai",
+      "name": "みなとみらい",
+      "km": 17,
+      "sp": []
+    },
+    "bashamichi": {
+      "id": "bashamichi",
+      "name": "馬車道",
+      "km": 26,
+      "sp": []
+    },
+    "nihonodori": {
+      "id": "nihonodori",
+      "name": "日本大通り",
+      "km": 32,
+      "sp": []
+    },
+    "motomachichukagai": {
+      "id": "motomachichukagai",
+      "name": "元町･中華街",
+      "km": 41,
+      "sp": []
+    }
+  },
+  "adj": {
+    "shintakashima": [
+      {
+        "to": "yokohama_tokyu_mm",
+        "weight": 8,
+        "fareWeight": 8,
+        "chihou": false
+      },
+      {
+        "to": "minatomirai",
+        "weight": 9,
+        "fareWeight": 9,
+        "chihou": false
+      }
+    ],
+    "yokohama_tokyu_mm": [
+      {
+        "to": "shintakashima",
+        "weight": 8,
+        "fareWeight": 8,
+        "chihou": false
+      }
+    ],
+    "minatomirai": [
+      {
+        "to": "shintakashima",
+        "weight": 9,
+        "fareWeight": 9,
+        "chihou": false
+      },
+      {
+        "to": "bashamichi",
+        "weight": 9,
+        "fareWeight": 9,
+        "chihou": false
+      }
+    ],
+    "bashamichi": [
+      {
+        "to": "minatomirai",
+        "weight": 9,
+        "fareWeight": 9,
+        "chihou": false
+      },
+      {
+        "to": "nihonodori",
+        "weight": 6,
+        "fareWeight": 6,
+        "chihou": false
+      }
+    ],
+    "nihonodori": [
+      {
+        "to": "bashamichi",
+        "weight": 6,
+        "fareWeight": 6,
+        "chihou": false
+      },
+      {
+        "to": "motomachichukagai",
+        "weight": 9,
+        "fareWeight": 9,
+        "chihou": false
+      }
+    ],
+    "motomachichukagai": [
+      {
+        "to": "nihonodori",
+        "weight": 9,
+        "fareWeight": 9,
+        "chihou": false
+      }
+    ]
+  }
+}
