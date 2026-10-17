@@ -1,0 +1,1414 @@
+{
+  "stations": {
+    "sagamiono": {
+      "id": "sagamiono",
+      "name": "相模大野",
+      "km": 0,
+      "sp": []
+    },
+    "sagamiono_junction": {
+      "id": "sagamiono_junction",
+      "name": "相模大野分岐点",
+      "km": 2,
+      "sp": []
+    },
+    "higashirinkan": {
+      "id": "higashirinkan",
+      "name": "東林間",
+      "km": 15,
+      "sp": []
+    },
+    "chuorinkan_odakyu": {
+      "id": "chuorinkan_odakyu",
+      "name": "中央林間",
+      "km": 30,
+      "sp": []
+    },
+    "minamirinkan": {
+      "id": "minamirinkan",
+      "name": "南林間",
+      "km": 45,
+      "sp": []
+    },
+    "tsuruma": {
+      "id": "tsuruma",
+      "name": "鶴間",
+      "km": 51,
+      "sp": []
+    },
+    "yamato_odakyu": {
+      "id": "yamato_odakyu",
+      "name": "大和",
+      "km": 76,
+      "sp": []
+    },
+    "sakuragaoka": {
+      "id": "sakuragaoka",
+      "name": "桜ヶ丘",
+      "km": 98,
+      "sp": []
+    },
+    "kozashibuya": {
+      "id": "kozashibuya",
+      "name": "高座渋谷",
+      "km": 118,
+      "sp": []
+    },
+    "chogo": {
+      "id": "chogo",
+      "name": "長後",
+      "km": 140,
+      "sp": []
+    },
+    "shonandai_odakyu": {
+      "id": "shonandai_odakyu",
+      "name": "湘南台",
+      "km": 158,
+      "sp": []
+    },
+    "mutsuainichidaimae": {
+      "id": "mutsuainichidaimae",
+      "name": "六会日大前",
+      "km": 173,
+      "sp": []
+    },
+    "zengyo": {
+      "id": "zengyo",
+      "name": "善行",
+      "km": 197,
+      "sp": []
+    },
+    "fujisawahommachi": {
+      "id": "fujisawahommachi",
+      "name": "藤沢本町",
+      "km": 213,
+      "sp": []
+    },
+    "fujisawa_odakyu": {
+      "id": "fujisawa_odakyu",
+      "name": "藤沢",
+      "km": 231,
+      "sp": []
+    },
+    "honkugenuma": {
+      "id": "honkugenuma",
+      "name": "本鵠沼",
+      "km": 246,
+      "sp": []
+    },
+    "kugenumakaigan": {
+      "id": "kugenumakaigan",
+      "name": "鵠沼海岸",
+      "km": 259,
+      "sp": []
+    },
+    "kataseenoshima": {
+      "id": "kataseenoshima",
+      "name": "片瀬江ノ島",
+      "km": 276,
+      "sp": []
+    },
+    "shinjuku_odakyu": {
+      "id": "shinjuku_odakyu",
+      "name": "新宿",
+      "km": 0,
+      "sp": []
+    },
+    "minamishinjuku": {
+      "id": "minamishinjuku",
+      "name": "南新宿",
+      "km": 8,
+      "sp": []
+    },
+    "sangubashi": {
+      "id": "sangubashi",
+      "name": "参宮橋",
+      "km": 15,
+      "sp": []
+    },
+    "yoyogihachiman": {
+      "id": "yoyogihachiman",
+      "name": "代々木八幡",
+      "km": 27,
+      "sp": []
+    },
+    "yoyogiuehara": {
+      "id": "yoyogiuehara",
+      "name": "代々木上原",
+      "km": 35,
+      "sp": []
+    },
+    "higashikitazawa": {
+      "id": "higashikitazawa",
+      "name": "東北沢",
+      "km": 42,
+      "sp": []
+    },
+    "shimokitazawa_odakyu": {
+      "id": "shimokitazawa_odakyu",
+      "name": "下北沢",
+      "km": 49,
+      "sp": []
+    },
+    "setagayadaita": {
+      "id": "setagayadaita",
+      "name": "世田谷代田",
+      "km": 56,
+      "sp": []
+    },
+    "umegaoka": {
+      "id": "umegaoka",
+      "name": "梅ヶ丘",
+      "km": 63,
+      "sp": []
+    },
+    "gotokuji": {
+      "id": "gotokuji",
+      "name": "豪徳寺",
+      "km": 70,
+      "sp": []
+    },
+    "kyodo": {
+      "id": "kyodo",
+      "name": "経堂",
+      "km": 80,
+      "sp": []
+    },
+    "chitosefunabashi": {
+      "id": "chitosefunabashi",
+      "name": "千歳船橋",
+      "km": 92,
+      "sp": []
+    },
+    "soshigayaokura": {
+      "id": "soshigayaokura",
+      "name": "祖師ヶ谷大蔵",
+      "km": 106,
+      "sp": []
+    },
+    "seijogakuemmae": {
+      "id": "seijogakuemmae",
+      "name": "成城学園前",
+      "km": 116,
+      "sp": []
+    },
+    "kitami": {
+      "id": "kitami",
+      "name": "喜多見",
+      "km": 127,
+      "sp": []
+    },
+    "komae": {
+      "id": "komae",
+      "name": "狛江",
+      "km": 138,
+      "sp": []
+    },
+    "izumitamagawa": {
+      "id": "izumitamagawa",
+      "name": "和泉多摩川",
+      "km": 144,
+      "sp": []
+    },
+    "noborito_odakyu": {
+      "id": "noborito_odakyu",
+      "name": "登戸",
+      "km": 152,
+      "sp": []
+    },
+    "mukogaokayuen": {
+      "id": "mukogaokayuen",
+      "name": "向ヶ丘遊園",
+      "km": 158,
+      "sp": []
+    },
+    "ikuta": {
+      "id": "ikuta",
+      "name": "生田",
+      "km": 179,
+      "sp": []
+    },
+    "yomiurilandmae": {
+      "id": "yomiurilandmae",
+      "name": "読売ランド前",
+      "km": 192,
+      "sp": []
+    },
+    "yurigaoka": {
+      "id": "yurigaoka",
+      "name": "百合ヶ丘",
+      "km": 205,
+      "sp": []
+    },
+    "shinyurigaoka": {
+      "id": "shinyurigaoka",
+      "name": "新百合ヶ丘",
+      "km": 215,
+      "sp": []
+    },
+    "kakio": {
+      "id": "kakio",
+      "name": "柿生",
+      "km": 234,
+      "sp": []
+    },
+    "tsurukawa": {
+      "id": "tsurukawa",
+      "name": "鶴川",
+      "km": 251,
+      "sp": []
+    },
+    "tamagawagakuemmae": {
+      "id": "tamagawagakuemmae",
+      "name": "玉川学園前",
+      "km": 279,
+      "sp": []
+    },
+    "machida_odakyu": {
+      "id": "machida_odakyu",
+      "name": "町田",
+      "km": 308,
+      "sp": []
+    },
+    "odakyusagamihara": {
+      "id": "odakyusagamihara",
+      "name": "小田急相模原",
+      "km": 347,
+      "sp": []
+    },
+    "sobudaimae": {
+      "id": "sobudaimae",
+      "name": "相武台前",
+      "km": 369,
+      "sp": []
+    },
+    "zama": {
+      "id": "zama",
+      "name": "座間",
+      "km": 392,
+      "sp": []
+    },
+    "ebina_odakyu": {
+      "id": "ebina_odakyu",
+      "name": "海老名",
+      "km": 425,
+      "sp": []
+    },
+    "atsugi_odakyu": {
+      "id": "atsugi_odakyu",
+      "name": "厚木",
+      "km": 441,
+      "sp": []
+    },
+    "honatsugi": {
+      "id": "honatsugi",
+      "name": "本厚木",
+      "km": 454,
+      "sp": []
+    },
+    "aikoishida": {
+      "id": "aikoishida",
+      "name": "愛甲石田",
+      "km": 485,
+      "sp": []
+    },
+    "isehara": {
+      "id": "isehara",
+      "name": "伊勢原",
+      "km": 522,
+      "sp": []
+    },
+    "tsurumakionsen": {
+      "id": "tsurumakionsen",
+      "name": "鶴巻温泉",
+      "km": 559,
+      "sp": []
+    },
+    "tokaidaigakumae": {
+      "id": "tokaidaigakumae",
+      "name": "東海大学前",
+      "km": 570,
+      "sp": []
+    },
+    "hadano": {
+      "id": "hadano",
+      "name": "秦野",
+      "km": 617,
+      "sp": []
+    },
+    "shibusawa": {
+      "id": "shibusawa",
+      "name": "渋沢",
+      "km": 656,
+      "sp": []
+    },
+    "shimmatsuda": {
+      "id": "shimmatsuda",
+      "name": "新松田",
+      "km": 718,
+      "sp": []
+    },
+    "kaisei": {
+      "id": "kaisei",
+      "name": "開成",
+      "km": 743,
+      "sp": []
+    },
+    "kayama": {
+      "id": "kayama",
+      "name": "栢山",
+      "km": 762,
+      "sp": []
+    },
+    "tomizu": {
+      "id": "tomizu",
+      "name": "富水",
+      "km": 778,
+      "sp": []
+    },
+    "hotaruda": {
+      "id": "hotaruda",
+      "name": "螢田",
+      "km": 792,
+      "sp": []
+    },
+    "ashigara_odakyu": {
+      "id": "ashigara_odakyu",
+      "name": "足柄",
+      "km": 808,
+      "sp": []
+    },
+    "odawara_odakyu": {
+      "id": "odawara_odakyu",
+      "name": "小田原",
+      "km": 825,
+      "sp": []
+    },
+    "satsukidai": {
+      "id": "satsukidai",
+      "name": "五月台",
+      "km": 15,
+      "sp": []
+    },
+    "kurihira": {
+      "id": "kurihira",
+      "name": "栗平",
+      "km": 28,
+      "sp": []
+    },
+    "kurokawa": {
+      "id": "kurokawa",
+      "name": "黒川",
+      "km": 41,
+      "sp": []
+    },
+    "haruhino": {
+      "id": "haruhino",
+      "name": "はるひ野",
+      "km": 49,
+      "sp": []
+    },
+    "odakyunagayama": {
+      "id": "odakyunagayama",
+      "name": "小田急永山",
+      "km": 68,
+      "sp": []
+    },
+    "odakyutamacenter": {
+      "id": "odakyutamacenter",
+      "name": "小田急多摩センター",
+      "km": 91,
+      "sp": []
+    },
+    "karakida": {
+      "id": "karakida",
+      "name": "唐木田",
+      "km": 106,
+      "sp": []
+    }
+  },
+  "adj": {
+    "sagamiono_junction": [
+      {
+        "to": "sagamiono",
+        "weight": 2,
+        "fareWeight": 2,
+        "chihou": false
+      },
+      {
+        "to": "higashirinkan",
+        "weight": 13,
+        "fareWeight": 13,
+        "chihou": false
+      },
+      {
+        "to": "odakyusagamihara",
+        "weight": 22,
+        "fareWeight": 22,
+        "chihou": false
+      }
+    ],
+    "sagamiono": [
+      {
+        "to": "sagamiono_junction",
+        "weight": 2,
+        "fareWeight": 2,
+        "chihou": false
+      },
+      {
+        "to": "machida_odakyu",
+        "weight": 15,
+        "fareWeight": 15,
+        "chihou": false
+      }
+    ],
+    "higashirinkan": [
+      {
+        "to": "sagamiono_junction",
+        "weight": 13,
+        "fareWeight": 13,
+        "chihou": false
+      },
+      {
+        "to": "chuorinkan_odakyu",
+        "weight": 15,
+        "fareWeight": 15,
+        "chihou": false
+      }
+    ],
+    "chuorinkan_odakyu": [
+      {
+        "to": "higashirinkan",
+        "weight": 15,
+        "fareWeight": 15,
+        "chihou": false
+      },
+      {
+        "to": "minamirinkan",
+        "weight": 15,
+        "fareWeight": 15,
+        "chihou": false
+      }
+    ],
+    "minamirinkan": [
+      {
+        "to": "chuorinkan_odakyu",
+        "weight": 15,
+        "fareWeight": 15,
+        "chihou": false
+      },
+      {
+        "to": "tsuruma",
+        "weight": 6,
+        "fareWeight": 6,
+        "chihou": false
+      }
+    ],
+    "tsuruma": [
+      {
+        "to": "minamirinkan",
+        "weight": 6,
+        "fareWeight": 6,
+        "chihou": false
+      },
+      {
+        "to": "yamato_odakyu",
+        "weight": 25,
+        "fareWeight": 25,
+        "chihou": false
+      }
+    ],
+    "yamato_odakyu": [
+      {
+        "to": "tsuruma",
+        "weight": 25,
+        "fareWeight": 25,
+        "chihou": false
+      },
+      {
+        "to": "sakuragaoka",
+        "weight": 22,
+        "fareWeight": 22,
+        "chihou": false
+      }
+    ],
+    "sakuragaoka": [
+      {
+        "to": "yamato_odakyu",
+        "weight": 22,
+        "fareWeight": 22,
+        "chihou": false
+      },
+      {
+        "to": "kozashibuya",
+        "weight": 20,
+        "fareWeight": 20,
+        "chihou": false
+      }
+    ],
+    "kozashibuya": [
+      {
+        "to": "sakuragaoka",
+        "weight": 20,
+        "fareWeight": 20,
+        "chihou": false
+      },
+      {
+        "to": "chogo",
+        "weight": 22,
+        "fareWeight": 22,
+        "chihou": false
+      }
+    ],
+    "chogo": [
+      {
+        "to": "kozashibuya",
+        "weight": 22,
+        "fareWeight": 22,
+        "chihou": false
+      },
+      {
+        "to": "shonandai_odakyu",
+        "weight": 18,
+        "fareWeight": 18,
+        "chihou": false
+      }
+    ],
+    "shonandai_odakyu": [
+      {
+        "to": "chogo",
+        "weight": 18,
+        "fareWeight": 18,
+        "chihou": false
+      },
+      {
+        "to": "mutsuainichidaimae",
+        "weight": 15,
+        "fareWeight": 15,
+        "chihou": false
+      }
+    ],
+    "mutsuainichidaimae": [
+      {
+        "to": "shonandai_odakyu",
+        "weight": 15,
+        "fareWeight": 15,
+        "chihou": false
+      },
+      {
+        "to": "zengyo",
+        "weight": 24,
+        "fareWeight": 24,
+        "chihou": false
+      }
+    ],
+    "zengyo": [
+      {
+        "to": "mutsuainichidaimae",
+        "weight": 24,
+        "fareWeight": 24,
+        "chihou": false
+      },
+      {
+        "to": "fujisawahommachi",
+        "weight": 16,
+        "fareWeight": 16,
+        "chihou": false
+      }
+    ],
+    "fujisawahommachi": [
+      {
+        "to": "zengyo",
+        "weight": 16,
+        "fareWeight": 16,
+        "chihou": false
+      },
+      {
+        "to": "fujisawa_odakyu",
+        "weight": 18,
+        "fareWeight": 18,
+        "chihou": false
+      }
+    ],
+    "fujisawa_odakyu": [
+      {
+        "to": "fujisawahommachi",
+        "weight": 18,
+        "fareWeight": 18,
+        "chihou": false
+      },
+      {
+        "to": "honkugenuma",
+        "weight": 15,
+        "fareWeight": 15,
+        "chihou": false
+      }
+    ],
+    "honkugenuma": [
+      {
+        "to": "fujisawa_odakyu",
+        "weight": 15,
+        "fareWeight": 15,
+        "chihou": false
+      },
+      {
+        "to": "kugenumakaigan",
+        "weight": 13,
+        "fareWeight": 13,
+        "chihou": false
+      }
+    ],
+    "kugenumakaigan": [
+      {
+        "to": "honkugenuma",
+        "weight": 13,
+        "fareWeight": 13,
+        "chihou": false
+      },
+      {
+        "to": "kataseenoshima",
+        "weight": 17,
+        "fareWeight": 17,
+        "chihou": false
+      }
+    ],
+    "kataseenoshima": [
+      {
+        "to": "kugenumakaigan",
+        "weight": 17,
+        "fareWeight": 17,
+        "chihou": false
+      }
+    ],
+    "minamishinjuku": [
+      {
+        "to": "shinjuku_odakyu",
+        "weight": 8,
+        "fareWeight": 8,
+        "chihou": false
+      },
+      {
+        "to": "sangubashi",
+        "weight": 7,
+        "fareWeight": 7,
+        "chihou": false
+      }
+    ],
+    "shinjuku_odakyu": [
+      {
+        "to": "minamishinjuku",
+        "weight": 8,
+        "fareWeight": 8,
+        "chihou": false
+      }
+    ],
+    "sangubashi": [
+      {
+        "to": "minamishinjuku",
+        "weight": 7,
+        "fareWeight": 7,
+        "chihou": false
+      },
+      {
+        "to": "yoyogihachiman",
+        "weight": 12,
+        "fareWeight": 12,
+        "chihou": false
+      }
+    ],
+    "yoyogihachiman": [
+      {
+        "to": "sangubashi",
+        "weight": 12,
+        "fareWeight": 12,
+        "chihou": false
+      },
+      {
+        "to": "yoyogiuehara",
+        "weight": 8,
+        "fareWeight": 8,
+        "chihou": false
+      }
+    ],
+    "yoyogiuehara": [
+      {
+        "to": "yoyogihachiman",
+        "weight": 8,
+        "fareWeight": 8,
+        "chihou": false
+      },
+      {
+        "to": "higashikitazawa",
+        "weight": 7,
+        "fareWeight": 7,
+        "chihou": false
+      }
+    ],
+    "higashikitazawa": [
+      {
+        "to": "yoyogiuehara",
+        "weight": 7,
+        "fareWeight": 7,
+        "chihou": false
+      },
+      {
+        "to": "shimokitazawa_odakyu",
+        "weight": 7,
+        "fareWeight": 7,
+        "chihou": false
+      }
+    ],
+    "shimokitazawa_odakyu": [
+      {
+        "to": "higashikitazawa",
+        "weight": 7,
+        "fareWeight": 7,
+        "chihou": false
+      },
+      {
+        "to": "setagayadaita",
+        "weight": 7,
+        "fareWeight": 7,
+        "chihou": false
+      }
+    ],
+    "setagayadaita": [
+      {
+        "to": "shimokitazawa_odakyu",
+        "weight": 7,
+        "fareWeight": 7,
+        "chihou": false
+      },
+      {
+        "to": "umegaoka",
+        "weight": 7,
+        "fareWeight": 7,
+        "chihou": false
+      }
+    ],
+    "umegaoka": [
+      {
+        "to": "setagayadaita",
+        "weight": 7,
+        "fareWeight": 7,
+        "chihou": false
+      },
+      {
+        "to": "gotokuji",
+        "weight": 7,
+        "fareWeight": 7,
+        "chihou": false
+      }
+    ],
+    "gotokuji": [
+      {
+        "to": "umegaoka",
+        "weight": 7,
+        "fareWeight": 7,
+        "chihou": false
+      },
+      {
+        "to": "kyodo",
+        "weight": 10,
+        "fareWeight": 10,
+        "chihou": false
+      }
+    ],
+    "kyodo": [
+      {
+        "to": "gotokuji",
+        "weight": 10,
+        "fareWeight": 10,
+        "chihou": false
+      },
+      {
+        "to": "chitosefunabashi",
+        "weight": 12,
+        "fareWeight": 12,
+        "chihou": false
+      }
+    ],
+    "chitosefunabashi": [
+      {
+        "to": "kyodo",
+        "weight": 12,
+        "fareWeight": 12,
+        "chihou": false
+      },
+      {
+        "to": "soshigayaokura",
+        "weight": 14,
+        "fareWeight": 14,
+        "chihou": false
+      }
+    ],
+    "soshigayaokura": [
+      {
+        "to": "chitosefunabashi",
+        "weight": 14,
+        "fareWeight": 14,
+        "chihou": false
+      },
+      {
+        "to": "seijogakuemmae",
+        "weight": 10,
+        "fareWeight": 10,
+        "chihou": false
+      }
+    ],
+    "seijogakuemmae": [
+      {
+        "to": "soshigayaokura",
+        "weight": 10,
+        "fareWeight": 10,
+        "chihou": false
+      },
+      {
+        "to": "kitami",
+        "weight": 11,
+        "fareWeight": 11,
+        "chihou": false
+      }
+    ],
+    "kitami": [
+      {
+        "to": "seijogakuemmae",
+        "weight": 11,
+        "fareWeight": 11,
+        "chihou": false
+      },
+      {
+        "to": "komae",
+        "weight": 11,
+        "fareWeight": 11,
+        "chihou": false
+      }
+    ],
+    "komae": [
+      {
+        "to": "kitami",
+        "weight": 11,
+        "fareWeight": 11,
+        "chihou": false
+      },
+      {
+        "to": "izumitamagawa",
+        "weight": 6,
+        "fareWeight": 6,
+        "chihou": false
+      }
+    ],
+    "izumitamagawa": [
+      {
+        "to": "komae",
+        "weight": 6,
+        "fareWeight": 6,
+        "chihou": false
+      },
+      {
+        "to": "noborito_odakyu",
+        "weight": 8,
+        "fareWeight": 8,
+        "chihou": false
+      }
+    ],
+    "noborito_odakyu": [
+      {
+        "to": "izumitamagawa",
+        "weight": 8,
+        "fareWeight": 8,
+        "chihou": false
+      },
+      {
+        "to": "mukogaokayuen",
+        "weight": 6,
+        "fareWeight": 6,
+        "chihou": false
+      }
+    ],
+    "mukogaokayuen": [
+      {
+        "to": "noborito_odakyu",
+        "weight": 6,
+        "fareWeight": 6,
+        "chihou": false
+      },
+      {
+        "to": "ikuta",
+        "weight": 21,
+        "fareWeight": 21,
+        "chihou": false
+      }
+    ],
+    "ikuta": [
+      {
+        "to": "mukogaokayuen",
+        "weight": 21,
+        "fareWeight": 21,
+        "chihou": false
+      },
+      {
+        "to": "yomiurilandmae",
+        "weight": 13,
+        "fareWeight": 13,
+        "chihou": false
+      }
+    ],
+    "yomiurilandmae": [
+      {
+        "to": "ikuta",
+        "weight": 13,
+        "fareWeight": 13,
+        "chihou": false
+      },
+      {
+        "to": "yurigaoka",
+        "weight": 13,
+        "fareWeight": 13,
+        "chihou": false
+      }
+    ],
+    "yurigaoka": [
+      {
+        "to": "yomiurilandmae",
+        "weight": 13,
+        "fareWeight": 13,
+        "chihou": false
+      },
+      {
+        "to": "shinyurigaoka",
+        "weight": 10,
+        "fareWeight": 10,
+        "chihou": false
+      }
+    ],
+    "shinyurigaoka": [
+      {
+        "to": "yurigaoka",
+        "weight": 10,
+        "fareWeight": 10,
+        "chihou": false
+      },
+      {
+        "to": "kakio",
+        "weight": 19,
+        "fareWeight": 19,
+        "chihou": false
+      },
+      {
+        "to": "satsukidai",
+        "weight": 15,
+        "fareWeight": 15,
+        "chihou": false
+      }
+    ],
+    "kakio": [
+      {
+        "to": "shinyurigaoka",
+        "weight": 19,
+        "fareWeight": 19,
+        "chihou": false
+      },
+      {
+        "to": "tsurukawa",
+        "weight": 17,
+        "fareWeight": 17,
+        "chihou": false
+      }
+    ],
+    "tsurukawa": [
+      {
+        "to": "kakio",
+        "weight": 17,
+        "fareWeight": 17,
+        "chihou": false
+      },
+      {
+        "to": "tamagawagakuemmae",
+        "weight": 28,
+        "fareWeight": 28,
+        "chihou": false
+      }
+    ],
+    "tamagawagakuemmae": [
+      {
+        "to": "tsurukawa",
+        "weight": 28,
+        "fareWeight": 28,
+        "chihou": false
+      },
+      {
+        "to": "machida_odakyu",
+        "weight": 29,
+        "fareWeight": 29,
+        "chihou": false
+      }
+    ],
+    "machida_odakyu": [
+      {
+        "to": "tamagawagakuemmae",
+        "weight": 29,
+        "fareWeight": 29,
+        "chihou": false
+      },
+      {
+        "to": "sagamiono",
+        "weight": 15,
+        "fareWeight": 15,
+        "chihou": false
+      }
+    ],
+    "odakyusagamihara": [
+      {
+        "to": "sagamiono_junction",
+        "weight": 22,
+        "fareWeight": 22,
+        "chihou": false
+      },
+      {
+        "to": "sobudaimae",
+        "weight": 22,
+        "fareWeight": 22,
+        "chihou": false
+      }
+    ],
+    "sobudaimae": [
+      {
+        "to": "odakyusagamihara",
+        "weight": 22,
+        "fareWeight": 22,
+        "chihou": false
+      },
+      {
+        "to": "zama",
+        "weight": 23,
+        "fareWeight": 23,
+        "chihou": false
+      }
+    ],
+    "zama": [
+      {
+        "to": "sobudaimae",
+        "weight": 23,
+        "fareWeight": 23,
+        "chihou": false
+      },
+      {
+        "to": "ebina_odakyu",
+        "weight": 33,
+        "fareWeight": 33,
+        "chihou": false
+      }
+    ],
+    "ebina_odakyu": [
+      {
+        "to": "zama",
+        "weight": 33,
+        "fareWeight": 33,
+        "chihou": false
+      },
+      {
+        "to": "atsugi_odakyu",
+        "weight": 16,
+        "fareWeight": 16,
+        "chihou": false
+      }
+    ],
+    "atsugi_odakyu": [
+      {
+        "to": "ebina_odakyu",
+        "weight": 16,
+        "fareWeight": 16,
+        "chihou": false
+      },
+      {
+        "to": "honatsugi",
+        "weight": 13,
+        "fareWeight": 13,
+        "chihou": false
+      }
+    ],
+    "honatsugi": [
+      {
+        "to": "atsugi_odakyu",
+        "weight": 13,
+        "fareWeight": 13,
+        "chihou": false
+      },
+      {
+        "to": "aikoishida",
+        "weight": 31,
+        "fareWeight": 31,
+        "chihou": false
+      }
+    ],
+    "aikoishida": [
+      {
+        "to": "honatsugi",
+        "weight": 31,
+        "fareWeight": 31,
+        "chihou": false
+      },
+      {
+        "to": "isehara",
+        "weight": 37,
+        "fareWeight": 37,
+        "chihou": false
+      }
+    ],
+    "isehara": [
+      {
+        "to": "aikoishida",
+        "weight": 37,
+        "fareWeight": 37,
+        "chihou": false
+      },
+      {
+        "to": "tsurumakionsen",
+        "weight": 37,
+        "fareWeight": 37,
+        "chihou": false
+      }
+    ],
+    "tsurumakionsen": [
+      {
+        "to": "isehara",
+        "weight": 37,
+        "fareWeight": 37,
+        "chihou": false
+      },
+      {
+        "to": "tokaidaigakumae",
+        "weight": 11,
+        "fareWeight": 11,
+        "chihou": false
+      }
+    ],
+    "tokaidaigakumae": [
+      {
+        "to": "tsurumakionsen",
+        "weight": 11,
+        "fareWeight": 11,
+        "chihou": false
+      },
+      {
+        "to": "hadano",
+        "weight": 47,
+        "fareWeight": 47,
+        "chihou": false
+      }
+    ],
+    "hadano": [
+      {
+        "to": "tokaidaigakumae",
+        "weight": 47,
+        "fareWeight": 47,
+        "chihou": false
+      },
+      {
+        "to": "shibusawa",
+        "weight": 39,
+        "fareWeight": 39,
+        "chihou": false
+      }
+    ],
+    "shibusawa": [
+      {
+        "to": "hadano",
+        "weight": 39,
+        "fareWeight": 39,
+        "chihou": false
+      },
+      {
+        "to": "shimmatsuda",
+        "weight": 62,
+        "fareWeight": 62,
+        "chihou": false
+      }
+    ],
+    "shimmatsuda": [
+      {
+        "to": "shibusawa",
+        "weight": 62,
+        "fareWeight": 62,
+        "chihou": false
+      },
+      {
+        "to": "kaisei",
+        "weight": 25,
+        "fareWeight": 25,
+        "chihou": false
+      }
+    ],
+    "kaisei": [
+      {
+        "to": "shimmatsuda",
+        "weight": 25,
+        "fareWeight": 25,
+        "chihou": false
+      },
+      {
+        "to": "kayama",
+        "weight": 19,
+        "fareWeight": 19,
+        "chihou": false
+      }
+    ],
+    "kayama": [
+      {
+        "to": "kaisei",
+        "weight": 19,
+        "fareWeight": 19,
+        "chihou": false
+      },
+      {
+        "to": "tomizu",
+        "weight": 16,
+        "fareWeight": 16,
+        "chihou": false
+      }
+    ],
+    "tomizu": [
+      {
+        "to": "kayama",
+        "weight": 16,
+        "fareWeight": 16,
+        "chihou": false
+      },
+      {
+        "to": "hotaruda",
+        "weight": 14,
+        "fareWeight": 14,
+        "chihou": false
+      }
+    ],
+    "hotaruda": [
+      {
+        "to": "tomizu",
+        "weight": 14,
+        "fareWeight": 14,
+        "chihou": false
+      },
+      {
+        "to": "ashigara_odakyu",
+        "weight": 16,
+        "fareWeight": 16,
+        "chihou": false
+      }
+    ],
+    "ashigara_odakyu": [
+      {
+        "to": "hotaruda",
+        "weight": 16,
+        "fareWeight": 16,
+        "chihou": false
+      },
+      {
+        "to": "odawara_odakyu",
+        "weight": 17,
+        "fareWeight": 17,
+        "chihou": false
+      }
+    ],
+    "odawara_odakyu": [
+      {
+        "to": "ashigara_odakyu",
+        "weight": 17,
+        "fareWeight": 17,
+        "chihou": false
+      }
+    ],
+    "satsukidai": [
+      {
+        "to": "shinyurigaoka",
+        "weight": 15,
+        "fareWeight": 15,
+        "chihou": false
+      },
+      {
+        "to": "kurihira",
+        "weight": 13,
+        "fareWeight": 13,
+        "chihou": false
+      }
+    ],
+    "kurihira": [
+      {
+        "to": "satsukidai",
+        "weight": 13,
+        "fareWeight": 13,
+        "chihou": false
+      },
+      {
+        "to": "kurokawa",
+        "weight": 13,
+        "fareWeight": 13,
+        "chihou": false
+      }
+    ],
+    "kurokawa": [
+      {
+        "to": "kurihira",
+        "weight": 13,
+        "fareWeight": 13,
+        "chihou": false
+      },
+      {
+        "to": "haruhino",
+        "weight": 8,
+        "fareWeight": 8,
+        "chihou": false
+      }
+    ],
+    "haruhino": [
+      {
+        "to": "kurokawa",
+        "weight": 8,
+        "fareWeight": 8,
+        "chihou": false
+      },
+      {
+        "to": "odakyunagayama",
+        "weight": 19,
+        "fareWeight": 19,
+        "chihou": false
+      }
+    ],
+    "odakyunagayama": [
+      {
+        "to": "haruhino",
+        "weight": 19,
+        "fareWeight": 19,
+        "chihou": false
+      },
+      {
+        "to": "odakyutamacenter",
+        "weight": 23,
+        "fareWeight": 23,
+        "chihou": false
+      }
+    ],
+    "odakyutamacenter": [
+      {
+        "to": "odakyunagayama",
+        "weight": 23,
+        "fareWeight": 23,
+        "chihou": false
+      },
+      {
+        "to": "karakida",
+        "weight": 15,
+        "fareWeight": 15,
+        "chihou": false
+      }
+    ],
+    "karakida": [
+      {
+        "to": "odakyutamacenter",
+        "weight": 15,
+        "fareWeight": 15,
+        "chihou": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,852 @@
+{
+  "operator": "odakyu",
+  "rules": [
+    {
+      "id": "metro-odakyu-shinjuku",
+      "kind": "fixed",
+      "bidirectional": true,
+      "connection": [
+        {
+          "operator": "metro",
+          "id": "shinjuku_metro",
+          "name": "新宿"
+        },
+        {
+          "operator": "odakyu",
+          "id": "shinjuku_odakyu",
+          "name": "新宿"
+        }
+      ],
+      "sections": [
+        {
+          "operator": "metro",
+          "stations": [
+            {
+              "id": "shinjukugyoemmae",
+              "name": "新宿御苑前"
+            },
+            {
+              "id": "shinjukusanchome_metro",
+              "name": "新宿三丁目"
+            },
+            {
+              "id": "nishishinjuku",
+              "name": "西新宿"
+            },
+            {
+              "id": "nakanosakaue_metro",
+              "name": "中野坂上"
+            },
+            {
+              "id": "shinnakano",
+              "name": "新中野"
+            },
+            {
+              "id": "nakanoshimbashi",
+              "name": "中野新橋"
+            },
+            {
+              "id": "higashishinjuku_metro",
+              "name": "東新宿"
+            },
+            {
+              "id": "kitasando",
+              "name": "北参道"
+            }
+          ]
+        },
+        {
+          "operator": "odakyu",
+          "stations": [
+            {
+              "id": "minamishinjuku",
+              "name": "南新宿"
+            },
+            {
+              "id": "sangubashi",
+              "name": "参宮橋"
+            },
+            {
+              "id": "yoyogihachiman",
+              "name": "代々木八幡"
+            },
+            {
+              "id": "yoyogiuehara",
+              "name": "代々木上原"
+            }
+          ]
+        }
+      ],
+      "ticketTypes": [
+        "paper",
+        "ic"
+      ],
+      "discount": {
+        "adult": 20,
+        "child": 10
+      }
+    },
+    {
+      "id": "metro-odakyu-yoyogiuehara",
+      "kind": "fixed",
+      "bidirectional": true,
+      "connection": [
+        {
+          "operator": "metro",
+          "id": "yoyogiuehara",
+          "name": "代々木上原"
+        },
+        {
+          "operator": "odakyu",
+          "id": "yoyogiuehara",
+          "name": "代々木上原"
+        }
+      ],
+      "sections": [
+        {
+          "operator": "metro",
+          "stations": [
+            {
+              "id": "yoyogikoen",
+              "name": "代々木公園"
+            },
+            {
+              "id": "meijijingumae",
+              "name": "明治神宮前"
+            }
+          ]
+        },
+        {
+          "operator": "odakyu",
+          "stations": [
+            {
+              "id": "shinjuku_odakyu",
+              "name": "新宿"
+            },
+            {
+              "id": "minamishinjuku",
+              "name": "南新宿"
+            },
+            {
+              "id": "sangubashi",
+              "name": "参宮橋"
+            },
+            {
+              "id": "yoyogihachiman",
+              "name": "代々木八幡"
+            },
+            {
+              "id": "higashikitazawa",
+              "name": "東北沢"
+            },
+            {
+              "id": "shimokitazawa_odakyu",
+              "name": "下北沢"
+            },
+            {
+              "id": "setagayadaita",
+              "name": "世田谷代田"
+            },
+            {
+              "id": "umegaoka",
+              "name": "梅ヶ丘"
+            },
+            {
+              "id": "gotokuji",
+              "name": "豪徳寺"
+            }
+          ]
+        }
+      ],
+      "ticketTypes": [
+        "paper",
+        "ic"
+      ],
+      "discount": {
+        "adult": 20,
+        "child": 10
+      }
+    },
+    {
+      "id": "toei-odakyu-shinjuku",
+      "kind": "fixed",
+      "bidirectional": true,
+      "connection": [
+        {
+          "operator": "toei",
+          "id": "shinjuku_toei_keio",
+          "name": "新宿"
+        },
+        {
+          "operator": "odakyu",
+          "id": "shinjuku_odakyu",
+          "name": "新宿"
+        }
+      ],
+      "sections": [
+        {
+          "operator": "toei",
+          "stations": [
+            {
+              "id": "akebonobashi",
+              "name": "曙橋"
+            },
+            {
+              "id": "shinjukusanchome_toei",
+              "name": "新宿三丁目"
+            },
+            {
+              "id": "tochomae",
+              "name": "都庁前"
+            },
+            {
+              "id": "nishishinjukugochome",
+              "name": "西新宿五丁目"
+            }
+          ]
+        },
+        {
+          "operator": "odakyu",
+          "stations": [
+            {
+              "id": "minamishinjuku",
+              "name": "南新宿"
+            },
+            {
+              "id": "sangubashi",
+              "name": "参宮橋"
+            },
+            {
+              "id": "yoyogihachiman",
+              "name": "代々木八幡"
+            },
+            {
+              "id": "yoyogiuehara",
+              "name": "代々木上原"
+            }
+          ]
+        }
+      ],
+      "ticketTypes": [
+        "paper",
+        "ic"
+      ],
+      "discount": {
+        "adult": 20,
+        "child": 10
+      }
+    },
+    {
+      "id": "tokyu-odakyu-chuorinkan",
+      "kind": "fixed",
+      "bidirectional": true,
+      "connection": [
+        {
+          "operator": "tokyu",
+          "id": "chuorinkan_tokyu",
+          "name": "中央林間"
+        },
+        {
+          "operator": "odakyu",
+          "id": "chuorinkan_odakyu",
+          "name": "中央林間"
+        }
+      ],
+      "sections": [
+        {
+          "operator": "tokyu",
+          "stations": [
+            {
+              "id": "minamimachida",
+              "name": "南町田グランベリーパーク"
+            },
+            {
+              "id": "tsukimino",
+              "name": "つきみ野"
+            }
+          ]
+        },
+        {
+          "operator": "odakyu",
+          "stations": [
+            {
+              "id": "sagamiono",
+              "name": "相模大野"
+            },
+            {
+              "id": "higashirinkan",
+              "name": "東林間"
+            },
+            {
+              "id": "minamirinkan",
+              "name": "南林間"
+            },
+            {
+              "id": "tsuruma",
+              "name": "鶴間"
+            }
+          ]
+        }
+      ],
+      "ticketTypes": [
+        "paper",
+        "ic"
+      ],
+      "discount": {
+        "adult": 20,
+        "child": 10
+      }
+    },
+    {
+      "id": "sotetsu-odakyu-yamato",
+      "kind": "fixed",
+      "bidirectional": true,
+      "connection": [
+        {
+          "operator": "sotetsu",
+          "id": "yamato_sotetsu",
+          "name": "大和"
+        },
+        {
+          "operator": "odakyu",
+          "id": "yamato_odakyu",
+          "name": "大和"
+        }
+      ],
+      "sections": [
+        {
+          "operator": "sotetsu",
+          "stations": [
+            {
+              "id": "seya",
+              "name": "瀬谷"
+            },
+            {
+              "id": "mitsukyo",
+              "name": "三ツ境"
+            },
+            {
+              "id": "kibogaoka",
+              "name": "希望ケ丘"
+            },
+            {
+              "id": "futamatagawa",
+              "name": "二俣川"
+            },
+            {
+              "id": "sagamiotsuka",
+              "name": "相模大塚"
+            },
+            {
+              "id": "sagamino",
+              "name": "さがみ野"
+            },
+            {
+              "id": "kashiwadai",
+              "name": "かしわ台"
+            }
+          ]
+        },
+        {
+          "operator": "odakyu",
+          "stations": [
+            {
+              "id": "tsuruma",
+              "name": "鶴間"
+            },
+            {
+              "id": "minamirinkan",
+              "name": "南林間"
+            },
+            {
+              "id": "sakuragaoka",
+              "name": "桜ヶ丘"
+            },
+            {
+              "id": "kozashibuya",
+              "name": "高座渋谷"
+            }
+          ]
+        }
+      ],
+      "ticketTypes": [
+        "paper",
+        "ic"
+      ],
+      "discount": {
+        "adult": 20,
+        "child": 10
+      }
+    },
+    {
+      "id": "sotetsu-odakyu-ebina",
+      "kind": "fixed",
+      "bidirectional": true,
+      "connection": [
+        {
+          "operator": "sotetsu",
+          "id": "ebina_sotetsu",
+          "name": "海老名"
+        },
+        {
+          "operator": "odakyu",
+          "id": "ebina_odakyu",
+          "name": "海老名"
+        }
+      ],
+      "sections": [
+        {
+          "operator": "sotetsu",
+          "stations": [
+            {
+              "id": "kashiwadai",
+              "name": "かしわ台"
+            },
+            {
+              "id": "sagamino",
+              "name": "さがみ野"
+            }
+          ]
+        },
+        {
+          "operator": "odakyu",
+          "stations": [
+            {
+              "id": "zama",
+              "name": "座間"
+            },
+            {
+              "id": "sobudaimae",
+              "name": "相武台前"
+            },
+            {
+              "id": "atsugi_odakyu",
+              "name": "厚木"
+            },
+            {
+              "id": "honatsugi",
+              "name": "本厚木"
+            }
+          ]
+        }
+      ],
+      "ticketTypes": [
+        "paper",
+        "ic"
+      ],
+      "discount": {
+        "adult": 20,
+        "child": 10
+      }
+    },
+    {
+      "id": "sotetsu-odakyu-shonandai",
+      "kind": "fixed",
+      "bidirectional": true,
+      "connection": [
+        {
+          "operator": "sotetsu",
+          "id": "shonandai_sotetsu",
+          "name": "湘南台"
+        },
+        {
+          "operator": "odakyu",
+          "id": "shonandai_odakyu",
+          "name": "湘南台"
+        }
+      ],
+      "sections": [
+        {
+          "operator": "sotetsu",
+          "stations": [
+            {
+              "id": "yumegaoka",
+              "name": "ゆめが丘"
+            },
+            {
+              "id": "izumichuo",
+              "name": "いずみ中央"
+            }
+          ]
+        },
+        {
+          "operator": "odakyu",
+          "stations": [
+            {
+              "id": "chogo",
+              "name": "長後"
+            },
+            {
+              "id": "kozashibuya",
+              "name": "高座渋谷"
+            },
+            {
+              "id": "mutsuainichidaimae",
+              "name": "六会日大前"
+            },
+            {
+              "id": "zengyo",
+              "name": "善行"
+            }
+          ]
+        }
+      ],
+      "ticketTypes": [
+        "paper",
+        "ic"
+      ],
+      "discount": {
+        "adult": 20,
+        "child": 10
+      }
+    },
+    {
+      "id": "odakyu-jre-shinjuku",
+      "kind": "fixed",
+      "bidirectional": true,
+      "connection": [
+        {
+          "operator": "odakyu",
+          "id": "shinjuku_odakyu",
+          "name": "新宿"
+        },
+        {
+          "operator": "jre",
+          "id": "shinjuku",
+          "name": "新宿"
+        }
+      ],
+      "sections": [
+        {
+          "operator": "odakyu",
+          "stations": [
+            {
+              "id": "minamishinjuku",
+              "name": "南新宿"
+            },
+            {
+              "id": "sangubashi",
+              "name": "参宮橋"
+            },
+            {
+              "id": "yoyogihachiman",
+              "name": "代々木八幡"
+            },
+            {
+              "id": "yoyogiuehara",
+              "name": "代々木上原"
+            }
+          ]
+        },
+        {
+          "operator": "jre",
+          "stations": [
+            {
+              "id": "shinanomachi",
+              "name": "信濃町"
+            },
+            {
+              "id": "sendagaya",
+              "name": "千駄ヶ谷"
+            },
+            {
+              "id": "yoyogi",
+              "name": "代々木"
+            },
+            {
+              "id": "okubo-chuo",
+              "name": "大久保"
+            },
+            {
+              "id": "higashinakano",
+              "name": "東中野"
+            },
+            {
+              "id": "takadanobaba",
+              "name": "高田馬場"
+            },
+            {
+              "id": "shinokubo",
+              "name": "新大久保"
+            },
+            {
+              "id": "harajuku",
+              "name": "原宿"
+            }
+          ]
+        }
+      ],
+      "ticketTypes": [
+        "paper",
+        "ic"
+      ],
+      "discount": {
+        "adult": 10,
+        "child": 10
+      }
+    },
+    {
+      "id": "odakyu-jre-noborito",
+      "kind": "fixed",
+      "bidirectional": true,
+      "connection": [
+        {
+          "operator": "odakyu",
+          "id": "noborito_odakyu",
+          "name": "登戸"
+        },
+        {
+          "operator": "jre",
+          "id": "noborito",
+          "name": "登戸"
+        }
+      ],
+      "sections": [
+        {
+          "operator": "odakyu",
+          "stations": [
+            {
+              "id": "seijogakuemmae",
+              "name": "成城学園前"
+            },
+            {
+              "id": "kitami",
+              "name": "喜多見"
+            },
+            {
+              "id": "komae",
+              "name": "狛江"
+            },
+            {
+              "id": "izumitamagawa",
+              "name": "和泉多摩川"
+            },
+            {
+              "id": "mukogaokayuen",
+              "name": "向ヶ丘遊園"
+            },
+            {
+              "id": "ikuta",
+              "name": "生田"
+            },
+            {
+              "id": "yomiurilandmae",
+              "name": "読売ランド前"
+            }
+          ]
+        },
+        {
+          "operator": "jre",
+          "stations": [
+            {
+              "id": "kuji-nanbu",
+              "name": "久地"
+            },
+            {
+              "id": "shukugawara",
+              "name": "宿河原"
+            },
+            {
+              "id": "nakanoshima",
+              "name": "中野島"
+            }
+          ]
+        }
+      ],
+      "ticketTypes": [
+        "paper",
+        "ic"
+      ],
+      "discount": {
+        "adult": 10,
+        "child": 10
+      }
+    },
+    {
+      "id": "odakyu-keio-shinjuku",
+      "kind": "fixed",
+      "bidirectional": true,
+      "connection": [
+        {
+          "operator": "odakyu",
+          "id": "shinjuku_odakyu",
+          "name": "新宿"
+        },
+        {
+          "operator": "keio",
+          "id": null,
+          "name": "新宿"
+        }
+      ],
+      "sections": [
+        {
+          "operator": "odakyu",
+          "stations": [
+            {
+              "id": "minamishinjuku",
+              "name": "南新宿"
+            },
+            {
+              "id": "sangubashi",
+              "name": "参宮橋"
+            },
+            {
+              "id": "yoyogihachiman",
+              "name": "代々木八幡"
+            },
+            {
+              "id": "yoyogiuehara",
+              "name": "代々木上原"
+            }
+          ]
+        },
+        {
+          "operator": "keio",
+          "stations": [
+            {
+              "id": null,
+              "name": "初台"
+            },
+            {
+              "id": null,
+              "name": "幡ヶ谷"
+            },
+            {
+              "id": null,
+              "name": "笹塚"
+            }
+          ]
+        }
+      ],
+      "ticketTypes": [
+        "paper",
+        "ic"
+      ],
+      "discount": {
+        "adult": 20,
+        "child": 10
+      }
+    },
+    {
+      "id": "odakyu-keio-shimokitazawa",
+      "kind": "fixed",
+      "bidirectional": true,
+      "connection": [
+        {
+          "operator": "odakyu",
+          "id": "shimokitazawa_odakyu",
+          "name": "下北沢"
+        },
+        {
+          "operator": "keio",
+          "id": null,
+          "name": "下北沢"
+        }
+      ],
+      "sections": [
+        {
+          "operator": "odakyu",
+          "stations": [
+            {
+              "id": "sangubashi",
+              "name": "参宮橋"
+            },
+            {
+              "id": "yoyogihachiman",
+              "name": "代々木八幡"
+            },
+            {
+              "id": "yoyogiuehara",
+              "name": "代々木上原"
+            },
+            {
+              "id": "higashikitazawa",
+              "name": "東北沢"
+            },
+            {
+              "id": "setagayadaita",
+              "name": "世田谷代田"
+            },
+            {
+              "id": "umegaoka",
+              "name": "梅ヶ丘"
+            },
+            {
+              "id": "gotokuji",
+              "name": "豪徳寺"
+            },
+            {
+              "id": "kyodo",
+              "name": "経堂"
+            }
+          ]
+        },
+        {
+          "operator": "keio",
+          "stations": [
+            {
+              "id": null,
+              "name": "渋谷"
+            },
+            {
+              "id": null,
+              "name": "神泉"
+            },
+            {
+              "id": null,
+              "name": "駒場東大前"
+            },
+            {
+              "id": null,
+              "name": "池ノ上"
+            },
+            {
+              "id": null,
+              "name": "新代田"
+            },
+            {
+              "id": null,
+              "name": "東松原"
+            },
+            {
+              "id": null,
+              "name": "明大前"
+            },
+            {
+              "id": null,
+              "name": "永福町"
+            },
+            {
+              "id": null,
+              "name": "西永福"
+            },
+            {
+              "id": null,
+              "name": "笹塚"
+            },
+            {
+              "id": null,
+              "name": "代田橋"
+            },
+            {
+              "id": null,
+              "name": "下高井戸"
+            },
+            {
+              "id": null,
+              "name": "桜上水"
+            }
+          ]
+        }
+      ],
+      "ticketTypes": [
+        "paper",
+        "ic"
+      ],
+      "discount": {
+        "adult": 20,
+        "child": 10
+      }
+    }
+  ]
+}
