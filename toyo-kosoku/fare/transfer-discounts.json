@@ -1,0 +1,58 @@
+{
+  "operator": "toyo",
+  "rules": [
+    {
+      "id": "metro-toyo-nishifunabashi",
+      "kind": "fixed",
+      "bidirectional": true,
+      "connection": [
+        {
+          "operator": "metro",
+          "id": "nishifunabashi",
+          "name": "西船橋"
+        },
+        {
+          "operator": "toyo",
+          "id": "nishifunabashi",
+          "name": "西船橋"
+        }
+      ],
+      "sections": [
+        {
+          "operator": "metro",
+          "stations": [
+            {
+              "id": "gyotoku",
+              "name": "行徳"
+            },
+            {
+              "id": "myoden",
+              "name": "妙典"
+            },
+            {
+              "id": "barakinakayama",
+              "name": "原木中山"
+            }
+          ]
+        },
+        {
+          "operator": "toyo",
+          "stations": [
+            {
+              "id": "higashikaijin",
+              "name": "東海神"
+            }
+          ]
+        }
+      ],
+      "ticketTypes": [
+        "paper",
+        "ic"
+      ],
+      "discount": {
+        "adult": 20,
+        "child": 10
+      }
+    }
+  ]
+}
