@@ -1,0 +1,174 @@
+{
+  "stations": {
+    "nishifunabashi": {
+      "id": "nishifunabashi",
+      "name": "西船橋",
+      "km": 0,
+      "sp": []
+    },
+    "higashikaijin": {
+      "id": "higashikaijin",
+      "name": "東海神",
+      "km": 21,
+      "sp": []
+    },
+    "hasama": {
+      "id": "hasama",
+      "name": "飯山満",
+      "km": 61,
+      "sp": []
+    },
+    "kitanarashino_toyo": {
+      "id": "kitanarashino_toyo",
+      "name": "北習志野",
+      "km": 81,
+      "sp": []
+    },
+    "funabashinichidaimae": {
+      "id": "funabashinichidaimae",
+      "name": "船橋日大前",
+      "km": 98,
+      "sp": []
+    },
+    "yachiyomidorigaoka": {
+      "id": "yachiyomidorigaoka",
+      "name": "八千代緑が丘",
+      "km": 110,
+      "sp": []
+    },
+    "yachiyochuo": {
+      "id": "yachiyochuo",
+      "name": "八千代中央",
+      "km": 138,
+      "sp": []
+    },
+    "murakami_toyo": {
+      "id": "murakami_toyo",
+      "name": "村上",
+      "km": 152,
+      "sp": []
+    },
+    "toyokatsutadai": {
+      "id": "toyokatsutadai",
+      "name": "東葉勝田台",
+      "km": 162,
+      "sp": []
+    }
+  },
+  "adj": {
+    "higashikaijin": [
+      {
+        "to": "nishifunabashi",
+        "weight": 21,
+        "fareWeight": 21,
+        "chihou": false
+      },
+      {
+        "to": "hasama",
+        "weight": 40,
+        "fareWeight": 40,
+        "chihou": false
+      }
+    ],
+    "nishifunabashi": [
+      {
+        "to": "higashikaijin",
+        "weight": 21,
+        "fareWeight": 21,
+        "chihou": false
+      }
+    ],
+    "hasama": [
+      {
+        "to": "higashikaijin",
+        "weight": 40,
+        "fareWeight": 40,
+        "chihou": false
+      },
+      {
+        "to": "kitanarashino_toyo",
+        "weight": 20,
+        "fareWeight": 20,
+        "chihou": false
+      }
+    ],
+    "kitanarashino_toyo": [
+      {
+        "to": "hasama",
+        "weight": 20,
+        "fareWeight": 20,
+        "chihou": false
+      },
+      {
+        "to": "funabashinichidaimae",
+        "weight": 17,
+        "fareWeight": 17,
+        "chihou": false
+      }
+    ],
+    "funabashinichidaimae": [
+      {
+        "to": "kitanarashino_toyo",
+        "weight": 17,
+        "fareWeight": 17,
+        "chihou": false
+      },
+      {
+        "to": "yachiyomidorigaoka",
+        "weight": 12,
+        "fareWeight": 12,
+        "chihou": false
+      }
+    ],
+    "yachiyomidorigaoka": [
+      {
+        "to": "funabashinichidaimae",
+        "weight": 12,
+        "fareWeight": 12,
+        "chihou": false
+      },
+      {
+        "to": "yachiyochuo",
+        "weight": 28,
+        "fareWeight": 28,
+        "chihou": false
+      }
+    ],
+    "yachiyochuo": [
+      {
+        "to": "yachiyomidorigaoka",
+        "weight": 28,
+        "fareWeight": 28,
+        "chihou": false
+      },
+      {
+        "to": "murakami_toyo",
+        "weight": 14,
+        "fareWeight": 14,
+        "chihou": false
+      }
+    ],
+    "murakami_toyo": [
+      {
+        "to": "yachiyochuo",
+        "weight": 14,
+        "fareWeight": 14,
+        "chihou": false
+      },
+      {
+        "to": "toyokatsutadai",
+        "weight": 10,
+        "fareWeight": 10,
+        "chihou": false
+      }
+    ],
+    "toyokatsutadai": [
+      {
+        "to": "murakami_toyo",
+        "weight": 10,
+        "fareWeight": 10,
+        "chihou": false
+      }
+    ]
+  }
+}

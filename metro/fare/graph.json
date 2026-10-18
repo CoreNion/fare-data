@@ -732,102 +732,6 @@
       "km": 308,
       "sp": []
     },
-    "ginza": {
-      "id": "ginza",
-      "name": "銀座",
-      "km": 0,
-      "sp": []
-    },
-    "ginzaitchome": {
-      "id": "ginzaitchome",
-      "name": "銀座一丁目",
-      "km": 0,
-      "sp": []
-    },
-    "toranomon": {
-      "id": "toranomon",
-      "name": "虎ノ門",
-      "km": 0,
-      "sp": []
-    },
-    "toranomonhills": {
-      "id": "toranomonhills",
-      "name": "虎ノ門ヒルズ",
-      "km": 0,
-      "sp": []
-    },
-    "tameikesanno": {
-      "id": "tameikesanno",
-      "name": "溜池山王",
-      "km": 0,
-      "sp": []
-    },
-    "kokkaigijidomae": {
-      "id": "kokkaigijidomae",
-      "name": "国会議事堂前",
-      "km": 0,
-      "sp": []
-    },
-    "akasakamitsuke": {
-      "id": "akasakamitsuke",
-      "name": "赤坂見附",
-      "km": 0,
-      "sp": []
-    },
-    "nagatacho": {
-      "id": "nagatacho",
-      "name": "永田町",
-      "km": 0,
-      "sp": []
-    },
-    "awajicho": {
-      "id": "awajicho",
-      "name": "淡路町",
-      "km": 0,
-      "sp": []
-    },
-    "shinochanomizu": {
-      "id": "shinochanomizu",
-      "name": "新御茶ノ水",
-      "km": 0,
-      "sp": []
-    },
-    "suitengumae": {
-      "id": "suitengumae",
-      "name": "水天宮前",
-      "km": 0,
-      "sp": []
-    },
-    "tsukiji": {
-      "id": "tsukiji",
-      "name": "築地",
-      "km": 0,
-      "sp": []
-    },
-    "shintomicho": {
-      "id": "shintomicho",
-      "name": "新富町",
-      "km": 0,
-      "sp": []
-    },
-    "yurakucho_subway": {
-      "id": "yurakucho_subway",
-      "name": "有楽町",
-      "km": 0,
-      "sp": []
-    },
-    "uenohirokoji": {
-      "id": "uenohirokoji",
-      "name": "上野広小路",
-      "km": 0,
-      "sp": []
-    },
-    "nakaokachimachi": {
-      "id": "nakaokachimachi",
-      "name": "仲御徒町",
-      "km": 0,
-      "sp": []
-    },
     "wakoshi": {
       "id": "wakoshi",
       "name": "和光市",
@@ -1900,12 +1804,6 @@
         "weight": 9,
         "fareWeight": 9,
         "chihou": false
-      },
-      {
-        "to": "suitengumae",
-        "weight": 0,
-        "fareWeight": 0,
-        "chihou": false
       }
     ],
     "kiyosumishirakawa_metro": [
@@ -2119,12 +2017,6 @@
         "to": "kasumigaseki",
         "weight": 12,
         "fareWeight": 12,
-        "chihou": false
-      },
-      {
-        "to": "yurakucho_subway",
-        "weight": 0,
-        "fareWeight": 0,
         "chihou": false
       }
     ],
@@ -2931,134 +2823,6 @@
         "to": "barakinakayama",
         "weight": 19,
         "fareWeight": 19,
-        "chihou": false
-      }
-    ],
-    "ginzaitchome": [
-      {
-        "to": "ginza",
-        "weight": 0,
-        "fareWeight": 0,
-        "chihou": false
-      }
-    ],
-    "ginza": [
-      {
-        "to": "ginzaitchome",
-        "weight": 0,
-        "fareWeight": 0,
-        "chihou": false
-      }
-    ],
-    "toranomonhills": [
-      {
-        "to": "toranomon",
-        "weight": 0,
-        "fareWeight": 0,
-        "chihou": false
-      }
-    ],
-    "toranomon": [
-      {
-        "to": "toranomonhills",
-        "weight": 0,
-        "fareWeight": 0,
-        "chihou": false
-      }
-    ],
-    "kokkaigijidomae": [
-      {
-        "to": "tameikesanno",
-        "weight": 0,
-        "fareWeight": 0,
-        "chihou": false
-      }
-    ],
-    "tameikesanno": [
-      {
-        "to": "kokkaigijidomae",
-        "weight": 0,
-        "fareWeight": 0,
-        "chihou": false
-      }
-    ],
-    "nagatacho": [
-      {
-        "to": "akasakamitsuke",
-        "weight": 0,
-        "fareWeight": 0,
-        "chihou": false
-      }
-    ],
-    "akasakamitsuke": [
-      {
-        "to": "nagatacho",
-        "weight": 0,
-        "fareWeight": 0,
-        "chihou": false
-      }
-    ],
-    "shinochanomizu": [
-      {
-        "to": "awajicho",
-        "weight": 0,
-        "fareWeight": 0,
-        "chihou": false
-      }
-    ],
-    "awajicho": [
-      {
-        "to": "shinochanomizu",
-        "weight": 0,
-        "fareWeight": 0,
-        "chihou": false
-      }
-    ],
-    "suitengumae": [
-      {
-        "to": "ningyocho_suitengumae_metro",
-        "weight": 0,
-        "fareWeight": 0,
-        "chihou": false
-      }
-    ],
-    "shintomicho": [
-      {
-        "to": "tsukiji",
-        "weight": 0,
-        "fareWeight": 0,
-        "chihou": false
-      }
-    ],
-    "tsukiji": [
-      {
-        "to": "shintomicho",
-        "weight": 0,
-        "fareWeight": 0,
-        "chihou": false
-      }
-    ],
-    "yurakucho_subway": [
-      {
-        "to": "hibiya_yurakucho_subway_metro",
-        "weight": 0,
-        "fareWeight": 0,
-        "chihou": false
-      }
-    ],
-    "nakaokachimachi": [
-      {
-        "to": "uenohirokoji",
-        "weight": 0,
-        "fareWeight": 0,
-        "chihou": false
-      }
-    ],
-    "uenohirokoji": [
-      {
-        "to": "nakaokachimachi",
-        "weight": 0,
-        "fareWeight": 0,
         "chihou": false
       }
     ],

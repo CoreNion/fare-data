@@ -1,0 +1,794 @@
+{
+  "stations": {
+    "azamino_yokohama-city": {
+      "id": "azamino_yokohama-city",
+      "name": "あざみ野",
+      "km": 0,
+      "sp": []
+    },
+    "nakagawa": {
+      "id": "nakagawa",
+      "name": "中川",
+      "km": 15,
+      "sp": []
+    },
+    "centerkita": {
+      "id": "centerkita",
+      "name": "センター北",
+      "km": 31,
+      "sp": []
+    },
+    "centerminami": {
+      "id": "centerminami",
+      "name": "センター南",
+      "km": 40,
+      "sp": []
+    },
+    "nakamachidai": {
+      "id": "nakamachidai",
+      "name": "仲町台",
+      "km": 63,
+      "sp": []
+    },
+    "nippa": {
+      "id": "nippa",
+      "name": "新羽",
+      "km": 86,
+      "sp": []
+    },
+    "kitashinyokohama": {
+      "id": "kitashinyokohama",
+      "name": "北新横浜",
+      "km": 96,
+      "sp": []
+    },
+    "shinyokohama_yokohama-city": {
+      "id": "shinyokohama_yokohama-city",
+      "name": "新横浜",
+      "km": 109,
+      "sp": []
+    },
+    "kishinekoen": {
+      "id": "kishinekoen",
+      "name": "岸根公園",
+      "km": 125,
+      "sp": []
+    },
+    "katakuracho": {
+      "id": "katakuracho",
+      "name": "片倉町",
+      "km": 137,
+      "sp": []
+    },
+    "mitsuzawakamicho": {
+      "id": "mitsuzawakamicho",
+      "name": "三ツ沢上町",
+      "km": 156,
+      "sp": []
+    },
+    "mitsuzawashimocho": {
+      "id": "mitsuzawashimocho",
+      "name": "三ツ沢下町",
+      "km": 165,
+      "sp": []
+    },
+    "yokohama_yokohama-city": {
+      "id": "yokohama_yokohama-city",
+      "name": "横浜",
+      "km": 179,
+      "sp": []
+    },
+    "takashimacho": {
+      "id": "takashimacho",
+      "name": "高島町",
+      "km": 188,
+      "sp": []
+    },
+    "sakuragicho_yokohama-city": {
+      "id": "sakuragicho_yokohama-city",
+      "name": "桜木町",
+      "km": 200,
+      "sp": []
+    },
+    "kannai_yokohama-city": {
+      "id": "kannai_yokohama-city",
+      "name": "関内",
+      "km": 207,
+      "sp": []
+    },
+    "isezakichojamachi": {
+      "id": "isezakichojamachi",
+      "name": "伊勢佐木長者町",
+      "km": 214,
+      "sp": []
+    },
+    "bandobashi": {
+      "id": "bandobashi",
+      "name": "阪東橋",
+      "km": 223,
+      "sp": []
+    },
+    "yoshinocho": {
+      "id": "yoshinocho",
+      "name": "吉野町",
+      "km": 228,
+      "sp": []
+    },
+    "maita": {
+      "id": "maita",
+      "name": "蒔田",
+      "km": 239,
+      "sp": []
+    },
+    "gumyoji_yokohama-city": {
+      "id": "gumyoji_yokohama-city",
+      "name": "弘明寺",
+      "km": 250,
+      "sp": []
+    },
+    "kamiooka_yokohama-city": {
+      "id": "kamiooka_yokohama-city",
+      "name": "上大岡",
+      "km": 266,
+      "sp": []
+    },
+    "konanchuo": {
+      "id": "konanchuo",
+      "name": "港南中央",
+      "km": 277,
+      "sp": []
+    },
+    "kaminagaya": {
+      "id": "kaminagaya",
+      "name": "上永谷",
+      "km": 294,
+      "sp": []
+    },
+    "shimonagaya": {
+      "id": "shimonagaya",
+      "name": "下永谷",
+      "km": 307,
+      "sp": []
+    },
+    "maioka": {
+      "id": "maioka",
+      "name": "舞岡",
+      "km": 314,
+      "sp": []
+    },
+    "totsuka_yokohama-city": {
+      "id": "totsuka_yokohama-city",
+      "name": "戸塚",
+      "km": 330,
+      "sp": []
+    },
+    "odoriba": {
+      "id": "odoriba",
+      "name": "踊場",
+      "km": 347,
+      "sp": []
+    },
+    "nakada": {
+      "id": "nakada",
+      "name": "中田",
+      "km": 356,
+      "sp": []
+    },
+    "tateba": {
+      "id": "tateba",
+      "name": "立場",
+      "km": 367,
+      "sp": []
+    },
+    "shimoiida": {
+      "id": "shimoiida",
+      "name": "下飯田",
+      "km": 388,
+      "sp": []
+    },
+    "shonandai_yokohama-city": {
+      "id": "shonandai_yokohama-city",
+      "name": "湘南台",
+      "km": 404,
+      "sp": []
+    },
+    "nakayama_yokohama-city": {
+      "id": "nakayama_yokohama-city",
+      "name": "中山",
+      "km": 0,
+      "sp": []
+    },
+    "kawawacho": {
+      "id": "kawawacho",
+      "name": "川和町",
+      "km": 17,
+      "sp": []
+    },
+    "tsuzukifureainooka": {
+      "id": "tsuzukifureainooka",
+      "name": "都筑ふれあいの丘",
+      "km": 31,
+      "sp": []
+    },
+    "kitayamata": {
+      "id": "kitayamata",
+      "name": "北山田",
+      "km": 74,
+      "sp": []
+    },
+    "higashiyamata": {
+      "id": "higashiyamata",
+      "name": "東山田",
+      "km": 88,
+      "sp": []
+    },
+    "takata": {
+      "id": "takata",
+      "name": "高田",
+      "km": 103,
+      "sp": []
+    },
+    "hiyoshihoncho": {
+      "id": "hiyoshihoncho",
+      "name": "日吉本町",
+      "km": 116,
+      "sp": []
+    },
+    "hiyoshi_yokohama-city": {
+      "id": "hiyoshi_yokohama-city",
+      "name": "日吉",
+      "km": 130,
+      "sp": []
+    }
+  },
+  "adj": {
+    "nakagawa": [
+      {
+        "to": "azamino_yokohama-city",
+        "weight": 15,
+        "fareWeight": 15,
+        "chihou": false
+      },
+      {
+        "to": "centerkita",
+        "weight": 16,
+        "fareWeight": 16,
+        "chihou": false
+      }
+    ],
+    "azamino_yokohama-city": [
+      {
+        "to": "nakagawa",
+        "weight": 15,
+        "fareWeight": 15,
+        "chihou": false
+      }
+    ],
+    "centerkita": [
+      {
+        "to": "nakagawa",
+        "weight": 16,
+        "fareWeight": 16,
+        "chihou": false
+      },
+      {
+        "to": "centerminami",
+        "weight": 9,
+        "fareWeight": 9,
+        "chihou": false
+      },
+      {
+        "to": "kitayamata",
+        "weight": 17,
+        "fareWeight": 17,
+        "chihou": false
+      }
+    ],
+    "centerminami": [
+      {
+        "to": "centerkita",
+        "weight": 9,
+        "fareWeight": 9,
+        "chihou": false
+      },
+      {
+        "to": "nakamachidai",
+        "weight": 23,
+        "fareWeight": 23,
+        "chihou": false
+      },
+      {
+        "to": "tsuzukifureainooka",
+        "weight": 17,
+        "fareWeight": 17,
+        "chihou": false
+      }
+    ],
+    "nakamachidai": [
+      {
+        "to": "centerminami",
+        "weight": 23,
+        "fareWeight": 23,
+        "chihou": false
+      },
+      {
+        "to": "nippa",
+        "weight": 23,
+        "fareWeight": 23,
+        "chihou": false
+      }
+    ],
+    "nippa": [
+      {
+        "to": "nakamachidai",
+        "weight": 23,
+        "fareWeight": 23,
+        "chihou": false
+      },
+      {
+        "to": "kitashinyokohama",
+        "weight": 10,
+        "fareWeight": 10,
+        "chihou": false
+      }
+    ],
+    "kitashinyokohama": [
+      {
+        "to": "nippa",
+        "weight": 10,
+        "fareWeight": 10,
+        "chihou": false
+      },
+      {
+        "to": "shinyokohama_yokohama-city",
+        "weight": 13,
+        "fareWeight": 13,
+        "chihou": false
+      }
+    ],
+    "shinyokohama_yokohama-city": [
+      {
+        "to": "kitashinyokohama",
+        "weight": 13,
+        "fareWeight": 13,
+        "chihou": false
+      },
+      {
+        "to": "kishinekoen",
+        "weight": 16,
+        "fareWeight": 16,
+        "chihou": false
+      }
+    ],
+    "kishinekoen": [
+      {
+        "to": "shinyokohama_yokohama-city",
+        "weight": 16,
+        "fareWeight": 16,
+        "chihou": false
+      },
+      {
+        "to": "katakuracho",
+        "weight": 12,
+        "fareWeight": 12,
+        "chihou": false
+      }
+    ],
+    "katakuracho": [
+      {
+        "to": "kishinekoen",
+        "weight": 12,
+        "fareWeight": 12,
+        "chihou": false
+      },
+      {
+        "to": "mitsuzawakamicho",
+        "weight": 19,
+        "fareWeight": 19,
+        "chihou": false
+      }
+    ],
+    "mitsuzawakamicho": [
+      {
+        "to": "katakuracho",
+        "weight": 19,
+        "fareWeight": 19,
+        "chihou": false
+      },
+      {
+        "to": "mitsuzawashimocho",
+        "weight": 9,
+        "fareWeight": 9,
+        "chihou": false
+      }
+    ],
+    "mitsuzawashimocho": [
+      {
+        "to": "mitsuzawakamicho",
+        "weight": 9,
+        "fareWeight": 9,
+        "chihou": false
+      },
+      {
+        "to": "yokohama_yokohama-city",
+        "weight": 14,
+        "fareWeight": 14,
+        "chihou": false
+      }
+    ],
+    "yokohama_yokohama-city": [
+      {
+        "to": "mitsuzawashimocho",
+        "weight": 14,
+        "fareWeight": 14,
+        "chihou": false
+      },
+      {
+        "to": "takashimacho",
+        "weight": 9,
+        "fareWeight": 9,
+        "chihou": false
+      }
+    ],
+    "takashimacho": [
+      {
+        "to": "yokohama_yokohama-city",
+        "weight": 9,
+        "fareWeight": 9,
+        "chihou": false
+      },
+      {
+        "to": "sakuragicho_yokohama-city",
+        "weight": 12,
+        "fareWeight": 12,
+        "chihou": false
+      }
+    ],
+    "sakuragicho_yokohama-city": [
+      {
+        "to": "takashimacho",
+        "weight": 12,
+        "fareWeight": 12,
+        "chihou": false
+      },
+      {
+        "to": "kannai_yokohama-city",
+        "weight": 7,
+        "fareWeight": 7,
+        "chihou": false
+      }
+    ],
+    "kannai_yokohama-city": [
+      {
+        "to": "sakuragicho_yokohama-city",
+        "weight": 7,
+        "fareWeight": 7,
+        "chihou": false
+      },
+      {
+        "to": "isezakichojamachi",
+        "weight": 7,
+        "fareWeight": 7,
+        "chihou": false
+      }
+    ],
+    "isezakichojamachi": [
+      {
+        "to": "kannai_yokohama-city",
+        "weight": 7,
+        "fareWeight": 7,
+        "chihou": false
+      },
+      {
+        "to": "bandobashi",
+        "weight": 9,
+        "fareWeight": 9,
+        "chihou": false
+      }
+    ],
+    "bandobashi": [
+      {
+        "to": "isezakichojamachi",
+        "weight": 9,
+        "fareWeight": 9,
+        "chihou": false
+      },
+      {
+        "to": "yoshinocho",
+        "weight": 5,
+        "fareWeight": 5,
+        "chihou": false
+      }
+    ],
+    "yoshinocho": [
+      {
+        "to": "bandobashi",
+        "weight": 5,
+        "fareWeight": 5,
+        "chihou": false
+      },
+      {
+        "to": "maita",
+        "weight": 11,
+        "fareWeight": 11,
+        "chihou": false
+      }
+    ],
+    "maita": [
+      {
+        "to": "yoshinocho",
+        "weight": 11,
+        "fareWeight": 11,
+        "chihou": false
+      },
+      {
+        "to": "gumyoji_yokohama-city",
+        "weight": 11,
+        "fareWeight": 11,
+        "chihou": false
+      }
+    ],
+    "gumyoji_yokohama-city": [
+      {
+        "to": "maita",
+        "weight": 11,
+        "fareWeight": 11,
+        "chihou": false
+      },
+      {
+        "to": "kamiooka_yokohama-city",
+        "weight": 16,
+        "fareWeight": 16,
+        "chihou": false
+      }
+    ],
+    "kamiooka_yokohama-city": [
+      {
+        "to": "gumyoji_yokohama-city",
+        "weight": 16,
+        "fareWeight": 16,
+        "chihou": false
+      },
+      {
+        "to": "konanchuo",
+        "weight": 11,
+        "fareWeight": 11,
+        "chihou": false
+      }
+    ],
+    "konanchuo": [
+      {
+        "to": "kamiooka_yokohama-city",
+        "weight": 11,
+        "fareWeight": 11,
+        "chihou": false
+      },
+      {
+        "to": "kaminagaya",
+        "weight": 17,
+        "fareWeight": 17,
+        "chihou": false
+      }
+    ],
+    "kaminagaya": [
+      {
+        "to": "konanchuo",
+        "weight": 17,
+        "fareWeight": 17,
+        "chihou": false
+      },
+      {
+        "to": "shimonagaya",
+        "weight": 13,
+        "fareWeight": 13,
+        "chihou": false
+      }
+    ],
+    "shimonagaya": [
+      {
+        "to": "kaminagaya",
+        "weight": 13,
+        "fareWeight": 13,
+        "chihou": false
+      },
+      {
+        "to": "maioka",
+        "weight": 7,
+        "fareWeight": 7,
+        "chihou": false
+      }
+    ],
+    "maioka": [
+      {
+        "to": "shimonagaya",
+        "weight": 7,
+        "fareWeight": 7,
+        "chihou": false
+      },
+      {
+        "to": "totsuka_yokohama-city",
+        "weight": 16,
+        "fareWeight": 16,
+        "chihou": false
+      }
+    ],
+    "totsuka_yokohama-city": [
+      {
+        "to": "maioka",
+        "weight": 16,
+        "fareWeight": 16,
+        "chihou": false
+      },
+      {
+        "to": "odoriba",
+        "weight": 17,
+        "fareWeight": 17,
+        "chihou": false
+      }
+    ],
+    "odoriba": [
+      {
+        "to": "totsuka_yokohama-city",
+        "weight": 17,
+        "fareWeight": 17,
+        "chihou": false
+      },
+      {
+        "to": "nakada",
+        "weight": 9,
+        "fareWeight": 9,
+        "chihou": false
+      }
+    ],
+    "nakada": [
+      {
+        "to": "odoriba",
+        "weight": 9,
+        "fareWeight": 9,
+        "chihou": false
+      },
+      {
+        "to": "tateba",
+        "weight": 11,
+        "fareWeight": 11,
+        "chihou": false
+      }
+    ],
+    "tateba": [
+      {
+        "to": "nakada",
+        "weight": 11,
+        "fareWeight": 11,
+        "chihou": false
+      },
+      {
+        "to": "shimoiida",
+        "weight": 21,
+        "fareWeight": 21,
+        "chihou": false
+      }
+    ],
+    "shimoiida": [
+      {
+        "to": "tateba",
+        "weight": 21,
+        "fareWeight": 21,
+        "chihou": false
+      },
+      {
+        "to": "shonandai_yokohama-city",
+        "weight": 16,
+        "fareWeight": 16,
+        "chihou": false
+      }
+    ],
+    "shonandai_yokohama-city": [
+      {
+        "to": "shimoiida",
+        "weight": 16,
+        "fareWeight": 16,
+        "chihou": false
+      }
+    ],
+    "kawawacho": [
+      {
+        "to": "nakayama_yokohama-city",
+        "weight": 17,
+        "fareWeight": 17,
+        "chihou": false
+      },
+      {
+        "to": "tsuzukifureainooka",
+        "weight": 14,
+        "fareWeight": 14,
+        "chihou": false
+      }
+    ],
+    "nakayama_yokohama-city": [
+      {
+        "to": "kawawacho",
+        "weight": 17,
+        "fareWeight": 17,
+        "chihou": false
+      }
+    ],
+    "tsuzukifureainooka": [
+      {
+        "to": "kawawacho",
+        "weight": 14,
+        "fareWeight": 14,
+        "chihou": false
+      },
+      {
+        "to": "centerminami",
+        "weight": 17,
+        "fareWeight": 17,
+        "chihou": false
+      }
+    ],
+    "kitayamata": [
+      {
+        "to": "centerkita",
+        "weight": 17,
+        "fareWeight": 17,
+        "chihou": false
+      },
+      {
+        "to": "higashiyamata",
+        "weight": 14,
+        "fareWeight": 14,
+        "chihou": false
+      }
+    ],
+    "higashiyamata": [
+      {
+        "to": "kitayamata",
+        "weight": 14,
+        "fareWeight": 14,
+        "chihou": false
+      },
+      {
+        "to": "takata",
+        "weight": 15,
+        "fareWeight": 15,
+        "chihou": false
+      }
+    ],
+    "takata": [
+      {
+        "to": "higashiyamata",
+        "weight": 15,
+        "fareWeight": 15,
+        "chihou": false
+      },
+      {
+        "to": "hiyoshihoncho",
+        "weight": 13,
+        "fareWeight": 13,
+        "chihou": false
+      }
+    ],
+    "hiyoshihoncho": [
+      {
+        "to": "takata",
+        "weight": 13,
+        "fareWeight": 13,
+        "chihou": false
+      },
+      {
+        "to": "hiyoshi_yokohama-city",
+        "weight": 14,
+        "fareWeight": 14,
+        "chihou": false
+      }
+    ],
+    "hiyoshi_yokohama-city": [
+      {
+        "to": "hiyoshihoncho",
+        "weight": 14,
+        "fareWeight": 14,
+        "chihou": false
+      }
+    ]
+  }
+}

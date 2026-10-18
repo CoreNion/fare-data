@@ -1,0 +1,154 @@
+{
+  "stations": {
+    "akabaneiwabuchi": {
+      "id": "akabaneiwabuchi",
+      "name": "赤羽岩淵",
+      "km": 0,
+      "sp": []
+    },
+    "kawaguchimotogo": {
+      "id": "kawaguchimotogo",
+      "name": "川口元郷",
+      "km": 24,
+      "sp": []
+    },
+    "minamihatogaya": {
+      "id": "minamihatogaya",
+      "name": "南鳩ヶ谷",
+      "km": 43,
+      "sp": []
+    },
+    "hatogaya": {
+      "id": "hatogaya",
+      "name": "鳩ヶ谷",
+      "km": 59,
+      "sp": []
+    },
+    "araijuku": {
+      "id": "araijuku",
+      "name": "新井宿",
+      "km": 75,
+      "sp": []
+    },
+    "tozukaangyo": {
+      "id": "tozukaangyo",
+      "name": "戸塚安行",
+      "km": 100,
+      "sp": []
+    },
+    "higashikawaguchi_saitama": {
+      "id": "higashikawaguchi_saitama",
+      "name": "東川口",
+      "km": 122,
+      "sp": []
+    },
+    "urawamisono": {
+      "id": "urawamisono",
+      "name": "浦和美園",
+      "km": 146,
+      "sp": []
+    }
+  },
+  "adj": {
+    "kawaguchimotogo": [
+      {
+        "to": "akabaneiwabuchi",
+        "weight": 24,
+        "fareWeight": 24,
+        "chihou": false
+      },
+      {
+        "to": "minamihatogaya",
+        "weight": 19,
+        "fareWeight": 19,
+        "chihou": false
+      }
+    ],
+    "akabaneiwabuchi": [
+      {
+        "to": "kawaguchimotogo",
+        "weight": 24,
+        "fareWeight": 24,
+        "chihou": false
+      }
+    ],
+    "minamihatogaya": [
+      {
+        "to": "kawaguchimotogo",
+        "weight": 19,
+        "fareWeight": 19,
+        "chihou": false
+      },
+      {
+        "to": "hatogaya",
+        "weight": 16,
+        "fareWeight": 16,
+        "chihou": false
+      }
+    ],
+    "hatogaya": [
+      {
+        "to": "minamihatogaya",
+        "weight": 16,
+        "fareWeight": 16,
+        "chihou": false
+      },
+      {
+        "to": "araijuku",
+        "weight": 16,
+        "fareWeight": 16,
+        "chihou": false
+      }
+    ],
+    "araijuku": [
+      {
+        "to": "hatogaya",
+        "weight": 16,
+        "fareWeight": 16,
+        "chihou": false
+      },
+      {
+        "to": "tozukaangyo",
+        "weight": 25,
+        "fareWeight": 25,
+        "chihou": false
+      }
+    ],
+    "tozukaangyo": [
+      {
+        "to": "araijuku",
+        "weight": 25,
+        "fareWeight": 25,
+        "chihou": false
+      },
+      {
+        "to": "higashikawaguchi_saitama",
+        "weight": 22,
+        "fareWeight": 22,
+        "chihou": false
+      }
+    ],
+    "higashikawaguchi_saitama": [
+      {
+        "to": "tozukaangyo",
+        "weight": 22,
+        "fareWeight": 22,
+        "chihou": false
+      },
+      {
+        "to": "urawamisono",
+        "weight": 24,
+        "fareWeight": 24,
+        "chihou": false
+      }
+    ],
+    "urawamisono": [
+      {
+        "to": "higashikawaguchi_saitama",
+        "weight": 24,
+        "fareWeight": 24,
+        "chihou": false
+      }
+    ]
+  }
+}

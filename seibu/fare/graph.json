@@ -554,20 +554,6 @@
     }
   },
   "adj": {
-    "agano": [
-      {
-        "to": "nishiagano",
-        "weight": 36,
-        "fareWeight": 36,
-        "chihou": false
-      },
-      {
-        "to": "higashiagano",
-        "weight": 40,
-        "fareWeight": 40,
-        "chihou": false
-      }
-    ],
     "nishiagano": [
       {
         "to": "agano",
@@ -579,6 +565,20 @@
         "to": "shomaru",
         "weight": 27,
         "fareWeight": 27,
+        "chihou": false
+      }
+    ],
+    "agano": [
+      {
+        "to": "nishiagano",
+        "weight": 36,
+        "fareWeight": 36,
+        "chihou": false
+      },
+      {
+        "to": "higashiagano",
+        "weight": 40,
+        "fareWeight": 40,
         "chihou": false
       }
     ],
@@ -632,26 +632,6 @@
         "chihou": false
       }
     ],
-    "kodaira": [
-      {
-        "to": "hagiyama",
-        "weight": 11,
-        "fareWeight": 11,
-        "chihou": false
-      },
-      {
-        "to": "hanakoganei",
-        "weight": 27,
-        "fareWeight": 27,
-        "chihou": false
-      },
-      {
-        "to": "kumegawa",
-        "weight": 20,
-        "fareWeight": 20,
-        "chihou": false
-      }
-    ],
     "hagiyama": [
       {
         "to": "kodaira",
@@ -675,6 +655,26 @@
         "to": "yasaka",
         "weight": 10,
         "fareWeight": 10,
+        "chihou": false
+      }
+    ],
+    "kodaira": [
+      {
+        "to": "hagiyama",
+        "weight": 11,
+        "fareWeight": 11,
+        "chihou": false
+      },
+      {
+        "to": "hanakoganei",
+        "weight": 27,
+        "fareWeight": 27,
+        "chihou": false
+      },
+      {
+        "to": "kumegawa",
+        "weight": 20,
+        "fareWeight": 20,
         "chihou": false
       }
     ],
@@ -768,14 +768,6 @@
         "chihou": false
       }
     ],
-    "ikebukuro_seibu": [
-      {
-        "to": "shiinamachi",
-        "weight": 19,
-        "fareWeight": 19,
-        "chihou": false
-      }
-    ],
     "shiinamachi": [
       {
         "to": "ikebukuro_seibu",
@@ -787,6 +779,14 @@
         "to": "higashinagasaki",
         "weight": 12,
         "fareWeight": 12,
+        "chihou": false
+      }
+    ],
+    "ikebukuro_seibu": [
+      {
+        "to": "shiinamachi",
+        "weight": 19,
+        "fareWeight": 19,
         "chihou": false
       }
     ],
@@ -1212,20 +1212,6 @@
         "chihou": false
       }
     ],
-    "kokubunji_seibu": [
-      {
-        "to": "koigakubo",
-        "weight": 21,
-        "fareWeight": 21,
-        "chihou": false
-      },
-      {
-        "to": "hitotsubashigakuen",
-        "weight": 24,
-        "fareWeight": 24,
-        "chihou": false
-      }
-    ],
     "koigakubo": [
       {
         "to": "kokubunji_seibu",
@@ -1237,6 +1223,20 @@
         "to": "takanodai",
         "weight": 15,
         "fareWeight": 15,
+        "chihou": false
+      }
+    ],
+    "kokubunji_seibu": [
+      {
+        "to": "koigakubo",
+        "weight": 21,
+        "fareWeight": 21,
+        "chihou": false
+      },
+      {
+        "to": "hitotsubashigakuen",
+        "weight": 24,
+        "fareWeight": 24,
         "chihou": false
       }
     ],
@@ -1316,14 +1316,6 @@
         "chihou": false
       }
     ],
-    "seibushinjuku": [
-      {
-        "to": "takadanobaba_seibu",
-        "weight": 20,
-        "fareWeight": 20,
-        "chihou": false
-      }
-    ],
     "takadanobaba_seibu": [
       {
         "to": "seibushinjuku",
@@ -1335,6 +1327,14 @@
         "to": "shimochiai",
         "weight": 12,
         "fareWeight": 12,
+        "chihou": false
+      }
+    ],
+    "seibushinjuku": [
+      {
+        "to": "takadanobaba_seibu",
+        "weight": 20,
+        "fareWeight": 20,
         "chihou": false
       }
     ],
@@ -1668,14 +1668,6 @@
         "chihou": false
       }
     ],
-    "musashisakai_seibu": [
-      {
-        "to": "shinkoganei",
-        "weight": 19,
-        "fareWeight": 19,
-        "chihou": false
-      }
-    ],
     "shinkoganei": [
       {
         "to": "musashisakai_seibu",
@@ -1687,6 +1679,14 @@
         "to": "tama",
         "weight": 22,
         "fareWeight": 22,
+        "chihou": false
+      }
+    ],
+    "musashisakai_seibu": [
+      {
+        "to": "shinkoganei",
+        "weight": 19,
+        "fareWeight": 19,
         "chihou": false
       }
     ],
@@ -1832,14 +1832,6 @@
         "chihou": false
       }
     ],
-    "kotakemukaihara": [
-      {
-        "to": "shinsakuradai",
-        "weight": 12,
-        "fareWeight": 12,
-        "chihou": false
-      }
-    ],
     "shinsakuradai": [
       {
         "to": "kotakemukaihara",
@@ -1851,6 +1843,14 @@
         "to": "nerima",
         "weight": 14,
         "fareWeight": 14,
+        "chihou": false
+      }
+    ],
+    "kotakemukaihara": [
+      {
+        "to": "shinsakuradai",
+        "weight": 12,
+        "fareWeight": 12,
         "chihou": false
       }
     ]

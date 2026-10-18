@@ -1,0 +1,214 @@
+{
+  "stations": {
+    "odawara_odakyu": {
+      "id": "odawara_odakyu",
+      "name": "小田原",
+      "km": 0,
+      "sp": []
+    },
+    "hakoneitabashi": {
+      "id": "hakoneitabashi",
+      "name": "箱根板橋",
+      "km": 17,
+      "sp": []
+    },
+    "kazamatsuri": {
+      "id": "kazamatsuri",
+      "name": "風祭",
+      "km": 32,
+      "sp": []
+    },
+    "iriuda": {
+      "id": "iriuda",
+      "name": "入生田",
+      "km": 42,
+      "sp": []
+    },
+    "hakoneyumoto": {
+      "id": "hakoneyumoto",
+      "name": "箱根湯本",
+      "km": 61,
+      "sp": []
+    },
+    "tonosawa": {
+      "id": "tonosawa",
+      "name": "塔ノ沢",
+      "km": 71,
+      "sp": []
+    },
+    "ohiradai": {
+      "id": "ohiradai",
+      "name": "大平台",
+      "km": 99,
+      "sp": []
+    },
+    "miyanoshita": {
+      "id": "miyanoshita",
+      "name": "宮ノ下",
+      "km": 121,
+      "sp": []
+    },
+    "kowakidani": {
+      "id": "kowakidani",
+      "name": "小涌谷",
+      "km": 134,
+      "sp": []
+    },
+    "chokokunomori": {
+      "id": "chokokunomori",
+      "name": "彫刻の森",
+      "km": 143,
+      "sp": []
+    },
+    "gora": {
+      "id": "gora",
+      "name": "強羅",
+      "km": 150,
+      "sp": []
+    }
+  },
+  "adj": {
+    "hakoneitabashi": [
+      {
+        "to": "odawara_odakyu",
+        "weight": 17,
+        "fareWeight": 17,
+        "chihou": false
+      },
+      {
+        "to": "kazamatsuri",
+        "weight": 15,
+        "fareWeight": 15,
+        "chihou": false
+      }
+    ],
+    "odawara_odakyu": [
+      {
+        "to": "hakoneitabashi",
+        "weight": 17,
+        "fareWeight": 17,
+        "chihou": false
+      }
+    ],
+    "kazamatsuri": [
+      {
+        "to": "hakoneitabashi",
+        "weight": 15,
+        "fareWeight": 15,
+        "chihou": false
+      },
+      {
+        "to": "iriuda",
+        "weight": 10,
+        "fareWeight": 10,
+        "chihou": false
+      }
+    ],
+    "iriuda": [
+      {
+        "to": "kazamatsuri",
+        "weight": 10,
+        "fareWeight": 10,
+        "chihou": false
+      },
+      {
+        "to": "hakoneyumoto",
+        "weight": 19,
+        "fareWeight": 19,
+        "chihou": false
+      }
+    ],
+    "hakoneyumoto": [
+      {
+        "to": "iriuda",
+        "weight": 19,
+        "fareWeight": 19,
+        "chihou": false
+      },
+      {
+        "to": "tonosawa",
+        "weight": 10,
+        "fareWeight": 10,
+        "chihou": false
+      }
+    ],
+    "tonosawa": [
+      {
+        "to": "hakoneyumoto",
+        "weight": 10,
+        "fareWeight": 10,
+        "chihou": false
+      },
+      {
+        "to": "ohiradai",
+        "weight": 28,
+        "fareWeight": 28,
+        "chihou": false
+      }
+    ],
+    "ohiradai": [
+      {
+        "to": "tonosawa",
+        "weight": 28,
+        "fareWeight": 28,
+        "chihou": false
+      },
+      {
+        "to": "miyanoshita",
+        "weight": 22,
+        "fareWeight": 22,
+        "chihou": false
+      }
+    ],
+    "miyanoshita": [
+      {
+        "to": "ohiradai",
+        "weight": 22,
+        "fareWeight": 22,
+        "chihou": false
+      },
+      {
+        "to": "kowakidani",
+        "weight": 13,
+        "fareWeight": 13,
+        "chihou": false
+      }
+    ],
+    "kowakidani": [
+      {
+        "to": "miyanoshita",
+        "weight": 13,
+        "fareWeight": 13,
+        "chihou": false
+      },
+      {
+        "to": "chokokunomori",
+        "weight": 9,
+        "fareWeight": 9,
+        "chihou": false
+      }
+    ],
+    "chokokunomori": [
+      {
+        "to": "kowakidani",
+        "weight": 9,
+        "fareWeight": 9,
+        "chihou": false
+      },
+      {
+        "to": "gora",
+        "weight": 7,
+        "fareWeight": 7,
+        "chihou": false
+      }
+    ],
+    "gora": [
+      {
+        "to": "chokokunomori",
+        "weight": 7,
+        "fareWeight": 7,
+        "chihou": false
+      }
+    ]
+  }
+}

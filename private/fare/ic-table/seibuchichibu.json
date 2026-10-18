@@ -1,0 +1,6682 @@
+{
+  "id": "seibuchichibu",
+  "name": "西武秩父",
+  "fares": {
+    "kanda-tohoku": 1242,
+    "ochanomizu": 1242,
+    "suidobashi": 1286,
+    "iidabashi": 1286,
+    "ichigaya": 1242,
+    "yotsuya": 1242,
+    "shinanomachi": 1242,
+    "sendagaya": 1242,
+    "yoyogi": 1232,
+    "shinjuku": 1232,
+    "okubo-chuo": 1188,
+    "higashinakano": 1188,
+    "nakano": 1033,
+    "koenji": 1188,
+    "asagaya": 1188,
+    "ogikubo": 1232,
+    "nishiogikubo": 1232,
+    "kichijoji": 1242,
+    "mitaka": 1242,
+    "musashisakai": 1286,
+    "higashikoganei": 1286,
+    "musashikoganei": 1286,
+    "kokubunji": 1374,
+    "nishikokubunji": 1374,
+    "kunitachi": 1374,
+    "tachikawa": 1473,
+    "hino": 1561,
+    "toyoda": 1561,
+    "hachioji": 1649,
+    "nishihachioji": 1748,
+    "takao": 1748,
+    "sagamiko": 1935,
+    "fujino": 2067,
+    "uenohara": 2067,
+    "shiotsu": 2067,
+    "yanagawa": 2254,
+    "torisawa": 2254,
+    "saruhashi": 2441,
+    "otsuki": 2441,
+    "hatsukari": 2441,
+    "sasago": 2628,
+    "kaiyamato": 2815,
+    "katsunumabudokyo": 2815,
+    "kitahachioji": 1748,
+    "komiya": 1649,
+    "haijima": 1561,
+    "higashifussa": 1649,
+    "hakonegasaki": 1748,
+    "kaneko": 1836,
+    "higashihanno": 1935,
+    "komagawa": 2067,
+    "moro": 2067,
+    "ogose": 2254,
+    "myokaku": 2254,
+    "ogawamachi": 2441,
+    "takezawa": 2628,
+    "orihara": 2628,
+    "yorii": 2628,
+    "yodo": 2815,
+    "matsuhisa": 2815,
+    "kodama": 3123,
+    "tansho": 3123,
+    "kuragano": 2815,
+    "kumagawa": 1649,
+    "higashiakiru": 1649,
+    "akigawa": 1748,
+    "musashihikida": 1748,
+    "musashimasuko": 1748,
+    "musashiitsukaichi": 1836,
+    "nippori": 1232,
+    "mikawashima": 1232,
+    "minamisenju": 1188,
+    "kitasenju": 1033,
+    "ayase": 1074,
+    "kameari": 1229,
+    "kanamachi": 1242,
+    "matsudo": 1283,
+    "kitamatsudo": 1286,
+    "mabashi": 1286,
+    "shinmatsudo": 1327,
+    "kitakogane": 1327,
+    "minamikashiwa": 1374,
+    "kashiwa": 1415,
+    "kitakashiwa": 1473,
+    "abiko": 1514,
+    "tennodai": 1561,
+    "toride": 1602,
+    "fujishiro": 1748,
+    "ryugasakishi": 1789,
+    "ushiku": 1877,
+    "hitachinoshiku": 1935,
+    "arakawaoki": 1976,
+    "tsuchiura": 2067,
+    "kandatsu": 2254,
+    "takahama": 2295,
+    "ishioka": 2441,
+    "hatori": 2482,
+    "iwama": 2628,
+    "tomobe": 2815,
+    "uchihara": 2815,
+    "katori": 2513,
+    "junikyo": 2700,
+    "itako": 2700,
+    "nobukata": 2700,
+    "kashimajingu": 2887,
+    "kashimasa-soccer-stadium": 2887,
+    "omiya": 1561,
+    "nisshin-kawagoe": 1649,
+    "nishiomiya": 1748,
+    "sashiogi": 1748,
+    "minamifuruya": 1836,
+    "kawagoe": 1935,
+    "nishikawagoe": 1935,
+    "matoba": 2067,
+    "kasahata": 2067,
+    "musashitakahagi": 2067,
+    "tokyo": 1286,
+    "hatchobori": 1286,
+    "etchujima": 1286,
+    "shiomi": 1374,
+    "shinkiba": 1374,
+    "kasairinkaikoen": 1358,
+    "maihama": 1358,
+    "shinurayasu": 1314,
+    "ichikawashiohama": 1304,
+    "futamatashinmachi": 1314,
+    "minamifunabashi": 1304,
+    "shinnarashino": 1314,
+    "makuharitoyosuna": 1314,
+    "kaihinmakuhari": 1358,
+    "kemigawahama": 1358,
+    "inagekaigan": 1358,
+    "chibaminato": 1446,
+    "soga": 1545,
+    "nishifunabashi": 1105,
+    "kisarazu": 2139,
+    "gion": 2139,
+    "kazusakiyokawa": 2139,
+    "higashikiyokawa": 2326,
+    "yokota": 2326,
+    "higashiyokota": 2326,
+    "makuta": 2326,
+    "shimogori": 2513,
+    "obitsu": 2513,
+    "tawarada": 2513,
+    "kururi": 2513,
+    "hirayama": 2700,
+    "kazusamatsuoka": 2700,
+    "kazusakameyama": 2700,
+    "oyama-tohoku": 2441,
+    "otabayashi": 2628,
+    "yuki-mito": 2628,
+    "higashiyuki": 2628,
+    "kawashima": 2815,
+    "tamado": 2815,
+    "shimodate": 2815,
+    "kasama": 2856,
+    "shishido": 2815,
+    "fuchuhonmachi": 1473,
+    "kitafuchu": 1473,
+    "shinkodaira": 1473,
+    "shinakitsu": 1561,
+    "higashitokorozawa": 1561,
+    "niiza": 1649,
+    "kitaasaka": 1649,
+    "nishiurawa": 1561,
+    "musashiurawa": 1473,
+    "minamiurawa": 1473,
+    "higashiurawa": 1561,
+    "higashikawaguchi": 1561,
+    "minamikoshigaya": 1561,
+    "koshigayareikutaun": 1514,
+    "yoshikawa-musashino": 1473,
+    "yoshikawaminami": 1473,
+    "shinmisato": 1415,
+    "misato-musashino": 1374,
+    "minaminagareyama": 1374,
+    "shinyahashira": 1358,
+    "higashimatsudo": 1314,
+    "ichikawaono": 1304,
+    "funabashihoten": 1260,
+    "kawasaki": 1561,
+    "shitte": 1561,
+    "yako": 1561,
+    "kashimada": 1561,
+    "hirama": 1561,
+    "mukaigawara": 1561,
+    "musashikosugi": 1473,
+    "musashinakahara": 1561,
+    "musashishinjo": 1561,
+    "musashimizonokuchi": 1649,
+    "tsudayama": 1649,
+    "kuji-nanbu": 1649,
+    "shukugawara": 1649,
+    "noborito": 1649,
+    "nakanoshima": 1649,
+    "inadazutsumi": 1561,
+    "yanokuchi": 1561,
+    "inaginaganuma": 1561,
+    "minamitama": 1473,
+    "bubaigawara": 1473,
+    "nishifu": 1473,
+    "yaho": 1561,
+    "yagawa": 1561,
+    "nishikunitachi": 1473,
+    "hatchonawate": 1561,
+    "kawasakishinmachi": 1649,
+    "odasakae": 1649,
+    "hamakawasaki": 1649,
+    "sakura": 1721,
+    "shisui": 1908,
+    "narita": 2007,
+    "kuzumi": 2139,
+    "namegawa": 2295,
+    "shimosakozaki": 2326,
+    "oto": 2482,
+    "sawara": 2513,
+    "suigo": 2700,
+    "omigawa-narita": 2700,
+    "sasagawa": 2887,
+    "shimosatachibana": 2887,
+    "matsugishi": 2887,
+    "higashiabiko": 1561,
+    "kohoku-narita2": 1602,
+    "araki-narita2": 1649,
+    "fusa": 1748,
+    "kioroshi": 1789,
+    "kobayashi-narita": 1836,
+    "ajiki": 1935,
+    "shimosamanzaki": 2067,
+    "narita-airport-t2-t3": 2139,
+    "narita-airport-t1": 2139,
+    "yokohama": 1748,
+    "sakuragicho": 1748,
+    "kannai": 1748,
+    "ishikawacho": 1836,
+    "yamate": 1836,
+    "negishi-negishi": 1836,
+    "isogo": 1935,
+    "shinsugita": 1935,
+    "yokodai": 2067,
+    "konandai": 2067,
+    "hongodai": 2067,
+    "ofuna": 2067,
+    "nishitachikawa": 1473,
+    "higashinakagami": 1561,
+    "nakagami": 1561,
+    "akishima": 1561,
+    "ushihama": 1649,
+    "fussa": 1649,
+    "hamura": 1649,
+    "ozaku": 1748,
+    "kabe-ome": 1748,
+    "higashiome": 1748,
+    "ome": 1836,
+    "miyanohira": 1836,
+    "hinatawada": 1836,
+    "ishigamimae": 1935,
+    "futamatao": 1935,
+    "ikusabata": 1935,
+    "sawai": 1935,
+    "mitake": 1935,
+    "kawai-ome": 2067,
+    "kori-ome": 2067,
+    "hatonosu": 2067,
+    "shiromaru": 2067,
+    "okutama": 2067,
+    "iwafune": 2815,
+    "ohirashita": 2815,
+    "tochigi": 2815,
+    "omoigawa": 2628,
+    "chigasaki": 2254,
+    "kitachigasaki": 2254,
+    "kagawa-sagami": 2441,
+    "samukawa": 2254,
+    "miyayama": 2254,
+    "kurami": 2254,
+    "kadosawabashi": 2254,
+    "shake": 2254,
+    "atsugi": 2254,
+    "ebina": 2067,
+    "iriya": 2067,
+    "sobudaishita": 2067,
+    "shimomizo": 2067,
+    "harataima": 1935,
+    "banda": 1935,
+    "kamimizo": 1935,
+    "minamihashimoto": 1836,
+    "hashimoto-yokohama": 1836,
+    "ikebukuro": 1242,
+    "itabashi": 1286,
+    "jujo": 1286,
+    "akabane": 1286,
+    "kitaakabane": 1286,
+    "ukimafunado": 1374,
+    "todakoen": 1374,
+    "toda-saikyo": 1374,
+    "kitatoda": 1473,
+    "nakaurawa": 1473,
+    "minamiyono": 1561,
+    "yonohonmachi": 1561,
+    "kitayono": 1561,
+    "shinnihonbashi": 1286,
+    "bakurocho": 1286,
+    "kinshicho": 1286,
+    "kameido": 1286,
+    "hirai": 1358,
+    "shinkoiwa": 1358,
+    "koiwa": 1314,
+    "ichikawa": 1304,
+    "motoyawata": 1304,
+    "shimosanakayama": 1260,
+    "funabashi": 1260,
+    "higashifunabashi": 1304,
+    "tsudanuma": 1314,
+    "makuharihongo": 1314,
+    "makuhari": 1358,
+    "shinkemigawa": 1358,
+    "inage": 1446,
+    "nishichiba": 1446,
+    "chiba": 1446,
+    "higashichiba": 1446,
+    "tsuga": 1545,
+    "yotsukaido": 1633,
+    "monoi": 1721,
+    "minamishisui": 1820,
+    "enokido": 1908,
+    "yachimata": 2007,
+    "hyuga": 2139,
+    "naruto-sobu": 2139,
+    "matsuo": 2326,
+    "yokoshiba": 2326,
+    "iigura": 2326,
+    "yokaichiba": 2513,
+    "higata": 2513,
+    "asahi-sobu": 2700,
+    "iioka": 2700,
+    "kurahashi": 2700,
+    "saruda": 2887,
+    "choshi": 2887,
+    "akihabara": 1242,
+    "asakusabashi": 1286,
+    "ryogoku": 1286,
+    "honchiba": 1446,
+    "kamatori": 1633,
+    "honda": 1721,
+    "toke": 1820,
+    "oami": 1908,
+    "nagata": 1908,
+    "honno": 2007,
+    "shinmobara": 2007,
+    "mobara": 2139,
+    "yatsumi": 2139,
+    "kazusaichinomiya": 2326,
+    "torami": 2326,
+    "taito": 2326,
+    "chojamachi": 2513,
+    "mikado": 2513,
+    "ohara": 2513,
+    "namihana": 2513,
+    "onjuku": 2700,
+    "katsura": 2700,
+    "ubara": 2887,
+    "kazusaokitsu": 2887,
+    "namegawaairando": 2887,
+    "miyahara": 1649,
+    "ageo": 1748,
+    "kitaageo": 1748,
+    "okegawa": 1836,
+    "kitamoto": 1935,
+    "konosu": 1935,
+    "kitakonosu": 2067,
+    "fukiage": 2067,
+    "gyoda": 2067,
+    "kumagaya": 2254,
+    "kagohara": 2441,
+    "fukaya": 2441,
+    "okabe": 2441,
+    "honjo-takasaki": 2628,
+    "jinbohara": 2628,
+    "shinmachi": 2815,
+    "fukutawara": 2007,
+    "togane": 2007,
+    "gumyo": 2139,
+    "okachimachi": 1242,
+    "ueno": 1242,
+    "uguisudani": 1242,
+    "nishinippori": 1232,
+    "tabata-tohoku": 1242,
+    "kaminakazato": 1242,
+    "oji-tohoku": 1242,
+    "higashijujo": 1286,
+    "kawaguchi": 1374,
+    "nishikawaguchi": 1374,
+    "warabi": 1374,
+    "urawa": 1473,
+    "kitaurawa": 1561,
+    "yono": 1561,
+    "saitamashintoshin": 1561,
+    "toro-tohoku": 1649,
+    "higashiomiya": 1649,
+    "hasuda": 1748,
+    "shiraoka": 1836,
+    "shinshiraoka": 1935,
+    "kuki-tohoku": 1935,
+    "higashiwashinomiya": 2067,
+    "kurihashi": 2067,
+    "koga-tohoku": 2254,
+    "nogi-tohoku": 2254,
+    "mamada": 2441,
+    "koganei": 2628,
+    "jichiidai": 2815,
+    "ishibashi": 2815,
+    "oku-tohoku": 1242,
+    "yurakucho": 1286,
+    "shinbashi": 1286,
+    "hamamatsucho": 1286,
+    "tamachi": 1374,
+    "takanawagetowei": 1374,
+    "shinagawa": 1286,
+    "oimachi": 1374,
+    "omori": 1374,
+    "kamata": 1473,
+    "tsurumi": 1561,
+    "shinkoyasu": 1649,
+    "higashikanagawa": 1748,
+    "hodogaya": 1748,
+    "higashitotsuka": 1836,
+    "totsuka": 1935,
+    "fujisawa": 2067,
+    "tsujido": 2254,
+    "hiratsuka": 2441,
+    "oiso": 2441,
+    "ninomiya": 2628,
+    "kozu": 2628,
+    "kamonomiya": 2628,
+    "odawara": 2815,
+    "hayakawa": 2815,
+    "nebukawa": 2815,
+    "nishioi": 1374,
+    "shinkawasaki": 1561,
+    "hazawayokohamakokudai": 1649,
+    "kokudo": 1649,
+    "tsurumiono": 1649,
+    "bentenbashi": 1649,
+    "asano": 1649,
+    "anzen": 1649,
+    "musashishiraishi": 1649,
+    "showa": 1649,
+    "ogimachi": 1649,
+    "shinshibaura": 1649,
+    "umishibaura": 1649,
+    "okawa": 1649,
+    "hamano": 1633,
+    "yawatajuku": 1633,
+    "goi": 1721,
+    "anegasaki": 1820,
+    "nagaura": 1908,
+    "sodegaura": 2007,
+    "iwane": 2007,
+    "kimitsu": 2326,
+    "aohori": 2326,
+    "onuki": 2326,
+    "sanukimachi": 2513,
+    "kazusaminato": 2513,
+    "takeoka": 2700,
+    "hamakanaya": 2700,
+    "hota": 2700,
+    "awakatsuyama": 2887,
+    "iwai": 2887,
+    "osaki": 1286,
+    "gotanda": 1286,
+    "meguro": 1286,
+    "ebisu": 1242,
+    "shibuya": 1242,
+    "harajuku": 1242,
+    "shinokubo": 1232,
+    "takadanobaba": 1242,
+    "mejiro": 1242,
+    "otsuka": 1242,
+    "sugamo": 1242,
+    "komagome": 1242,
+    "oguchi": 1748,
+    "kikuna": 1748,
+    "shinyokohama": 1836,
+    "kozukue": 1836,
+    "kamoi": 1935,
+    "nakayama": 1935,
+    "tokaichiba": 2067,
+    "nagatsuta": 2067,
+    "naruse": 2067,
+    "machida": 2067,
+    "kobuchi": 1935,
+    "fuchinobe": 1935,
+    "yabe": 1935,
+    "sagamihara": 1836,
+    "aihara": 1748,
+    "hachiojiminamino": 1748,
+    "katakura": 1748,
+    "kitakamakura": 2067,
+    "kamakura": 2067,
+    "zushi": 2254,
+    "higashizushi": 2254,
+    "taura": 2254,
+    "yokosuka": 2441,
+    "kinugasa": 2441,
+    "kurihama": 2441,
+    "machiya": 1033,
+    "nishinippori_subway": 1033,
+    "sendagi": 1033,
+    "nezu": 1033,
+    "yushima": 1033,
+    "awajicho_shinochanomizu": 990,
+    "otemachi_metro": 1033,
+    "nijubashimae": 1033,
+    "hibiya_yurakucho_metro": 1033,
+    "kasumigaseki": 1033,
+    "tameikesanno_kokkaigijidomae": 1033,
+    "akasaka": 1033,
+    "nogizaka": 1033,
+    "omotesando": 1033,
+    "meijijingumae": 1033,
+    "yoyogikoen": 1033,
+    "yoyogiuehara": 1033,
+    "kitaayase": 1074,
+    "kotakemukaihara": 781,
+    "senkawa": 959,
+    "kanamecho": 959,
+    "ikebukuro_subway": 959,
+    "zoshigaya": 959,
+    "nishiwaseda": 990,
+    "higashishinjuku_metro": 990,
+    "shinjukusanchome_metro": 990,
+    "kitasando": 990,
+    "shibuya_subway_tokyu": 1033,
+    "gaiemmae": 1033,
+    "aoyamaitchome_metro": 1033,
+    "akasakamitsuke_nagatacho": 990,
+    "toranomon_toranomonhills": 1033,
+    "shinbashi_metro": 1033,
+    "ginza_ginzaitchome": 1033,
+    "kyobashi": 1033,
+    "nihonbashi_metro": 1033,
+    "mitsukoshimae": 1033,
+    "kanda_subway": 1033,
+    "suehirocho": 1033,
+    "uenohirokoji_nakaokachimachi": 1033,
+    "ueno_subway": 1033,
+    "inaricho": 1033,
+    "tawaramachi": 1033,
+    "asakusa_subway_metro": 1033,
+    "hanzomon": 1033,
+    "kudanshita": 990,
+    "jinbocho_metro": 990,
+    "ningyocho_suitengumae_metro": 1033,
+    "kiyosumishirakawa_metro": 1033,
+    "sumiyoshi_metro": 1033,
+    "kinshicho_subway": 1033,
+    "oshiage_metro_tobu": 1074,
+    "minamisenju_subway": 1033,
+    "minowa": 1033,
+    "iriya_tokyo": 1033,
+    "akihabara_subway": 1033,
+    "kodemmacho": 1033,
+    "kayabacho": 1033,
+    "hatchobori_subway": 1033,
+    "tsukiji_shintomicho": 1033,
+    "higashiginza_metro": 1033,
+    "hibiya_yurakucho_subway_metro": 1033,
+    "kamiyacho": 1033,
+    "roppongi_metro": 1033,
+    "hiroo": 1033,
+    "ebisu_subway": 1033,
+    "nakameguro": 1033,
+    "shinotsuka": 959,
+    "myogadani": 990,
+    "korakuen": 990,
+    "hongosanchome_metro": 990,
+    "ochanomizu_subway": 990,
+    "tokyo_subway": 1033,
+    "yotsuya_subway": 1033,
+    "yotsuyasanchome": 990,
+    "shinjukugyoemmae": 990,
+    "shinjuku_metro": 990,
+    "nishishinjuku": 990,
+    "nakanosakaue_metro": 990,
+    "shinnakano": 1033,
+    "higashikoenji": 1033,
+    "shinkoenji": 1033,
+    "minamiasagaya": 1033,
+    "ogikubo_subway": 1033,
+    "nakanoshimbashi": 1033,
+    "nakanofujimicho": 1033,
+    "honancho": 1033,
+    "meguro_subway_tokyu": 1033,
+    "shirokanedai": 1033,
+    "shirokanetakanawa": 1033,
+    "azabujuban_metro": 1033,
+    "roppongiitchome": 1033,
+    "ichigaya_metro": 990,
+    "iidabashi_metro": 990,
+    "todaimae": 990,
+    "honkomagome": 990,
+    "komagome_subway": 1033,
+    "nishigahara": 1033,
+    "oji_subway": 1033,
+    "ojikamiya": 1033,
+    "shimo": 1033,
+    "akabaneiwabuchi": 1033,
+    "ochiai": 1033,
+    "takadanobaba_subway": 1033,
+    "waseda": 1033,
+    "kagurazaka": 990,
+    "takebashi": 1033,
+    "monzennakacho_metro": 1033,
+    "kiba": 1033,
+    "toyocho": 1033,
+    "minamisunamachi": 1033,
+    "nishikasai": 1074,
+    "kasai": 1074,
+    "urayasu": 1074,
+    "minamigyotoku": 1074,
+    "gyotoku": 1074,
+    "myoden": 1105,
+    "barakinakayama": 1105,
+    "wakoshi": 990,
+    "chikatetsunarimasu": 990,
+    "chikatetsuakatsuka": 959,
+    "heiwadai": 959,
+    "hikawadai": 959,
+    "higashiikebukuro": 959,
+    "gokokuji": 959,
+    "edogawabashi": 990,
+    "iidabashi_subway_metro": 990,
+    "ichigaya_subway_metro": 990,
+    "kojimachi": 990,
+    "sakuradamon": 1033,
+    "tsukishima_metro": 1033,
+    "toyosu": 1033,
+    "tatsumi": 1033,
+    "shinkiba_subway": 1074,
+    "nishimagome": 1192,
+    "magome": 1183,
+    "nakanobu": 1183,
+    "togoshi": 1183,
+    "gotanda_subway": 1183,
+    "takanawadai": 1140,
+    "sengakuji": 1140,
+    "mita": 1140,
+    "daimon": 1140,
+    "shinbashi_toei": 1140,
+    "higashiginza_toei": 1183,
+    "takaracho": 1183,
+    "nihonbashi_toei": 1140,
+    "ningyocho_toei": 1140,
+    "higashinihonbashi": 1140,
+    "asakusabashi_subway": 1140,
+    "kuramae": 1140,
+    "asakusa_toei": 1140,
+    "honjoazumabashi": 1140,
+    "oshiage_toei_keisei": 1140,
+    "shibakoen": 1140,
+    "onarimon": 1140,
+    "uchisaiwaicho": 1098,
+    "hibiya_toei": 1098,
+    "otemachi_toei": 1098,
+    "jinbocho_toei": 1098,
+    "suidobashi_subway": 1098,
+    "kasuga": 1098,
+    "hakusan": 1098,
+    "sengoku": 1140,
+    "sugamo_subway": 1140,
+    "nishisugamo": 1140,
+    "shinitabashi": 1140,
+    "itabashikuyakushomae": 1140,
+    "itabashihoncho": 1192,
+    "motohasunuma": 1192,
+    "shimurasakaue": 1192,
+    "shimurasanchome": 1192,
+    "hasune": 1192,
+    "nishidai": 1192,
+    "takashimadaira": 1245,
+    "shintakashimadaira": 1245,
+    "nishitakashimadaira": 1245,
+    "tochomae": 1140,
+    "shinjukunishiguchi": 1140,
+    "higashishinjuku_toei": 1140,
+    "wakamatsukawada": 1140,
+    "ushigomeyanagicho": 1140,
+    "ushigomekagurazaka": 1140,
+    "iidabashi_toei": 1098,
+    "hongosanchome_toei": 1098,
+    "uenookachimachi": 1140,
+    "shinokachimachi_subway": 1140,
+    "ryogoku_subway": 1140,
+    "morishita": 1140,
+    "kiyosumishirakawa_toei": 1140,
+    "monzennakacho_toei": 1140,
+    "tsukishima_toei": 1140,
+    "kachidoki": 1140,
+    "tsukijishijo": 1183,
+    "shiodome_subway": 1140,
+    "akabanebashi": 1140,
+    "azabujuban_toei": 1183,
+    "roppongi_toei": 1183,
+    "aoyamaitchome_toei": 1140,
+    "kokuritsukyogijo": 1140,
+    "yoyogi_subway": 1140,
+    "shinjuku_toei_keio": 1140,
+    "nishishinjukugochome": 1140,
+    "nakanosakaue_toei": 1140,
+    "higashinakano_subway": 1140,
+    "nakai": 1192,
+    "ochiaiminaminagasaki": 1192,
+    "shinegota": 1192,
+    "nerima_subway": 1192,
+    "toshimaen_subway": 1192,
+    "nerimakasugacho": 1245,
+    "hikarigaoka": 1245,
+    "shinjukusanchome_toei": 1140,
+    "akebonobashi": 1098,
+    "ichigaya_toei": 1098,
+    "ogawamachi_tokyo": 1098,
+    "iwamotocho": 1098,
+    "bakuroyokoyama": 1098,
+    "hamacho": 1098,
+    "kikukawa": 1140,
+    "sumiyoshi_toei": 1140,
+    "nishiojima": 1140,
+    "ojima": 1140,
+    "higashiojima": 1192,
+    "funabori": 1192,
+    "ichinoe": 1192,
+    "mizue": 1192,
+    "shinozaki": 1245,
+    "motoyawata_subway": 1245,
+    "ikejiriohashi": 1173,
+    "sangenjaya": 1213,
+    "komazawadaigaku": 1213,
+    "sakurashinmachi": 1213,
+    "yoga": 1260,
+    "futakotamagawa": 1260,
+    "futakoshinchi": 1260,
+    "takatsu": 1260,
+    "mizonokuchi": 1260,
+    "kajigaya": 1283,
+    "miyazakidai": 1283,
+    "miyamaedaira": 1283,
+    "saginuma": 1321,
+    "tamaplaza": 1321,
+    "azamino": 1321,
+    "eda": 1321,
+    "ichigao": 1342,
+    "fujigaoka": 1342,
+    "aobadai": 1342,
+    "tana": 1342,
+    "nagatsuda_tokyu": 1380,
+    "tsukushino": 1380,
+    "suzukakedai": 1380,
+    "minamimachida": 1380,
+    "tsukimino": 1380,
+    "chuorinkan_tokyu": 1414,
+    "gotanda_tokyu": 1260,
+    "osakihirokoji": 1260,
+    "togoshiginza": 1260,
+    "ebaranakanobu": 1213,
+    "hatanodai": 1213,
+    "nagahara": 1213,
+    "senzokuike": 1260,
+    "ishikawadai": 1260,
+    "yukigayaotsuka": 1260,
+    "ontakesan": 1260,
+    "kugahara": 1260,
+    "chidoricho": 1260,
+    "ikegami": 1283,
+    "hasunuma": 1283,
+    "kamata_tokyu": 1283,
+    "fudomae": 1173,
+    "musashikoyama": 1173,
+    "nishikoyama": 1173,
+    "senzoku": 1213,
+    "ookayama": 1213,
+    "okusawa": 1213,
+    "denenchofu": 1213,
+    "oimachi_tokyu": 1260,
+    "shimoshinmei": 1260,
+    "togoshikoen": 1260,
+    "ebaracho": 1213,
+    "kitasenzoku": 1213,
+    "midorigaoka": 1213,
+    "jiyugaoka": 1213,
+    "kuhonbutsu": 1213,
+    "oyamadai": 1213,
+    "todoroki": 1213,
+    "kaminoge": 1260,
+    "hiyoshi": 1283,
+    "shintsunashima": 1283,
+    "shinyokohama_tokyu_sotetsu": 1391,
+    "tamagawa": 1213,
+    "numabe": 1260,
+    "unoki": 1260,
+    "shimomaruko": 1260,
+    "musashinitta": 1260,
+    "yaguchinowatashi": 1283,
+    "daikanyama": 1173,
+    "yutenji": 1173,
+    "gakugeidaigaku": 1173,
+    "toritsudaigaku": 1213,
+    "shinmaruko": 1260,
+    "musashikosugi_tokyu": 1260,
+    "motosumiyoshi": 1260,
+    "tsunashima": 1283,
+    "okurayama": 1321,
+    "kikuna_tokyu": 1321,
+    "myorenji": 1321,
+    "hakuraku": 1321,
+    "higashihakuraku": 1321,
+    "tanmachi": 1342,
+    "yokohama_tokyu_mm": 1342,
+    "futamatagawa": 1670,
+    "minamimakigahara": 1722,
+    "ryokuentoshi": 1722,
+    "yayoidai": 1722,
+    "izumino": 1753,
+    "izumichuo": 1773,
+    "yumegaoka": 1824,
+    "shonandai_sotetsu": 1824,
+    "yokohama_sotetsu": 1702,
+    "hiranumabashi": 1702,
+    "nishiyokohama": 1702,
+    "tennocho": 1670,
+    "hoshikawa": 1670,
+    "wadamachi": 1670,
+    "kamihoshikawa": 1670,
+    "nishiya": 1649,
+    "tsurugamine": 1670,
+    "kibogaoka": 1702,
+    "mitsukyo": 1702,
+    "seya": 1702,
+    "yamato_sotetsu": 1733,
+    "sagamiotsuka": 1733,
+    "sagamino": 1754,
+    "kashiwadai": 1754,
+    "ebina_sotetsu": 1785,
+    "keikyukamata": 1368,
+    "kojiya": 1417,
+    "otorii": 1417,
+    "anamoriiinari": 1417,
+    "tenkubashi_keikyu": 1417,
+    "haneda_airport_terminal3_keikyu": 1467,
+    "haneda_airport_terminal1_2": 1503,
+    "keikyukawasaki": 1417,
+    "minatocho": 1417,
+    "suzukicho": 1417,
+    "kawasakidaishi": 1453,
+    "higashimonzen": 1453,
+    "daishibashi": 1453,
+    "kojimashinden": 1453,
+    "horinouchi": 1807,
+    "shinotsu": 1807,
+    "kitakurihama": 1850,
+    "keikyukurihama": 1850,
+    "yrpnobi": 1880,
+    "keikyunagasawa": 1880,
+    "tsukuihama": 1880,
+    "miurakaigan": 1880,
+    "misakiguchi": 1880,
+    "shinagawa_keikyu": 1290,
+    "kitashinagawa": 1290,
+    "shimbamba": 1290,
+    "aomonoyokocho": 1320,
+    "samezu": 1320,
+    "tachiaigawa": 1320,
+    "omorikaigan": 1320,
+    "heiwajima": 1368,
+    "omorimachi": 1368,
+    "umeyashiki": 1368,
+    "zoshiki": 1417,
+    "rokugodote": 1417,
+    "hatchonawate_keikyu": 1417,
+    "tsurumiichiba": 1417,
+    "keikyutsurumi": 1453,
+    "kagetsusoji": 1453,
+    "namamugi": 1453,
+    "keikyushinkoyasu": 1453,
+    "koyasu": 1487,
+    "kanagawashimmachi": 1487,
+    "keikyuhigashikanagawa": 1487,
+    "kanagawa": 1487,
+    "yokohama_keikyu": 1487,
+    "tobe": 1487,
+    "hinodecho": 1543,
+    "koganecho": 1543,
+    "minamiota": 1543,
+    "idogaya": 1543,
+    "gumyoji_keikyu": 1595,
+    "kamiooka_keikyu": 1595,
+    "byobugaura": 1595,
+    "sugita": 1650,
+    "keikyutomioka": 1650,
+    "nokendai": 1650,
+    "kanazawabunko": 1706,
+    "kanazawahakkei_keikyu": 1706,
+    "oppama": 1706,
+    "keikyutaura": 1760,
+    "anjinzuka": 1760,
+    "hemi": 1760,
+    "shioiri": 1807,
+    "yokosukachuo": 1807,
+    "kenritsudaigaku": 1807,
+    "keikyuotsu": 1807,
+    "maborikaigan": 1850,
+    "uraga": 1850,
+    "mutsuura": 1706,
+    "jimmuji": 1760,
+    "zushi_hayama": 1760,
+    "takahatafudo": 1496,
+    "tamadobutsukoen": 1528,
+    "shibuya_keio": 1349,
+    "shinsen": 1349,
+    "komabatodaimae": 1328,
+    "ikenoue": 1328,
+    "shimokitazawa_keio": 1328,
+    "shindaita": 1328,
+    "higashimatsubara": 1328,
+    "meidaimae": 1300,
+    "eifukucho": 1328,
+    "nishieifuku": 1328,
+    "hamadayama": 1328,
+    "takaido": 1328,
+    "fujimigaoka": 1349,
+    "kugayama": 1349,
+    "mitakadai": 1349,
+    "inokashirakoen": 1370,
+    "kichijoji_keio": 1370,
+    "higashifuchu": 1454,
+    "fuchukeibaseimommae": 1454,
+    "hatsudai": 1280,
+    "hatagaya": 1280,
+    "sasazuka": 1280,
+    "daitabashi": 1300,
+    "shimotakaido_keio": 1328,
+    "sakurajosui": 1328,
+    "kamikitazawa": 1328,
+    "hachimanyama": 1328,
+    "rokakoen": 1349,
+    "chitosekarasuyama": 1349,
+    "sengawa": 1349,
+    "tsutsujigaoka": 1370,
+    "shibasaki": 1370,
+    "kokuryo": 1370,
+    "fuda": 1370,
+    "chofu": 1413,
+    "nishichofu": 1413,
+    "tobitakyu": 1413,
+    "musashinodai": 1413,
+    "tamareien": 1454,
+    "fuchu_keio": 1454,
+    "bubaigawara_keio": 1454,
+    "nakagawara": 1496,
+    "seisekisakuragaoka": 1496,
+    "mogusaen": 1496,
+    "minamidaira": 1528,
+    "hirayamajoshikoen": 1528,
+    "naganuma_keio": 1528,
+    "kitano": 1528,
+    "keiohachioji": 1549,
+    "keiotamagawa": 1413,
+    "keioinadazutsumi": 1413,
+    "keioyomiuriland": 1454,
+    "inagi": 1454,
+    "wakabadai": 1496,
+    "keionagayama": 1496,
+    "keiotamacenter": 1496,
+    "keiohorinouchi": 1528,
+    "minamiosawa": 1528,
+    "tamasakai": 1528,
+    "hashimoto_keio": 1549,
+    "keiokatakura": 1549,
+    "yamada": 1549,
+    "mejirodai": 1549,
+    "hazama": 1549,
+    "takao_keio": 1549,
+    "takaosanguchi": 1570,
+    "sagamiono": 1389,
+    "sagamiono_junction": 1389,
+    "higashirinkan": 1420,
+    "chuorinkan_odakyu": 1420,
+    "minamirinkan": 1462,
+    "tsuruma": 1462,
+    "yamato_odakyu": 1462,
+    "sakuragaoka": 1505,
+    "kozashibuya": 1505,
+    "chogo": 1546,
+    "shonandai_odakyu": 1546,
+    "mutsuainichidaimae": 1588,
+    "zengyo": 1588,
+    "fujisawahommachi": 1588,
+    "fujisawa_odakyu": 1640,
+    "honkugenuma": 1640,
+    "kugenumakaigan": 1640,
+    "kataseenoshima": 1682,
+    "shinjuku_odakyu": 1200,
+    "minamishinjuku": 1169,
+    "sangubashi": 1169,
+    "yoyogihachiman": 1169,
+    "higashikitazawa": 1169,
+    "shimokitazawa_odakyu": 1169,
+    "setagayadaita": 1169,
+    "umegaoka": 1169,
+    "gotokuji": 1200,
+    "kyodo": 1200,
+    "chitosefunabashi": 1200,
+    "soshigayaokura": 1232,
+    "seijogakuemmae": 1232,
+    "kitami": 1263,
+    "komae": 1263,
+    "izumitamagawa": 1263,
+    "noborito_odakyu": 1263,
+    "mukogaokayuen": 1263,
+    "ikuta": 1294,
+    "yomiurilandmae": 1294,
+    "yurigaoka": 1294,
+    "shinyurigaoka": 1326,
+    "kakio": 1326,
+    "tsurukawa": 1357,
+    "tamagawagakuemmae": 1357,
+    "machida_odakyu": 1389,
+    "odakyusagamihara": 1420,
+    "sobudaimae": 1462,
+    "zama": 1462,
+    "ebina_odakyu": 1505,
+    "atsugi_odakyu": 1505,
+    "honatsugi": 1546,
+    "aikoishida": 1546,
+    "isehara": 1588,
+    "tsurumakionsen": 1640,
+    "tokaidaigakumae": 1640,
+    "hadano": 1682,
+    "shibusawa": 1725,
+    "shimmatsuda": 1776,
+    "kaisei": 1776,
+    "kayama": 1829,
+    "tomizu": 1829,
+    "hotaruda": 1829,
+    "ashigara_odakyu": 1881,
+    "odawara_odakyu": 1881,
+    "satsukidai": 1326,
+    "kurihira": 1326,
+    "kurokawa": 1357,
+    "haruhino": 1357,
+    "odakyunagayama": 1357,
+    "odakyutamacenter": 1389,
+    "karakida": 1389,
+    "agano": 323,
+    "nishiagano": 284,
+    "shomaru": 284,
+    "ashigakubo": 207,
+    "yokoze": 169,
+    "seibuchichibu": 169,
+    "kodaira": 683,
+    "hagiyama": 683,
+    "ogawa_seibu": 683,
+    "higashiyamatoshi": 709,
+    "tamagawajosui": 709,
+    "musashisunagawa": 735,
+    "seibutachikawa": 735,
+    "haijima_seibu": 758,
+    "ikebukuro_seibu": 800,
+    "shiinamachi": 781,
+    "higashinagasaki": 781,
+    "ekoda": 781,
+    "sakuradai": 758,
+    "nerima": 758,
+    "nakamurabashi": 758,
+    "fujimidai": 758,
+    "nerimatakanodai": 735,
+    "shakujiikoen": 735,
+    "oizumigakuen": 735,
+    "hoya": 709,
+    "hibarigaoka": 709,
+    "higashikurume": 683,
+    "kiyose": 683,
+    "akitsu": 657,
+    "tokorozawa": 627,
+    "nishitokorozawa": 627,
+    "kotesashi": 592,
+    "sayamagaoka": 592,
+    "musashifujisawa": 557,
+    "inariyamakoen": 557,
+    "irumashi": 521,
+    "bushi": 521,
+    "motokaji": 483,
+    "hanno": 483,
+    "higashihanno_seibu": 483,
+    "koma": 442,
+    "musashiyokote": 402,
+    "higashiagano": 362,
+    "kokubunji_seibu": 709,
+    "koigakubo": 709,
+    "takanodai": 683,
+    "higashimurayama": 657,
+    "shimoyamaguchi": 627,
+    "seibukyujomae": 657,
+    "seibuen": 683,
+    "seibushinjuku": 800,
+    "takadanobaba_seibu": 800,
+    "shimochiai": 800,
+    "nakai_seibu": 800,
+    "araiyakushimae": 781,
+    "numabukuro": 781,
+    "nogata": 781,
+    "toritsukasei": 781,
+    "saginomiya": 781,
+    "shimoigusa": 758,
+    "iogi": 758,
+    "kamiigusa": 758,
+    "kamishakujii": 758,
+    "musashiseki": 735,
+    "higashifushimi": 735,
+    "seibuyagisawa": 735,
+    "tanashi": 709,
+    "hanakoganei": 709,
+    "kumegawa": 683,
+    "kokukoen": 657,
+    "shintokorozawa": 657,
+    "iriso": 683,
+    "sayamashi": 709,
+    "shinsayama": 735,
+    "minamiotsuka": 735,
+    "honkawagoe": 758,
+    "musashisakai_seibu": null,
+    "shinkoganei": null,
+    "tama": null,
+    "shiraitodai": null,
+    "kyoteijomae": null,
+    "koremasa": null,
+    "hitotsubashigakuen": 709,
+    "omekaido": 709,
+    "yasaka": 709,
+    "musashiyamato": 683,
+    "tamako": 683,
+    "toshimaen": 758,
+    "seibuenyuenchi": 683,
+    "shinsakuradai": 781,
+    "shintakashima": 1535,
+    "minatomirai": 1535,
+    "bashamichi": 1535,
+    "nihonodori": 1566,
+    "motomachichukagai": 1566,
+    "azamino_yokohama-city": null,
+    "nakagawa": null,
+    "centerkita": null,
+    "centerminami": null,
+    "nakamachidai": null,
+    "nippa": null,
+    "kitashinyokohama": null,
+    "shinyokohama_yokohama-city": null,
+    "kishinekoen": null,
+    "katakuracho": null,
+    "mitsuzawakamicho": null,
+    "mitsuzawashimocho": null,
+    "yokohama_yokohama-city": null,
+    "takashimacho": null,
+    "sakuragicho_yokohama-city": null,
+    "kannai_yokohama-city": null,
+    "isezakichojamachi": null,
+    "bandobashi": null,
+    "yoshinocho": null,
+    "maita": null,
+    "gumyoji_yokohama-city": null,
+    "kamiooka_yokohama-city": null,
+    "konanchuo": null,
+    "kaminagaya": null,
+    "shimonagaya": null,
+    "maioka": null,
+    "totsuka_yokohama-city": null,
+    "odoriba": null,
+    "nakada": null,
+    "tateba": null,
+    "shimoiida": null,
+    "shonandai_yokohama-city": null,
+    "nakayama_yokohama-city": null,
+    "kawawacho": null,
+    "tsuzukifureainooka": null,
+    "kitayamata": null,
+    "higashiyamata": null,
+    "takata": null,
+    "hiyoshihoncho": null,
+    "hiyoshi_yokohama-city": null,
+    "hakoneitabashi": 2041,
+    "kazamatsuri": 2101,
+    "iriuda": 2141,
+    "hakoneyumoto": 2241,
+    "tonosawa": 2301,
+    "ohiradai": 2391,
+    "miyanoshita": 2551,
+    "kowakidani": 2591,
+    "chokokunomori": 2651,
+    "gora": 2651,
+    "kawaguchimotogo": 1243,
+    "minamihatogaya": 1303,
+    "hatogaya": 1343,
+    "araijuku": 1383,
+    "tozukaangyo": 1433,
+    "higashikawaguchi_saitama": 1473,
+    "urawamisono": 1513,
+    "higashikaijin": 1315,
+    "hasama": 1472,
+    "kitanarashino_toyo": 1545,
+    "funabashinichidaimae": 1618,
+    "yachiyomidorigaoka": 1618,
+    "yachiyochuo": 1681,
+    "murakami_toyo": 1744,
+    "toyokatsutadai": 1744
+  },
+  "via": {
+    "kanda-tohoku": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "ochanomizu": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "suidobashi": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "iidabashi": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "ichigaya": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "yotsuya": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "shinanomachi": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "sendagaya": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "yoyogi": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "shinjuku": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "okubo-chuo": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "higashinakano": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "nakano": [
+      "seibu",
+      "metro"
+    ],
+    "koenji": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "asagaya": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "ogikubo": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "nishiogikubo": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "kichijoji": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "mitaka": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "musashisakai": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "higashikoganei": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "musashikoganei": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "kokubunji": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "nishikokubunji": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "kunitachi": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "tachikawa": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "hino": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "toyoda": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "hachioji": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "nishihachioji": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "takao": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "sagamiko": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "fujino": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "uenohara": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "shiotsu": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "yanagawa": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "torisawa": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "saruhashi": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "otsuki": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "hatsukari": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "sasago": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "kaiyamato": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "katsunumabudokyo": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "kitahachioji": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "komiya": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "haijima": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "higashifussa": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "hakonegasaki": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "kaneko": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "higashihanno": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "komagawa": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "moro": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "ogose": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "myokaku": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "ogawamachi": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "takezawa": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "orihara": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "yorii": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "yodo": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "matsuhisa": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "kodama": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "tansho": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "kuragano": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "kumagawa": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "higashiakiru": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "akigawa": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "musashihikida": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "musashimasuko": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "musashiitsukaichi": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "nippori": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "mikawashima": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "minamisenju": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "kitasenju": [
+      "seibu",
+      "metro"
+    ],
+    "ayase": [
+      "seibu",
+      "metro"
+    ],
+    "kameari": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "kanamachi": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "matsudo": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "kitamatsudo": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "mabashi": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "shinmatsudo": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "kitakogane": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "minamikashiwa": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "kashiwa": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "kitakashiwa": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "abiko": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "tennodai": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "toride": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "fujishiro": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "ryugasakishi": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "ushiku": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "hitachinoshiku": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "arakawaoki": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "tsuchiura": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "kandatsu": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "takahama": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "ishioka": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "hatori": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "iwama": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "tomobe": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "uchihara": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "katori": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "junikyo": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "itako": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "nobukata": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "kashimajingu": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "kashimasa-soccer-stadium": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "omiya": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "nisshin-kawagoe": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "nishiomiya": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "sashiogi": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "minamifuruya": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "kawagoe": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "nishikawagoe": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "matoba": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "kasahata": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "musashitakahagi": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "tokyo": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "hatchobori": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "etchujima": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "shiomi": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "shinkiba": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "kasairinkaikoen": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "maihama": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "shinurayasu": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "ichikawashiohama": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "futamatashinmachi": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "minamifunabashi": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "shinnarashino": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "makuharitoyosuna": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "kaihinmakuhari": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "kemigawahama": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "inagekaigan": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "chibaminato": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "soga": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "nishifunabashi": [
+      "seibu",
+      "metro"
+    ],
+    "kisarazu": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "gion": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "kazusakiyokawa": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "higashikiyokawa": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "yokota": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "higashiyokota": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "makuta": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "shimogori": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "obitsu": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "tawarada": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "kururi": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "hirayama": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "kazusamatsuoka": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "kazusakameyama": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "oyama-tohoku": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "otabayashi": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "yuki-mito": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "higashiyuki": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "kawashima": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "tamado": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "shimodate": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "kasama": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "shishido": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "fuchuhonmachi": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "kitafuchu": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "shinkodaira": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "shinakitsu": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "higashitokorozawa": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "niiza": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "kitaasaka": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "nishiurawa": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "musashiurawa": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "minamiurawa": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "higashiurawa": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "higashikawaguchi": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "minamikoshigaya": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "koshigayareikutaun": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "yoshikawa-musashino": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "yoshikawaminami": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "shinmisato": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "misato-musashino": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "minaminagareyama": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "shinyahashira": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "higashimatsudo": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "ichikawaono": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "funabashihoten": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "kawasaki": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "shitte": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "yako": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "kashimada": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "hirama": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "mukaigawara": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "musashikosugi": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "musashinakahara": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "musashishinjo": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "musashimizonokuchi": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "tsudayama": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "kuji-nanbu": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "shukugawara": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "noborito": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "nakanoshima": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "inadazutsumi": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "yanokuchi": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "inaginaganuma": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "minamitama": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "bubaigawara": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "nishifu": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "yaho": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "yagawa": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "nishikunitachi": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "hatchonawate": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "kawasakishinmachi": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "odasakae": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "hamakawasaki": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "sakura": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "shisui": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "narita": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "kuzumi": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "namegawa": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "shimosakozaki": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "oto": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "sawara": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "suigo": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "omigawa-narita": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "sasagawa": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "shimosatachibana": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "matsugishi": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "higashiabiko": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "kohoku-narita2": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "araki-narita2": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "fusa": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "kioroshi": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "kobayashi-narita": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "ajiki": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "shimosamanzaki": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "narita-airport-t2-t3": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "narita-airport-t1": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "yokohama": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "sakuragicho": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "kannai": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "ishikawacho": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "yamate": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "negishi-negishi": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "isogo": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "shinsugita": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "yokodai": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "konandai": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "hongodai": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "ofuna": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "nishitachikawa": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "higashinakagami": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "nakagami": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "akishima": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "ushihama": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "fussa": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "hamura": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "ozaku": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "kabe-ome": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "higashiome": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "ome": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "miyanohira": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "hinatawada": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "ishigamimae": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "futamatao": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "ikusabata": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "sawai": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "mitake": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "kawai-ome": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "kori-ome": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "hatonosu": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "shiromaru": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "okutama": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "iwafune": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "ohirashita": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "tochigi": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "omoigawa": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "chigasaki": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "kitachigasaki": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "kagawa-sagami": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "samukawa": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "miyayama": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "kurami": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "kadosawabashi": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "shake": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "atsugi": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "ebina": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "iriya": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "sobudaishita": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "shimomizo": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "harataima": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "banda": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "kamimizo": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "minamihashimoto": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "hashimoto-yokohama": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "ikebukuro": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "itabashi": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "jujo": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "akabane": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "kitaakabane": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "ukimafunado": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "todakoen": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "toda-saikyo": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "kitatoda": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "nakaurawa": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "minamiyono": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "yonohonmachi": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "kitayono": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "shinnihonbashi": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "bakurocho": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "kinshicho": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "kameido": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "hirai": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "shinkoiwa": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "koiwa": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "ichikawa": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "motoyawata": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "shimosanakayama": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "funabashi": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "higashifunabashi": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "tsudanuma": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "makuharihongo": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "makuhari": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "shinkemigawa": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "inage": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "nishichiba": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "chiba": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "higashichiba": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "tsuga": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "yotsukaido": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "monoi": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "minamishisui": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "enokido": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "yachimata": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "hyuga": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "naruto-sobu": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "matsuo": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "yokoshiba": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "iigura": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "yokaichiba": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "higata": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "asahi-sobu": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "iioka": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "kurahashi": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "saruda": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "choshi": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "akihabara": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "asakusabashi": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "ryogoku": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "honchiba": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "kamatori": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "honda": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "toke": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "oami": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "nagata": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "honno": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "shinmobara": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "mobara": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "yatsumi": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "kazusaichinomiya": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "torami": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "taito": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "chojamachi": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "mikado": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "ohara": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "namihana": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "onjuku": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "katsura": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "ubara": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "kazusaokitsu": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "namegawaairando": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "miyahara": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "ageo": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "kitaageo": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "okegawa": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "kitamoto": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "konosu": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "kitakonosu": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "fukiage": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "gyoda": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "kumagaya": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "kagohara": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "fukaya": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "okabe": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "honjo-takasaki": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "jinbohara": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "shinmachi": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "fukutawara": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "togane": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "gumyo": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "okachimachi": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "ueno": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "uguisudani": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "nishinippori": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "tabata-tohoku": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "kaminakazato": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "oji-tohoku": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "higashijujo": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "kawaguchi": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "nishikawaguchi": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "warabi": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "urawa": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "kitaurawa": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "yono": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "saitamashintoshin": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "toro-tohoku": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "higashiomiya": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "hasuda": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "shiraoka": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "shinshiraoka": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "kuki-tohoku": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "higashiwashinomiya": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "kurihashi": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "koga-tohoku": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "nogi-tohoku": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "mamada": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "koganei": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "jichiidai": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "ishibashi": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "oku-tohoku": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "yurakucho": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "shinbashi": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "hamamatsucho": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "tamachi": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "takanawagetowei": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "shinagawa": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "oimachi": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "omori": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "kamata": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "tsurumi": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "shinkoyasu": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "higashikanagawa": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "hodogaya": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "higashitotsuka": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "totsuka": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "fujisawa": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "tsujido": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "hiratsuka": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "oiso": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "ninomiya": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "kozu": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "kamonomiya": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "odawara": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "hayakawa": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "nebukawa": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "nishioi": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "shinkawasaki": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "hazawayokohamakokudai": [
+      "seibu",
+      "metro",
+      "tokyu",
+      "sotetsu"
+    ],
+    "kokudo": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "tsurumiono": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "bentenbashi": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "asano": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "anzen": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "musashishiraishi": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "showa": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "ogimachi": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "shinshibaura": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "umishibaura": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "okawa": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "hamano": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "yawatajuku": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "goi": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "anegasaki": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "nagaura": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "sodegaura": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "iwane": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "kimitsu": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "aohori": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "onuki": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "sanukimachi": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "kazusaminato": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "takeoka": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "hamakanaya": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "hota": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "awakatsuyama": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "iwai": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "osaki": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "gotanda": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "meguro": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "ebisu": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "shibuya": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "harajuku": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "shinokubo": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "takadanobaba": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "mejiro": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "otsuka": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "sugamo": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "komagome": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "oguchi": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "kikuna": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "shinyokohama": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "kozukue": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "kamoi": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "nakayama": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "tokaichiba": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "nagatsuta": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "naruse": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "machida": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "kobuchi": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "fuchinobe": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "yabe": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "sagamihara": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "aihara": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "hachiojiminamino": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "katakura": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "kitakamakura": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "kamakura": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "zushi": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "higashizushi": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "taura": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "yokosuka": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "kinugasa": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "kurihama": [
+      "seibu",
+      "metro",
+      "jre"
+    ],
+    "machiya": [
+      "seibu",
+      "metro"
+    ],
+    "nishinippori_subway": [
+      "seibu",
+      "metro"
+    ],
+    "sendagi": [
+      "seibu",
+      "metro"
+    ],
+    "nezu": [
+      "seibu",
+      "metro"
+    ],
+    "yushima": [
+      "seibu",
+      "metro"
+    ],
+    "awajicho_shinochanomizu": [
+      "seibu",
+      "metro"
+    ],
+    "otemachi_metro": [
+      "seibu",
+      "metro"
+    ],
+    "nijubashimae": [
+      "seibu",
+      "metro"
+    ],
+    "hibiya_yurakucho_metro": [
+      "seibu",
+      "metro"
+    ],
+    "kasumigaseki": [
+      "seibu",
+      "metro"
+    ],
+    "tameikesanno_kokkaigijidomae": [
+      "seibu",
+      "metro"
+    ],
+    "akasaka": [
+      "seibu",
+      "metro"
+    ],
+    "nogizaka": [
+      "seibu",
+      "metro"
+    ],
+    "omotesando": [
+      "seibu",
+      "metro"
+    ],
+    "meijijingumae": [
+      "seibu",
+      "metro"
+    ],
+    "yoyogikoen": [
+      "seibu",
+      "metro"
+    ],
+    "yoyogiuehara": [
+      "seibu",
+      "metro"
+    ],
+    "kitaayase": [
+      "seibu",
+      "metro"
+    ],
+    "senkawa": [
+      "seibu",
+      "metro"
+    ],
+    "kanamecho": [
+      "seibu",
+      "metro"
+    ],
+    "ikebukuro_subway": [
+      "seibu",
+      "metro"
+    ],
+    "zoshigaya": [
+      "seibu",
+      "metro"
+    ],
+    "nishiwaseda": [
+      "seibu",
+      "metro"
+    ],
+    "higashishinjuku_metro": [
+      "seibu",
+      "metro"
+    ],
+    "shinjukusanchome_metro": [
+      "seibu",
+      "metro"
+    ],
+    "kitasando": [
+      "seibu",
+      "metro"
+    ],
+    "shibuya_subway_tokyu": [
+      "seibu",
+      "metro"
+    ],
+    "gaiemmae": [
+      "seibu",
+      "metro"
+    ],
+    "aoyamaitchome_metro": [
+      "seibu",
+      "metro"
+    ],
+    "akasakamitsuke_nagatacho": [
+      "seibu",
+      "metro"
+    ],
+    "toranomon_toranomonhills": [
+      "seibu",
+      "metro"
+    ],
+    "shinbashi_metro": [
+      "seibu",
+      "metro"
+    ],
+    "ginza_ginzaitchome": [
+      "seibu",
+      "metro"
+    ],
+    "kyobashi": [
+      "seibu",
+      "metro"
+    ],
+    "nihonbashi_metro": [
+      "seibu",
+      "metro"
+    ],
+    "mitsukoshimae": [
+      "seibu",
+      "metro"
+    ],
+    "kanda_subway": [
+      "seibu",
+      "metro"
+    ],
+    "suehirocho": [
+      "seibu",
+      "metro"
+    ],
+    "uenohirokoji_nakaokachimachi": [
+      "seibu",
+      "metro"
+    ],
+    "ueno_subway": [
+      "seibu",
+      "metro"
+    ],
+    "inaricho": [
+      "seibu",
+      "metro"
+    ],
+    "tawaramachi": [
+      "seibu",
+      "metro"
+    ],
+    "asakusa_subway_metro": [
+      "seibu",
+      "metro"
+    ],
+    "hanzomon": [
+      "seibu",
+      "metro"
+    ],
+    "kudanshita": [
+      "seibu",
+      "metro"
+    ],
+    "jinbocho_metro": [
+      "seibu",
+      "metro"
+    ],
+    "ningyocho_suitengumae_metro": [
+      "seibu",
+      "metro"
+    ],
+    "kiyosumishirakawa_metro": [
+      "seibu",
+      "metro"
+    ],
+    "sumiyoshi_metro": [
+      "seibu",
+      "metro"
+    ],
+    "kinshicho_subway": [
+      "seibu",
+      "metro"
+    ],
+    "oshiage_metro_tobu": [
+      "seibu",
+      "metro"
+    ],
+    "minamisenju_subway": [
+      "seibu",
+      "metro"
+    ],
+    "minowa": [
+      "seibu",
+      "metro"
+    ],
+    "iriya_tokyo": [
+      "seibu",
+      "metro"
+    ],
+    "akihabara_subway": [
+      "seibu",
+      "metro"
+    ],
+    "kodemmacho": [
+      "seibu",
+      "metro"
+    ],
+    "kayabacho": [
+      "seibu",
+      "metro"
+    ],
+    "hatchobori_subway": [
+      "seibu",
+      "metro"
+    ],
+    "tsukiji_shintomicho": [
+      "seibu",
+      "metro"
+    ],
+    "higashiginza_metro": [
+      "seibu",
+      "metro"
+    ],
+    "hibiya_yurakucho_subway_metro": [
+      "seibu",
+      "metro"
+    ],
+    "kamiyacho": [
+      "seibu",
+      "metro"
+    ],
+    "roppongi_metro": [
+      "seibu",
+      "metro"
+    ],
+    "hiroo": [
+      "seibu",
+      "metro"
+    ],
+    "ebisu_subway": [
+      "seibu",
+      "metro"
+    ],
+    "nakameguro": [
+      "seibu",
+      "metro"
+    ],
+    "shinotsuka": [
+      "seibu",
+      "metro"
+    ],
+    "myogadani": [
+      "seibu",
+      "metro"
+    ],
+    "korakuen": [
+      "seibu",
+      "metro"
+    ],
+    "hongosanchome_metro": [
+      "seibu",
+      "metro"
+    ],
+    "ochanomizu_subway": [
+      "seibu",
+      "metro"
+    ],
+    "tokyo_subway": [
+      "seibu",
+      "metro"
+    ],
+    "yotsuya_subway": [
+      "seibu",
+      "metro"
+    ],
+    "yotsuyasanchome": [
+      "seibu",
+      "metro"
+    ],
+    "shinjukugyoemmae": [
+      "seibu",
+      "metro"
+    ],
+    "shinjuku_metro": [
+      "seibu",
+      "metro"
+    ],
+    "nishishinjuku": [
+      "seibu",
+      "metro"
+    ],
+    "nakanosakaue_metro": [
+      "seibu",
+      "metro"
+    ],
+    "shinnakano": [
+      "seibu",
+      "metro"
+    ],
+    "higashikoenji": [
+      "seibu",
+      "metro"
+    ],
+    "shinkoenji": [
+      "seibu",
+      "metro"
+    ],
+    "minamiasagaya": [
+      "seibu",
+      "metro"
+    ],
+    "ogikubo_subway": [
+      "seibu",
+      "metro"
+    ],
+    "nakanoshimbashi": [
+      "seibu",
+      "metro"
+    ],
+    "nakanofujimicho": [
+      "seibu",
+      "metro"
+    ],
+    "honancho": [
+      "seibu",
+      "metro"
+    ],
+    "meguro_subway_tokyu": [
+      "seibu",
+      "metro"
+    ],
+    "shirokanedai": [
+      "seibu",
+      "metro"
+    ],
+    "shirokanetakanawa": [
+      "seibu",
+      "metro"
+    ],
+    "azabujuban_metro": [
+      "seibu",
+      "metro"
+    ],
+    "roppongiitchome": [
+      "seibu",
+      "metro"
+    ],
+    "ichigaya_metro": [
+      "seibu",
+      "metro"
+    ],
+    "iidabashi_metro": [
+      "seibu",
+      "metro"
+    ],
+    "todaimae": [
+      "seibu",
+      "metro"
+    ],
+    "honkomagome": [
+      "seibu",
+      "metro"
+    ],
+    "komagome_subway": [
+      "seibu",
+      "metro"
+    ],
+    "nishigahara": [
+      "seibu",
+      "metro"
+    ],
+    "oji_subway": [
+      "seibu",
+      "metro"
+    ],
+    "ojikamiya": [
+      "seibu",
+      "metro"
+    ],
+    "shimo": [
+      "seibu",
+      "metro"
+    ],
+    "akabaneiwabuchi": [
+      "seibu",
+      "metro"
+    ],
+    "ochiai": [
+      "seibu",
+      "metro"
+    ],
+    "takadanobaba_subway": [
+      "seibu",
+      "metro"
+    ],
+    "waseda": [
+      "seibu",
+      "metro"
+    ],
+    "kagurazaka": [
+      "seibu",
+      "metro"
+    ],
+    "takebashi": [
+      "seibu",
+      "metro"
+    ],
+    "monzennakacho_metro": [
+      "seibu",
+      "metro"
+    ],
+    "kiba": [
+      "seibu",
+      "metro"
+    ],
+    "toyocho": [
+      "seibu",
+      "metro"
+    ],
+    "minamisunamachi": [
+      "seibu",
+      "metro"
+    ],
+    "nishikasai": [
+      "seibu",
+      "metro"
+    ],
+    "kasai": [
+      "seibu",
+      "metro"
+    ],
+    "urayasu": [
+      "seibu",
+      "metro"
+    ],
+    "minamigyotoku": [
+      "seibu",
+      "metro"
+    ],
+    "gyotoku": [
+      "seibu",
+      "metro"
+    ],
+    "myoden": [
+      "seibu",
+      "metro"
+    ],
+    "barakinakayama": [
+      "seibu",
+      "metro"
+    ],
+    "wakoshi": [
+      "seibu",
+      "metro"
+    ],
+    "chikatetsunarimasu": [
+      "seibu",
+      "metro"
+    ],
+    "chikatetsuakatsuka": [
+      "seibu",
+      "metro"
+    ],
+    "heiwadai": [
+      "seibu",
+      "metro"
+    ],
+    "hikawadai": [
+      "seibu",
+      "metro"
+    ],
+    "higashiikebukuro": [
+      "seibu",
+      "metro"
+    ],
+    "gokokuji": [
+      "seibu",
+      "metro"
+    ],
+    "edogawabashi": [
+      "seibu",
+      "metro"
+    ],
+    "iidabashi_subway_metro": [
+      "seibu",
+      "metro"
+    ],
+    "ichigaya_subway_metro": [
+      "seibu",
+      "metro"
+    ],
+    "kojimachi": [
+      "seibu",
+      "metro"
+    ],
+    "sakuradamon": [
+      "seibu",
+      "metro"
+    ],
+    "tsukishima_metro": [
+      "seibu",
+      "metro"
+    ],
+    "toyosu": [
+      "seibu",
+      "metro"
+    ],
+    "tatsumi": [
+      "seibu",
+      "metro"
+    ],
+    "shinkiba_subway": [
+      "seibu",
+      "metro"
+    ],
+    "nishimagome": [
+      "seibu",
+      "metro",
+      "toei"
+    ],
+    "magome": [
+      "seibu",
+      "metro",
+      "toei"
+    ],
+    "nakanobu": [
+      "seibu",
+      "metro",
+      "toei"
+    ],
+    "togoshi": [
+      "seibu",
+      "metro",
+      "toei"
+    ],
+    "gotanda_subway": [
+      "seibu",
+      "metro",
+      "toei"
+    ],
+    "takanawadai": [
+      "seibu",
+      "metro",
+      "toei"
+    ],
+    "sengakuji": [
+      "seibu",
+      "metro",
+      "toei"
+    ],
+    "mita": [
+      "seibu",
+      "metro",
+      "toei"
+    ],
+    "daimon": [
+      "seibu",
+      "metro",
+      "toei"
+    ],
+    "shinbashi_toei": [
+      "seibu",
+      "metro",
+      "toei"
+    ],
+    "higashiginza_toei": [
+      "seibu",
+      "metro",
+      "toei"
+    ],
+    "takaracho": [
+      "seibu",
+      "metro",
+      "toei"
+    ],
+    "nihonbashi_toei": [
+      "seibu",
+      "metro",
+      "toei"
+    ],
+    "ningyocho_toei": [
+      "seibu",
+      "metro",
+      "toei"
+    ],
+    "higashinihonbashi": [
+      "seibu",
+      "metro",
+      "toei"
+    ],
+    "asakusabashi_subway": [
+      "seibu",
+      "metro",
+      "toei"
+    ],
+    "kuramae": [
+      "seibu",
+      "metro",
+      "toei"
+    ],
+    "asakusa_toei": [
+      "seibu",
+      "metro",
+      "toei"
+    ],
+    "honjoazumabashi": [
+      "seibu",
+      "metro",
+      "toei"
+    ],
+    "oshiage_toei_keisei": [
+      "seibu",
+      "metro",
+      "toei"
+    ],
+    "shibakoen": [
+      "seibu",
+      "metro",
+      "toei"
+    ],
+    "onarimon": [
+      "seibu",
+      "metro",
+      "toei"
+    ],
+    "uchisaiwaicho": [
+      "seibu",
+      "metro",
+      "toei"
+    ],
+    "hibiya_toei": [
+      "seibu",
+      "metro",
+      "toei"
+    ],
+    "otemachi_toei": [
+      "seibu",
+      "metro",
+      "toei"
+    ],
+    "jinbocho_toei": [
+      "seibu",
+      "metro",
+      "toei"
+    ],
+    "suidobashi_subway": [
+      "seibu",
+      "metro",
+      "toei"
+    ],
+    "kasuga": [
+      "seibu",
+      "metro",
+      "toei"
+    ],
+    "hakusan": [
+      "seibu",
+      "metro",
+      "toei"
+    ],
+    "sengoku": [
+      "seibu",
+      "metro",
+      "toei"
+    ],
+    "sugamo_subway": [
+      "seibu",
+      "metro",
+      "toei"
+    ],
+    "nishisugamo": [
+      "seibu",
+      "metro",
+      "toei"
+    ],
+    "shinitabashi": [
+      "seibu",
+      "metro",
+      "toei"
+    ],
+    "itabashikuyakushomae": [
+      "seibu",
+      "metro",
+      "toei"
+    ],
+    "itabashihoncho": [
+      "seibu",
+      "metro",
+      "toei"
+    ],
+    "motohasunuma": [
+      "seibu",
+      "metro",
+      "toei"
+    ],
+    "shimurasakaue": [
+      "seibu",
+      "metro",
+      "toei"
+    ],
+    "shimurasanchome": [
+      "seibu",
+      "metro",
+      "toei"
+    ],
+    "hasune": [
+      "seibu",
+      "metro",
+      "toei"
+    ],
+    "nishidai": [
+      "seibu",
+      "metro",
+      "toei"
+    ],
+    "takashimadaira": [
+      "seibu",
+      "metro",
+      "toei"
+    ],
+    "shintakashimadaira": [
+      "seibu",
+      "metro",
+      "toei"
+    ],
+    "nishitakashimadaira": [
+      "seibu",
+      "metro",
+      "toei"
+    ],
+    "tochomae": [
+      "seibu",
+      "metro",
+      "toei"
+    ],
+    "shinjukunishiguchi": [
+      "seibu",
+      "metro",
+      "toei"
+    ],
+    "higashishinjuku_toei": [
+      "seibu",
+      "metro",
+      "toei"
+    ],
+    "wakamatsukawada": [
+      "seibu",
+      "metro",
+      "toei"
+    ],
+    "ushigomeyanagicho": [
+      "seibu",
+      "metro",
+      "toei"
+    ],
+    "ushigomekagurazaka": [
+      "seibu",
+      "metro",
+      "toei"
+    ],
+    "iidabashi_toei": [
+      "seibu",
+      "metro",
+      "toei"
+    ],
+    "hongosanchome_toei": [
+      "seibu",
+      "metro",
+      "toei"
+    ],
+    "uenookachimachi": [
+      "seibu",
+      "metro",
+      "toei"
+    ],
+    "shinokachimachi_subway": [
+      "seibu",
+      "metro",
+      "toei"
+    ],
+    "ryogoku_subway": [
+      "seibu",
+      "metro",
+      "toei"
+    ],
+    "morishita": [
+      "seibu",
+      "metro",
+      "toei"
+    ],
+    "kiyosumishirakawa_toei": [
+      "seibu",
+      "metro",
+      "toei"
+    ],
+    "monzennakacho_toei": [
+      "seibu",
+      "metro",
+      "toei"
+    ],
+    "tsukishima_toei": [
+      "seibu",
+      "metro",
+      "toei"
+    ],
+    "kachidoki": [
+      "seibu",
+      "metro",
+      "toei"
+    ],
+    "tsukijishijo": [
+      "seibu",
+      "metro",
+      "toei"
+    ],
+    "shiodome_subway": [
+      "seibu",
+      "metro",
+      "toei"
+    ],
+    "akabanebashi": [
+      "seibu",
+      "metro",
+      "toei"
+    ],
+    "azabujuban_toei": [
+      "seibu",
+      "metro",
+      "toei"
+    ],
+    "roppongi_toei": [
+      "seibu",
+      "metro",
+      "toei"
+    ],
+    "aoyamaitchome_toei": [
+      "seibu",
+      "metro",
+      "toei"
+    ],
+    "kokuritsukyogijo": [
+      "seibu",
+      "metro",
+      "toei"
+    ],
+    "yoyogi_subway": [
+      "seibu",
+      "metro",
+      "toei"
+    ],
+    "shinjuku_toei_keio": [
+      "seibu",
+      "metro",
+      "toei"
+    ],
+    "nishishinjukugochome": [
+      "seibu",
+      "metro",
+      "toei"
+    ],
+    "nakanosakaue_toei": [
+      "seibu",
+      "metro",
+      "toei"
+    ],
+    "higashinakano_subway": [
+      "seibu",
+      "metro",
+      "toei"
+    ],
+    "nakai": [
+      "seibu",
+      "metro",
+      "toei"
+    ],
+    "ochiaiminaminagasaki": [
+      "seibu",
+      "metro",
+      "toei"
+    ],
+    "shinegota": [
+      "seibu",
+      "metro",
+      "toei"
+    ],
+    "nerima_subway": [
+      "seibu",
+      "metro",
+      "toei"
+    ],
+    "toshimaen_subway": [
+      "seibu",
+      "metro",
+      "toei"
+    ],
+    "nerimakasugacho": [
+      "seibu",
+      "metro",
+      "toei"
+    ],
+    "hikarigaoka": [
+      "seibu",
+      "metro",
+      "toei"
+    ],
+    "shinjukusanchome_toei": [
+      "seibu",
+      "metro",
+      "toei"
+    ],
+    "akebonobashi": [
+      "seibu",
+      "metro",
+      "toei"
+    ],
+    "ichigaya_toei": [
+      "seibu",
+      "metro",
+      "toei"
+    ],
+    "ogawamachi_tokyo": [
+      "seibu",
+      "metro",
+      "toei"
+    ],
+    "iwamotocho": [
+      "seibu",
+      "metro",
+      "toei"
+    ],
+    "bakuroyokoyama": [
+      "seibu",
+      "metro",
+      "toei"
+    ],
+    "hamacho": [
+      "seibu",
+      "metro",
+      "toei"
+    ],
+    "kikukawa": [
+      "seibu",
+      "metro",
+      "toei"
+    ],
+    "sumiyoshi_toei": [
+      "seibu",
+      "metro",
+      "toei"
+    ],
+    "nishiojima": [
+      "seibu",
+      "metro",
+      "toei"
+    ],
+    "ojima": [
+      "seibu",
+      "metro",
+      "toei"
+    ],
+    "higashiojima": [
+      "seibu",
+      "metro",
+      "toei"
+    ],
+    "funabori": [
+      "seibu",
+      "metro",
+      "toei"
+    ],
+    "ichinoe": [
+      "seibu",
+      "metro",
+      "toei"
+    ],
+    "mizue": [
+      "seibu",
+      "metro",
+      "toei"
+    ],
+    "shinozaki": [
+      "seibu",
+      "metro",
+      "toei"
+    ],
+    "motoyawata_subway": [
+      "seibu",
+      "metro",
+      "toei"
+    ],
+    "ikejiriohashi": [
+      "seibu",
+      "metro",
+      "tokyu"
+    ],
+    "sangenjaya": [
+      "seibu",
+      "metro",
+      "tokyu"
+    ],
+    "komazawadaigaku": [
+      "seibu",
+      "metro",
+      "tokyu"
+    ],
+    "sakurashinmachi": [
+      "seibu",
+      "metro",
+      "tokyu"
+    ],
+    "yoga": [
+      "seibu",
+      "metro",
+      "tokyu"
+    ],
+    "futakotamagawa": [
+      "seibu",
+      "metro",
+      "tokyu"
+    ],
+    "futakoshinchi": [
+      "seibu",
+      "metro",
+      "tokyu"
+    ],
+    "takatsu": [
+      "seibu",
+      "metro",
+      "tokyu"
+    ],
+    "mizonokuchi": [
+      "seibu",
+      "metro",
+      "tokyu"
+    ],
+    "kajigaya": [
+      "seibu",
+      "metro",
+      "tokyu"
+    ],
+    "miyazakidai": [
+      "seibu",
+      "metro",
+      "tokyu"
+    ],
+    "miyamaedaira": [
+      "seibu",
+      "metro",
+      "tokyu"
+    ],
+    "saginuma": [
+      "seibu",
+      "metro",
+      "tokyu"
+    ],
+    "tamaplaza": [
+      "seibu",
+      "metro",
+      "tokyu"
+    ],
+    "azamino": [
+      "seibu",
+      "metro",
+      "tokyu"
+    ],
+    "eda": [
+      "seibu",
+      "metro",
+      "tokyu"
+    ],
+    "ichigao": [
+      "seibu",
+      "metro",
+      "tokyu"
+    ],
+    "fujigaoka": [
+      "seibu",
+      "metro",
+      "tokyu"
+    ],
+    "aobadai": [
+      "seibu",
+      "metro",
+      "tokyu"
+    ],
+    "tana": [
+      "seibu",
+      "metro",
+      "tokyu"
+    ],
+    "nagatsuda_tokyu": [
+      "seibu",
+      "metro",
+      "tokyu"
+    ],
+    "tsukushino": [
+      "seibu",
+      "metro",
+      "tokyu"
+    ],
+    "suzukakedai": [
+      "seibu",
+      "metro",
+      "tokyu"
+    ],
+    "minamimachida": [
+      "seibu",
+      "metro",
+      "tokyu"
+    ],
+    "tsukimino": [
+      "seibu",
+      "metro",
+      "tokyu"
+    ],
+    "chuorinkan_tokyu": [
+      "seibu",
+      "metro",
+      "tokyu"
+    ],
+    "gotanda_tokyu": [
+      "seibu",
+      "metro",
+      "tokyu"
+    ],
+    "osakihirokoji": [
+      "seibu",
+      "metro",
+      "tokyu"
+    ],
+    "togoshiginza": [
+      "seibu",
+      "metro",
+      "tokyu"
+    ],
+    "ebaranakanobu": [
+      "seibu",
+      "metro",
+      "tokyu"
+    ],
+    "hatanodai": [
+      "seibu",
+      "metro",
+      "tokyu"
+    ],
+    "nagahara": [
+      "seibu",
+      "metro",
+      "tokyu"
+    ],
+    "senzokuike": [
+      "seibu",
+      "metro",
+      "tokyu"
+    ],
+    "ishikawadai": [
+      "seibu",
+      "metro",
+      "tokyu"
+    ],
+    "yukigayaotsuka": [
+      "seibu",
+      "metro",
+      "tokyu"
+    ],
+    "ontakesan": [
+      "seibu",
+      "metro",
+      "tokyu"
+    ],
+    "kugahara": [
+      "seibu",
+      "metro",
+      "tokyu"
+    ],
+    "chidoricho": [
+      "seibu",
+      "metro",
+      "tokyu"
+    ],
+    "ikegami": [
+      "seibu",
+      "metro",
+      "tokyu"
+    ],
+    "hasunuma": [
+      "seibu",
+      "metro",
+      "tokyu"
+    ],
+    "kamata_tokyu": [
+      "seibu",
+      "metro",
+      "tokyu"
+    ],
+    "fudomae": [
+      "seibu",
+      "metro",
+      "tokyu"
+    ],
+    "musashikoyama": [
+      "seibu",
+      "metro",
+      "tokyu"
+    ],
+    "nishikoyama": [
+      "seibu",
+      "metro",
+      "tokyu"
+    ],
+    "senzoku": [
+      "seibu",
+      "metro",
+      "tokyu"
+    ],
+    "ookayama": [
+      "seibu",
+      "metro",
+      "tokyu"
+    ],
+    "okusawa": [
+      "seibu",
+      "metro",
+      "tokyu"
+    ],
+    "denenchofu": [
+      "seibu",
+      "metro",
+      "tokyu"
+    ],
+    "oimachi_tokyu": [
+      "seibu",
+      "metro",
+      "tokyu"
+    ],
+    "shimoshinmei": [
+      "seibu",
+      "metro",
+      "tokyu"
+    ],
+    "togoshikoen": [
+      "seibu",
+      "metro",
+      "tokyu"
+    ],
+    "ebaracho": [
+      "seibu",
+      "metro",
+      "tokyu"
+    ],
+    "kitasenzoku": [
+      "seibu",
+      "metro",
+      "tokyu"
+    ],
+    "midorigaoka": [
+      "seibu",
+      "metro",
+      "tokyu"
+    ],
+    "jiyugaoka": [
+      "seibu",
+      "metro",
+      "tokyu"
+    ],
+    "kuhonbutsu": [
+      "seibu",
+      "metro",
+      "tokyu"
+    ],
+    "oyamadai": [
+      "seibu",
+      "metro",
+      "tokyu"
+    ],
+    "todoroki": [
+      "seibu",
+      "metro",
+      "tokyu"
+    ],
+    "kaminoge": [
+      "seibu",
+      "metro",
+      "tokyu"
+    ],
+    "hiyoshi": [
+      "seibu",
+      "metro",
+      "tokyu"
+    ],
+    "shintsunashima": [
+      "seibu",
+      "metro",
+      "tokyu"
+    ],
+    "shinyokohama_tokyu_sotetsu": [
+      "seibu",
+      "metro",
+      "tokyu"
+    ],
+    "tamagawa": [
+      "seibu",
+      "metro",
+      "tokyu"
+    ],
+    "numabe": [
+      "seibu",
+      "metro",
+      "tokyu"
+    ],
+    "unoki": [
+      "seibu",
+      "metro",
+      "tokyu"
+    ],
+    "shimomaruko": [
+      "seibu",
+      "metro",
+      "tokyu"
+    ],
+    "musashinitta": [
+      "seibu",
+      "metro",
+      "tokyu"
+    ],
+    "yaguchinowatashi": [
+      "seibu",
+      "metro",
+      "tokyu"
+    ],
+    "daikanyama": [
+      "seibu",
+      "metro",
+      "tokyu"
+    ],
+    "yutenji": [
+      "seibu",
+      "metro",
+      "tokyu"
+    ],
+    "gakugeidaigaku": [
+      "seibu",
+      "metro",
+      "tokyu"
+    ],
+    "toritsudaigaku": [
+      "seibu",
+      "metro",
+      "tokyu"
+    ],
+    "shinmaruko": [
+      "seibu",
+      "metro",
+      "tokyu"
+    ],
+    "musashikosugi_tokyu": [
+      "seibu",
+      "metro",
+      "tokyu"
+    ],
+    "motosumiyoshi": [
+      "seibu",
+      "metro",
+      "tokyu"
+    ],
+    "tsunashima": [
+      "seibu",
+      "metro",
+      "tokyu"
+    ],
+    "okurayama": [
+      "seibu",
+      "metro",
+      "tokyu"
+    ],
+    "kikuna_tokyu": [
+      "seibu",
+      "metro",
+      "tokyu"
+    ],
+    "myorenji": [
+      "seibu",
+      "metro",
+      "tokyu"
+    ],
+    "hakuraku": [
+      "seibu",
+      "metro",
+      "tokyu"
+    ],
+    "higashihakuraku": [
+      "seibu",
+      "metro",
+      "tokyu"
+    ],
+    "tanmachi": [
+      "seibu",
+      "metro",
+      "tokyu"
+    ],
+    "yokohama_tokyu_mm": [
+      "seibu",
+      "metro",
+      "tokyu"
+    ],
+    "futamatagawa": [
+      "seibu",
+      "metro",
+      "tokyu",
+      "sotetsu"
+    ],
+    "minamimakigahara": [
+      "seibu",
+      "metro",
+      "tokyu",
+      "sotetsu"
+    ],
+    "ryokuentoshi": [
+      "seibu",
+      "metro",
+      "tokyu",
+      "sotetsu"
+    ],
+    "yayoidai": [
+      "seibu",
+      "metro",
+      "tokyu",
+      "sotetsu"
+    ],
+    "izumino": [
+      "seibu",
+      "metro",
+      "tokyu",
+      "sotetsu"
+    ],
+    "izumichuo": [
+      "seibu",
+      "metro",
+      "tokyu",
+      "sotetsu"
+    ],
+    "yumegaoka": [
+      "seibu",
+      "metro",
+      "tokyu",
+      "sotetsu"
+    ],
+    "shonandai_sotetsu": [
+      "seibu",
+      "metro",
+      "tokyu",
+      "sotetsu"
+    ],
+    "yokohama_sotetsu": [
+      "seibu",
+      "metro",
+      "tokyu",
+      "sotetsu"
+    ],
+    "hiranumabashi": [
+      "seibu",
+      "metro",
+      "tokyu",
+      "sotetsu"
+    ],
+    "nishiyokohama": [
+      "seibu",
+      "metro",
+      "tokyu",
+      "sotetsu"
+    ],
+    "tennocho": [
+      "seibu",
+      "metro",
+      "tokyu",
+      "sotetsu"
+    ],
+    "hoshikawa": [
+      "seibu",
+      "metro",
+      "tokyu",
+      "sotetsu"
+    ],
+    "wadamachi": [
+      "seibu",
+      "metro",
+      "tokyu",
+      "sotetsu"
+    ],
+    "kamihoshikawa": [
+      "seibu",
+      "metro",
+      "tokyu",
+      "sotetsu"
+    ],
+    "nishiya": [
+      "seibu",
+      "metro",
+      "tokyu",
+      "sotetsu"
+    ],
+    "tsurugamine": [
+      "seibu",
+      "metro",
+      "tokyu",
+      "sotetsu"
+    ],
+    "kibogaoka": [
+      "seibu",
+      "metro",
+      "tokyu",
+      "sotetsu"
+    ],
+    "mitsukyo": [
+      "seibu",
+      "metro",
+      "tokyu",
+      "sotetsu"
+    ],
+    "seya": [
+      "seibu",
+      "metro",
+      "tokyu",
+      "sotetsu"
+    ],
+    "yamato_sotetsu": [
+      "seibu",
+      "metro",
+      "tokyu",
+      "sotetsu"
+    ],
+    "sagamiotsuka": [
+      "seibu",
+      "metro",
+      "tokyu",
+      "sotetsu"
+    ],
+    "sagamino": [
+      "seibu",
+      "metro",
+      "tokyu",
+      "sotetsu"
+    ],
+    "kashiwadai": [
+      "seibu",
+      "metro",
+      "tokyu",
+      "sotetsu"
+    ],
+    "ebina_sotetsu": [
+      "seibu",
+      "metro",
+      "tokyu",
+      "sotetsu"
+    ],
+    "keikyukamata": [
+      "seibu",
+      "metro",
+      "toei",
+      "keikyu"
+    ],
+    "kojiya": [
+      "seibu",
+      "metro",
+      "toei",
+      "keikyu"
+    ],
+    "otorii": [
+      "seibu",
+      "metro",
+      "toei",
+      "keikyu"
+    ],
+    "anamoriiinari": [
+      "seibu",
+      "metro",
+      "toei",
+      "keikyu"
+    ],
+    "tenkubashi_keikyu": [
+      "seibu",
+      "metro",
+      "toei",
+      "keikyu"
+    ],
+    "haneda_airport_terminal3_keikyu": [
+      "seibu",
+      "metro",
+      "toei",
+      "keikyu"
+    ],
+    "haneda_airport_terminal1_2": [
+      "seibu",
+      "metro",
+      "toei",
+      "keikyu"
+    ],
+    "keikyukawasaki": [
+      "seibu",
+      "metro",
+      "toei",
+      "keikyu"
+    ],
+    "minatocho": [
+      "seibu",
+      "metro",
+      "toei",
+      "keikyu"
+    ],
+    "suzukicho": [
+      "seibu",
+      "metro",
+      "toei",
+      "keikyu"
+    ],
+    "kawasakidaishi": [
+      "seibu",
+      "metro",
+      "toei",
+      "keikyu"
+    ],
+    "higashimonzen": [
+      "seibu",
+      "metro",
+      "toei",
+      "keikyu"
+    ],
+    "daishibashi": [
+      "seibu",
+      "metro",
+      "toei",
+      "keikyu"
+    ],
+    "kojimashinden": [
+      "seibu",
+      "metro",
+      "toei",
+      "keikyu"
+    ],
+    "horinouchi": [
+      "seibu",
+      "metro",
+      "toei",
+      "keikyu"
+    ],
+    "shinotsu": [
+      "seibu",
+      "metro",
+      "toei",
+      "keikyu"
+    ],
+    "kitakurihama": [
+      "seibu",
+      "metro",
+      "toei",
+      "keikyu"
+    ],
+    "keikyukurihama": [
+      "seibu",
+      "metro",
+      "toei",
+      "keikyu"
+    ],
+    "yrpnobi": [
+      "seibu",
+      "metro",
+      "toei",
+      "keikyu"
+    ],
+    "keikyunagasawa": [
+      "seibu",
+      "metro",
+      "toei",
+      "keikyu"
+    ],
+    "tsukuihama": [
+      "seibu",
+      "metro",
+      "toei",
+      "keikyu"
+    ],
+    "miurakaigan": [
+      "seibu",
+      "metro",
+      "toei",
+      "keikyu"
+    ],
+    "misakiguchi": [
+      "seibu",
+      "metro",
+      "toei",
+      "keikyu"
+    ],
+    "shinagawa_keikyu": [
+      "seibu",
+      "metro",
+      "toei",
+      "keikyu"
+    ],
+    "kitashinagawa": [
+      "seibu",
+      "metro",
+      "toei",
+      "keikyu"
+    ],
+    "shimbamba": [
+      "seibu",
+      "metro",
+      "toei",
+      "keikyu"
+    ],
+    "aomonoyokocho": [
+      "seibu",
+      "metro",
+      "toei",
+      "keikyu"
+    ],
+    "samezu": [
+      "seibu",
+      "metro",
+      "toei",
+      "keikyu"
+    ],
+    "tachiaigawa": [
+      "seibu",
+      "metro",
+      "toei",
+      "keikyu"
+    ],
+    "omorikaigan": [
+      "seibu",
+      "metro",
+      "toei",
+      "keikyu"
+    ],
+    "heiwajima": [
+      "seibu",
+      "metro",
+      "toei",
+      "keikyu"
+    ],
+    "omorimachi": [
+      "seibu",
+      "metro",
+      "toei",
+      "keikyu"
+    ],
+    "umeyashiki": [
+      "seibu",
+      "metro",
+      "toei",
+      "keikyu"
+    ],
+    "zoshiki": [
+      "seibu",
+      "metro",
+      "toei",
+      "keikyu"
+    ],
+    "rokugodote": [
+      "seibu",
+      "metro",
+      "toei",
+      "keikyu"
+    ],
+    "hatchonawate_keikyu": [
+      "seibu",
+      "metro",
+      "toei",
+      "keikyu"
+    ],
+    "tsurumiichiba": [
+      "seibu",
+      "metro",
+      "toei",
+      "keikyu"
+    ],
+    "keikyutsurumi": [
+      "seibu",
+      "metro",
+      "toei",
+      "keikyu"
+    ],
+    "kagetsusoji": [
+      "seibu",
+      "metro",
+      "toei",
+      "keikyu"
+    ],
+    "namamugi": [
+      "seibu",
+      "metro",
+      "toei",
+      "keikyu"
+    ],
+    "keikyushinkoyasu": [
+      "seibu",
+      "metro",
+      "toei",
+      "keikyu"
+    ],
+    "koyasu": [
+      "seibu",
+      "metro",
+      "toei",
+      "keikyu"
+    ],
+    "kanagawashimmachi": [
+      "seibu",
+      "metro",
+      "toei",
+      "keikyu"
+    ],
+    "keikyuhigashikanagawa": [
+      "seibu",
+      "metro",
+      "toei",
+      "keikyu"
+    ],
+    "kanagawa": [
+      "seibu",
+      "metro",
+      "toei",
+      "keikyu"
+    ],
+    "yokohama_keikyu": [
+      "seibu",
+      "metro",
+      "toei",
+      "keikyu"
+    ],
+    "tobe": [
+      "seibu",
+      "metro",
+      "toei",
+      "keikyu"
+    ],
+    "hinodecho": [
+      "seibu",
+      "metro",
+      "toei",
+      "keikyu"
+    ],
+    "koganecho": [
+      "seibu",
+      "metro",
+      "toei",
+      "keikyu"
+    ],
+    "minamiota": [
+      "seibu",
+      "metro",
+      "toei",
+      "keikyu"
+    ],
+    "idogaya": [
+      "seibu",
+      "metro",
+      "toei",
+      "keikyu"
+    ],
+    "gumyoji_keikyu": [
+      "seibu",
+      "metro",
+      "toei",
+      "keikyu"
+    ],
+    "kamiooka_keikyu": [
+      "seibu",
+      "metro",
+      "toei",
+      "keikyu"
+    ],
+    "byobugaura": [
+      "seibu",
+      "metro",
+      "toei",
+      "keikyu"
+    ],
+    "sugita": [
+      "seibu",
+      "metro",
+      "toei",
+      "keikyu"
+    ],
+    "keikyutomioka": [
+      "seibu",
+      "metro",
+      "toei",
+      "keikyu"
+    ],
+    "nokendai": [
+      "seibu",
+      "metro",
+      "toei",
+      "keikyu"
+    ],
+    "kanazawabunko": [
+      "seibu",
+      "metro",
+      "toei",
+      "keikyu"
+    ],
+    "kanazawahakkei_keikyu": [
+      "seibu",
+      "metro",
+      "toei",
+      "keikyu"
+    ],
+    "oppama": [
+      "seibu",
+      "metro",
+      "toei",
+      "keikyu"
+    ],
+    "keikyutaura": [
+      "seibu",
+      "metro",
+      "toei",
+      "keikyu"
+    ],
+    "anjinzuka": [
+      "seibu",
+      "metro",
+      "toei",
+      "keikyu"
+    ],
+    "hemi": [
+      "seibu",
+      "metro",
+      "toei",
+      "keikyu"
+    ],
+    "shioiri": [
+      "seibu",
+      "metro",
+      "toei",
+      "keikyu"
+    ],
+    "yokosukachuo": [
+      "seibu",
+      "metro",
+      "toei",
+      "keikyu"
+    ],
+    "kenritsudaigaku": [
+      "seibu",
+      "metro",
+      "toei",
+      "keikyu"
+    ],
+    "keikyuotsu": [
+      "seibu",
+      "metro",
+      "toei",
+      "keikyu"
+    ],
+    "maborikaigan": [
+      "seibu",
+      "metro",
+      "toei",
+      "keikyu"
+    ],
+    "uraga": [
+      "seibu",
+      "metro",
+      "toei",
+      "keikyu"
+    ],
+    "mutsuura": [
+      "seibu",
+      "metro",
+      "toei",
+      "keikyu"
+    ],
+    "jimmuji": [
+      "seibu",
+      "metro",
+      "toei",
+      "keikyu"
+    ],
+    "zushi_hayama": [
+      "seibu",
+      "metro",
+      "toei",
+      "keikyu"
+    ],
+    "takahatafudo": [
+      "seibu",
+      "metro",
+      "toei",
+      "keio"
+    ],
+    "tamadobutsukoen": [
+      "seibu",
+      "metro",
+      "toei",
+      "keio"
+    ],
+    "shibuya_keio": [
+      "seibu",
+      "metro",
+      "toei",
+      "keio"
+    ],
+    "shinsen": [
+      "seibu",
+      "metro",
+      "toei",
+      "keio"
+    ],
+    "komabatodaimae": [
+      "seibu",
+      "metro",
+      "toei",
+      "keio"
+    ],
+    "ikenoue": [
+      "seibu",
+      "metro",
+      "toei",
+      "keio"
+    ],
+    "shimokitazawa_keio": [
+      "seibu",
+      "metro",
+      "toei",
+      "keio"
+    ],
+    "shindaita": [
+      "seibu",
+      "metro",
+      "toei",
+      "keio"
+    ],
+    "higashimatsubara": [
+      "seibu",
+      "metro",
+      "toei",
+      "keio"
+    ],
+    "meidaimae": [
+      "seibu",
+      "metro",
+      "toei",
+      "keio"
+    ],
+    "eifukucho": [
+      "seibu",
+      "metro",
+      "toei",
+      "keio"
+    ],
+    "nishieifuku": [
+      "seibu",
+      "metro",
+      "toei",
+      "keio"
+    ],
+    "hamadayama": [
+      "seibu",
+      "metro",
+      "toei",
+      "keio"
+    ],
+    "takaido": [
+      "seibu",
+      "metro",
+      "toei",
+      "keio"
+    ],
+    "fujimigaoka": [
+      "seibu",
+      "metro",
+      "toei",
+      "keio"
+    ],
+    "kugayama": [
+      "seibu",
+      "metro",
+      "toei",
+      "keio"
+    ],
+    "mitakadai": [
+      "seibu",
+      "metro",
+      "toei",
+      "keio"
+    ],
+    "inokashirakoen": [
+      "seibu",
+      "metro",
+      "toei",
+      "keio"
+    ],
+    "kichijoji_keio": [
+      "seibu",
+      "metro",
+      "toei",
+      "keio"
+    ],
+    "higashifuchu": [
+      "seibu",
+      "metro",
+      "toei",
+      "keio"
+    ],
+    "fuchukeibaseimommae": [
+      "seibu",
+      "metro",
+      "toei",
+      "keio"
+    ],
+    "hatsudai": [
+      "seibu",
+      "metro",
+      "toei",
+      "keio"
+    ],
+    "hatagaya": [
+      "seibu",
+      "metro",
+      "toei",
+      "keio"
+    ],
+    "sasazuka": [
+      "seibu",
+      "metro",
+      "toei",
+      "keio"
+    ],
+    "daitabashi": [
+      "seibu",
+      "metro",
+      "toei",
+      "keio"
+    ],
+    "shimotakaido_keio": [
+      "seibu",
+      "metro",
+      "toei",
+      "keio"
+    ],
+    "sakurajosui": [
+      "seibu",
+      "metro",
+      "toei",
+      "keio"
+    ],
+    "kamikitazawa": [
+      "seibu",
+      "metro",
+      "toei",
+      "keio"
+    ],
+    "hachimanyama": [
+      "seibu",
+      "metro",
+      "toei",
+      "keio"
+    ],
+    "rokakoen": [
+      "seibu",
+      "metro",
+      "toei",
+      "keio"
+    ],
+    "chitosekarasuyama": [
+      "seibu",
+      "metro",
+      "toei",
+      "keio"
+    ],
+    "sengawa": [
+      "seibu",
+      "metro",
+      "toei",
+      "keio"
+    ],
+    "tsutsujigaoka": [
+      "seibu",
+      "metro",
+      "toei",
+      "keio"
+    ],
+    "shibasaki": [
+      "seibu",
+      "metro",
+      "toei",
+      "keio"
+    ],
+    "kokuryo": [
+      "seibu",
+      "metro",
+      "toei",
+      "keio"
+    ],
+    "fuda": [
+      "seibu",
+      "metro",
+      "toei",
+      "keio"
+    ],
+    "chofu": [
+      "seibu",
+      "metro",
+      "toei",
+      "keio"
+    ],
+    "nishichofu": [
+      "seibu",
+      "metro",
+      "toei",
+      "keio"
+    ],
+    "tobitakyu": [
+      "seibu",
+      "metro",
+      "toei",
+      "keio"
+    ],
+    "musashinodai": [
+      "seibu",
+      "metro",
+      "toei",
+      "keio"
+    ],
+    "tamareien": [
+      "seibu",
+      "metro",
+      "toei",
+      "keio"
+    ],
+    "fuchu_keio": [
+      "seibu",
+      "metro",
+      "toei",
+      "keio"
+    ],
+    "bubaigawara_keio": [
+      "seibu",
+      "metro",
+      "toei",
+      "keio"
+    ],
+    "nakagawara": [
+      "seibu",
+      "metro",
+      "toei",
+      "keio"
+    ],
+    "seisekisakuragaoka": [
+      "seibu",
+      "metro",
+      "toei",
+      "keio"
+    ],
+    "mogusaen": [
+      "seibu",
+      "metro",
+      "toei",
+      "keio"
+    ],
+    "minamidaira": [
+      "seibu",
+      "metro",
+      "toei",
+      "keio"
+    ],
+    "hirayamajoshikoen": [
+      "seibu",
+      "metro",
+      "toei",
+      "keio"
+    ],
+    "naganuma_keio": [
+      "seibu",
+      "metro",
+      "toei",
+      "keio"
+    ],
+    "kitano": [
+      "seibu",
+      "metro",
+      "toei",
+      "keio"
+    ],
+    "keiohachioji": [
+      "seibu",
+      "metro",
+      "toei",
+      "keio"
+    ],
+    "keiotamagawa": [
+      "seibu",
+      "metro",
+      "toei",
+      "keio"
+    ],
+    "keioinadazutsumi": [
+      "seibu",
+      "metro",
+      "toei",
+      "keio"
+    ],
+    "keioyomiuriland": [
+      "seibu",
+      "metro",
+      "toei",
+      "keio"
+    ],
+    "inagi": [
+      "seibu",
+      "metro",
+      "toei",
+      "keio"
+    ],
+    "wakabadai": [
+      "seibu",
+      "metro",
+      "toei",
+      "keio"
+    ],
+    "keionagayama": [
+      "seibu",
+      "metro",
+      "toei",
+      "keio"
+    ],
+    "keiotamacenter": [
+      "seibu",
+      "metro",
+      "toei",
+      "keio"
+    ],
+    "keiohorinouchi": [
+      "seibu",
+      "metro",
+      "toei",
+      "keio"
+    ],
+    "minamiosawa": [
+      "seibu",
+      "metro",
+      "toei",
+      "keio"
+    ],
+    "tamasakai": [
+      "seibu",
+      "metro",
+      "toei",
+      "keio"
+    ],
+    "hashimoto_keio": [
+      "seibu",
+      "metro",
+      "toei",
+      "keio"
+    ],
+    "keiokatakura": [
+      "seibu",
+      "metro",
+      "toei",
+      "keio"
+    ],
+    "yamada": [
+      "seibu",
+      "metro",
+      "toei",
+      "keio"
+    ],
+    "mejirodai": [
+      "seibu",
+      "metro",
+      "toei",
+      "keio"
+    ],
+    "hazama": [
+      "seibu",
+      "metro",
+      "toei",
+      "keio"
+    ],
+    "takao_keio": [
+      "seibu",
+      "metro",
+      "toei",
+      "keio"
+    ],
+    "takaosanguchi": [
+      "seibu",
+      "metro",
+      "toei",
+      "keio"
+    ],
+    "sagamiono": [
+      "seibu",
+      "metro",
+      "odakyu"
+    ],
+    "sagamiono_junction": [
+      "seibu",
+      "metro",
+      "odakyu"
+    ],
+    "higashirinkan": [
+      "seibu",
+      "metro",
+      "odakyu"
+    ],
+    "chuorinkan_odakyu": [
+      "seibu",
+      "metro",
+      "odakyu"
+    ],
+    "minamirinkan": [
+      "seibu",
+      "metro",
+      "odakyu"
+    ],
+    "tsuruma": [
+      "seibu",
+      "metro",
+      "odakyu"
+    ],
+    "yamato_odakyu": [
+      "seibu",
+      "metro",
+      "odakyu"
+    ],
+    "sakuragaoka": [
+      "seibu",
+      "metro",
+      "odakyu"
+    ],
+    "kozashibuya": [
+      "seibu",
+      "metro",
+      "odakyu"
+    ],
+    "chogo": [
+      "seibu",
+      "metro",
+      "odakyu"
+    ],
+    "shonandai_odakyu": [
+      "seibu",
+      "metro",
+      "odakyu"
+    ],
+    "mutsuainichidaimae": [
+      "seibu",
+      "metro",
+      "odakyu"
+    ],
+    "zengyo": [
+      "seibu",
+      "metro",
+      "odakyu"
+    ],
+    "fujisawahommachi": [
+      "seibu",
+      "metro",
+      "odakyu"
+    ],
+    "fujisawa_odakyu": [
+      "seibu",
+      "metro",
+      "odakyu"
+    ],
+    "honkugenuma": [
+      "seibu",
+      "metro",
+      "odakyu"
+    ],
+    "kugenumakaigan": [
+      "seibu",
+      "metro",
+      "odakyu"
+    ],
+    "kataseenoshima": [
+      "seibu",
+      "metro",
+      "odakyu"
+    ],
+    "shinjuku_odakyu": [
+      "seibu",
+      "metro",
+      "odakyu"
+    ],
+    "minamishinjuku": [
+      "seibu",
+      "metro",
+      "odakyu"
+    ],
+    "sangubashi": [
+      "seibu",
+      "metro",
+      "odakyu"
+    ],
+    "yoyogihachiman": [
+      "seibu",
+      "metro",
+      "odakyu"
+    ],
+    "higashikitazawa": [
+      "seibu",
+      "metro",
+      "odakyu"
+    ],
+    "shimokitazawa_odakyu": [
+      "seibu",
+      "metro",
+      "odakyu"
+    ],
+    "setagayadaita": [
+      "seibu",
+      "metro",
+      "odakyu"
+    ],
+    "umegaoka": [
+      "seibu",
+      "metro",
+      "odakyu"
+    ],
+    "gotokuji": [
+      "seibu",
+      "metro",
+      "odakyu"
+    ],
+    "kyodo": [
+      "seibu",
+      "metro",
+      "odakyu"
+    ],
+    "chitosefunabashi": [
+      "seibu",
+      "metro",
+      "odakyu"
+    ],
+    "soshigayaokura": [
+      "seibu",
+      "metro",
+      "odakyu"
+    ],
+    "seijogakuemmae": [
+      "seibu",
+      "metro",
+      "odakyu"
+    ],
+    "kitami": [
+      "seibu",
+      "metro",
+      "odakyu"
+    ],
+    "komae": [
+      "seibu",
+      "metro",
+      "odakyu"
+    ],
+    "izumitamagawa": [
+      "seibu",
+      "metro",
+      "odakyu"
+    ],
+    "noborito_odakyu": [
+      "seibu",
+      "metro",
+      "odakyu"
+    ],
+    "mukogaokayuen": [
+      "seibu",
+      "metro",
+      "odakyu"
+    ],
+    "ikuta": [
+      "seibu",
+      "metro",
+      "odakyu"
+    ],
+    "yomiurilandmae": [
+      "seibu",
+      "metro",
+      "odakyu"
+    ],
+    "yurigaoka": [
+      "seibu",
+      "metro",
+      "odakyu"
+    ],
+    "shinyurigaoka": [
+      "seibu",
+      "metro",
+      "odakyu"
+    ],
+    "kakio": [
+      "seibu",
+      "metro",
+      "odakyu"
+    ],
+    "tsurukawa": [
+      "seibu",
+      "metro",
+      "odakyu"
+    ],
+    "tamagawagakuemmae": [
+      "seibu",
+      "metro",
+      "odakyu"
+    ],
+    "machida_odakyu": [
+      "seibu",
+      "metro",
+      "odakyu"
+    ],
+    "odakyusagamihara": [
+      "seibu",
+      "metro",
+      "odakyu"
+    ],
+    "sobudaimae": [
+      "seibu",
+      "metro",
+      "odakyu"
+    ],
+    "zama": [
+      "seibu",
+      "metro",
+      "odakyu"
+    ],
+    "ebina_odakyu": [
+      "seibu",
+      "metro",
+      "odakyu"
+    ],
+    "atsugi_odakyu": [
+      "seibu",
+      "metro",
+      "odakyu"
+    ],
+    "honatsugi": [
+      "seibu",
+      "metro",
+      "odakyu"
+    ],
+    "aikoishida": [
+      "seibu",
+      "metro",
+      "odakyu"
+    ],
+    "isehara": [
+      "seibu",
+      "metro",
+      "odakyu"
+    ],
+    "tsurumakionsen": [
+      "seibu",
+      "metro",
+      "odakyu"
+    ],
+    "tokaidaigakumae": [
+      "seibu",
+      "metro",
+      "odakyu"
+    ],
+    "hadano": [
+      "seibu",
+      "metro",
+      "odakyu"
+    ],
+    "shibusawa": [
+      "seibu",
+      "metro",
+      "odakyu"
+    ],
+    "shimmatsuda": [
+      "seibu",
+      "metro",
+      "odakyu"
+    ],
+    "kaisei": [
+      "seibu",
+      "metro",
+      "odakyu"
+    ],
+    "kayama": [
+      "seibu",
+      "metro",
+      "odakyu"
+    ],
+    "tomizu": [
+      "seibu",
+      "metro",
+      "odakyu"
+    ],
+    "hotaruda": [
+      "seibu",
+      "metro",
+      "odakyu"
+    ],
+    "ashigara_odakyu": [
+      "seibu",
+      "metro",
+      "odakyu"
+    ],
+    "odawara_odakyu": [
+      "seibu",
+      "metro",
+      "odakyu"
+    ],
+    "satsukidai": [
+      "seibu",
+      "metro",
+      "odakyu"
+    ],
+    "kurihira": [
+      "seibu",
+      "metro",
+      "odakyu"
+    ],
+    "kurokawa": [
+      "seibu",
+      "metro",
+      "odakyu"
+    ],
+    "haruhino": [
+      "seibu",
+      "metro",
+      "odakyu"
+    ],
+    "odakyunagayama": [
+      "seibu",
+      "metro",
+      "odakyu"
+    ],
+    "odakyutamacenter": [
+      "seibu",
+      "metro",
+      "odakyu"
+    ],
+    "karakida": [
+      "seibu",
+      "metro",
+      "odakyu"
+    ],
+    "shintakashima": [
+      "seibu",
+      "metro",
+      "tokyu",
+      "yokohama-kosoku"
+    ],
+    "minatomirai": [
+      "seibu",
+      "metro",
+      "tokyu",
+      "yokohama-kosoku"
+    ],
+    "bashamichi": [
+      "seibu",
+      "metro",
+      "tokyu",
+      "yokohama-kosoku"
+    ],
+    "nihonodori": [
+      "seibu",
+      "metro",
+      "tokyu",
+      "yokohama-kosoku"
+    ],
+    "motomachichukagai": [
+      "seibu",
+      "metro",
+      "tokyu",
+      "yokohama-kosoku"
+    ],
+    "hakoneitabashi": [
+      "seibu",
+      "metro",
+      "odakyu",
+      "hakone"
+    ],
+    "kazamatsuri": [
+      "seibu",
+      "metro",
+      "odakyu",
+      "hakone"
+    ],
+    "iriuda": [
+      "seibu",
+      "metro",
+      "odakyu",
+      "hakone"
+    ],
+    "hakoneyumoto": [
+      "seibu",
+      "metro",
+      "odakyu",
+      "hakone"
+    ],
+    "tonosawa": [
+      "seibu",
+      "metro",
+      "odakyu",
+      "hakone"
+    ],
+    "ohiradai": [
+      "seibu",
+      "metro",
+      "odakyu",
+      "hakone"
+    ],
+    "miyanoshita": [
+      "seibu",
+      "metro",
+      "odakyu",
+      "hakone"
+    ],
+    "kowakidani": [
+      "seibu",
+      "metro",
+      "odakyu",
+      "hakone"
+    ],
+    "chokokunomori": [
+      "seibu",
+      "metro",
+      "odakyu",
+      "hakone"
+    ],
+    "gora": [
+      "seibu",
+      "metro",
+      "odakyu",
+      "hakone"
+    ],
+    "kawaguchimotogo": [
+      "seibu",
+      "metro",
+      "saitama-kosoku"
+    ],
+    "minamihatogaya": [
+      "seibu",
+      "metro",
+      "saitama-kosoku"
+    ],
+    "hatogaya": [
+      "seibu",
+      "metro",
+      "saitama-kosoku"
+    ],
+    "araijuku": [
+      "seibu",
+      "metro",
+      "saitama-kosoku"
+    ],
+    "tozukaangyo": [
+      "seibu",
+      "metro",
+      "saitama-kosoku"
+    ],
+    "higashikawaguchi_saitama": [
+      "seibu",
+      "metro",
+      "saitama-kosoku"
+    ],
+    "urawamisono": [
+      "seibu",
+      "metro",
+      "saitama-kosoku"
+    ],
+    "higashikaijin": [
+      "seibu",
+      "metro",
+      "toyo-kosoku"
+    ],
+    "hasama": [
+      "seibu",
+      "metro",
+      "toyo-kosoku"
+    ],
+    "kitanarashino_toyo": [
+      "seibu",
+      "metro",
+      "toyo-kosoku"
+    ],
+    "funabashinichidaimae": [
+      "seibu",
+      "metro",
+      "toyo-kosoku"
+    ],
+    "yachiyomidorigaoka": [
+      "seibu",
+      "metro",
+      "toyo-kosoku"
+    ],
+    "yachiyochuo": [
+      "seibu",
+      "metro",
+      "toyo-kosoku"
+    ],
+    "murakami_toyo": [
+      "seibu",
+      "metro",
+      "toyo-kosoku"
+    ],
+    "toyokatsutadai": [
+      "seibu",
+      "metro",
+      "toyo-kosoku"
+    ]
+  }
+}
