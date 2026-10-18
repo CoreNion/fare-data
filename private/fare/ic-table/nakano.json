@@ -2,6 +2,24 @@
   "id": "nakano",
   "name": "中野",
   "fares": {
+    "shibukawa": 2420,
+    "kanashima": 2420,
+    "ubashima": 2420,
+    "onogami": 2713,
+    "onogamionsen": 2750,
+    "ichishiro": 2750,
+    "nakanojo": 2750,
+    "gunmaharamachi": 2750,
+    "gobara": 2750,
+    "yagura": 2750,
+    "iwashima": 3043,
+    "kawarayuonsen": 3190,
+    "naganoharakusatsuguchi": 3190,
+    "gunmaotsu": 3190,
+    "haneo": 3190,
+    "fukurogura": 3483,
+    "manzakazawaguchi": 3520,
+    "omae": 3520,
     "kanda-tohoku": 253,
     "ochanomizu": 253,
     "suidobashi": 253,
@@ -45,6 +63,35 @@
     "sasago": 1595,
     "kaiyamato": 1782,
     "katsunumabudokyo": 1782,
+    "enzan": 2090,
+    "higashiyamanashi": 2090,
+    "yamanashishi": 2090,
+    "kasugaicho": 2090,
+    "isawaonsen": 2090,
+    "sakaori": 2090,
+    "kofu": 2090,
+    "ryuo": 2420,
+    "shiozaki": 2420,
+    "nirasaki": 2420,
+    "shinpu": 2420,
+    "anayama": 2420,
+    "hinoharu": 2750,
+    "nagasaka": 2750,
+    "kobuchizawa": 2750,
+    "shinanosakai": 3190,
+    "fujimi": 3190,
+    "suzurannosato": 3190,
+    "aoyagi": 3190,
+    "chino": 3520,
+    "kamisuwa": 3850,
+    "shimosuwa": 3850,
+    "okaya": 3850,
+    "midoriko": 3850,
+    "shiojiri": 4180,
+    "kawagishi": 3850,
+    "tatsuno-iida": 3850,
+    "shinanokawashima": 4180,
+    "ono-chuo": 4180,
     "kitahachioji": 715,
     "komiya": 616,
     "haijima": 528,
@@ -64,7 +111,15 @@
     "matsuhisa": 1782,
     "kodama": 2090,
     "tansho": 2090,
+    "gunmafujioka": 2090,
+    "kitafujioka": 2090,
     "kuragano": 2075,
+    "atami": 2090,
+    "kinomiya": 2090,
+    "izutaga": 2090,
+    "ajiro": 2420,
+    "usami": 2420,
+    "ito": 2420,
     "kumagawa": 616,
     "higashiakiru": 616,
     "akigawa": 715,
@@ -102,6 +157,61 @@
     "iwama": 1888,
     "tomobe": 2075,
     "uchihara": 2075,
+    "akatsuka": 2383,
+    "kairakuen": 2383,
+    "mito": 2383,
+    "katsuta": 2383,
+    "sawa-joban": 2383,
+    "tokai": 2713,
+    "omika": 2713,
+    "hitachitaga": 2713,
+    "hitachi": 2713,
+    "ogitsu": 3043,
+    "juo": 3043,
+    "takahagi": 3043,
+    "minaminakago": 3043,
+    "isohara": 3483,
+    "otsuko": 3483,
+    "nakoso": 3483,
+    "ueda-joban": 3813,
+    "izumi-joban": 3844,
+    "yumoto": 3844,
+    "uchigo": 3844,
+    "iwaki": 3850,
+    "kusano-joban": 4174,
+    "yotsukura": 4174,
+    "hisanohama": 4174,
+    "suetsugi": 4180,
+    "hirono-joban": 4180,
+    "jeibirejji": 4504,
+    "kido": 4504,
+    "tatsuta": 4504,
+    "tomioka": 4620,
+    "yonomori": 4620,
+    "ono": 4944,
+    "futaba": 4944,
+    "namie": 5060,
+    "takasaki": 2090,
+    "takasakitonyamachi": 2090,
+    "ino-joetsu": 2090,
+    "shinmaebashi": 2090,
+    "gunmasoja": 2090,
+    "yagihara": 2420,
+    "shikishima": 2420,
+    "tsukuda-joetsu": 2420,
+    "iwamoto": 2750,
+    "numata": 2750,
+    "gokan": 2750,
+    "kamimoku": 3043,
+    "minakami": 3190,
+    "hoshakuji": 2420,
+    "shimotsukehanaoka": 2420,
+    "niita-karasuyama": 2420,
+    "konoyama": 2420,
+    "ogane": 2420,
+    "kobana": 2420,
+    "taki-karasuyama": 2713,
+    "karasuyama": 2750,
     "katori": 1732,
     "junikyo": 1919,
     "itako": 1919,
@@ -137,6 +247,10 @@
     "chibaminato": 665,
     "soga": 764,
     "nishifunabashi": 324,
+    "nobeyama": 3520,
+    "kiyosato": 3190,
+    "kaioizumi": 3190,
+    "kaikoizumi": 3190,
     "kisarazu": 1358,
     "gion": 1358,
     "kazusakiyokawa": 1358,
@@ -158,6 +272,12 @@
     "kawashima": 1782,
     "tamado": 1782,
     "shimodate": 1782,
+    "niihari": 2090,
+    "yamato-mito": 2090,
+    "iwase": 2090,
+    "haguro": 2090,
+    "fukuhara": 2090,
+    "inada": 2383,
     "kasama": 2075,
     "shishido": 2075,
     "fuchuhonmachi": 440,
@@ -223,6 +343,8 @@
     "omigawa-narita": 1919,
     "sasagawa": 2106,
     "shimosatachibana": 2106,
+    "shimosatoyosato": 2383,
+    "shiishiba": 2383,
     "matsugishi": 2106,
     "higashiabiko": 821,
     "kohoku-narita2": 821,
@@ -246,6 +368,42 @@
     "konandai": 1034,
     "hongodai": 1034,
     "ofuna": 1034,
+    "utsunomiya": 2090,
+    "tsuruta": 2090,
+    "kanuma": 2420,
+    "fubasami": 2420,
+    "shimotsukeosawa": 2713,
+    "imaichi": 2750,
+    "nikko": 2750,
+    "matsumoto": 4180,
+    "kitamatsumoto": 4180,
+    "shimauchi": 4180,
+    "shimatakamatsu": 4180,
+    "azusabashi": 4620,
+    "hitoichiba": 4620,
+    "nakagaya": 4620,
+    "minamitoyoshina": 4620,
+    "toyoshina": 4620,
+    "hakuyacho": 4620,
+    "hotaka": 4620,
+    "ariake": 4620,
+    "azumioiwake": 4620,
+    "hosono-oito": 5060,
+    "kitahosono": 5060,
+    "shinanomatsukawa": 5060,
+    "azumikutsukake": 5060,
+    "shinanotokiwa": 5060,
+    "minamiomachi": 5060,
+    "shinanoomachi": 5060,
+    "kitaomachi": 5060,
+    "shinanokizaki": 5060,
+    "inao": 5390,
+    "uminokuchi": 5390,
+    "yanaba": 5390,
+    "minamikamishiro": 5390,
+    "kamishiro": 5390,
+    "iimori": 5390,
+    "hakuba": 5720,
     "nishitachikawa": 440,
     "higashinakagami": 528,
     "nakagami": 528,
@@ -269,6 +427,19 @@
     "hatonosu": 1034,
     "shiromaru": 1034,
     "okutama": 1034,
+    "maebashi": 2090,
+    "maebashioshima": 2383,
+    "komagata": 2420,
+    "isesaki": 2420,
+    "kunisada": 2420,
+    "iwajuku": 2420,
+    "kiryu": 2420,
+    "omata": 2420,
+    "yamamae": 2420,
+    "ashikaga": 2383,
+    "ashikagaflowerpark": 2090,
+    "tomita-ryomo": 2090,
+    "sano": 2090,
     "iwafune": 2075,
     "ohirashita": 1782,
     "tochigi": 1782,
@@ -304,6 +475,30 @@
     "minamiyono": 528,
     "yonohonmachi": 528,
     "kitayono": 616,
+    "kitatakasaki": 2090,
+    "gunmayawata": 2090,
+    "annaka": 2090,
+    "isobe": 2420,
+    "matsuida": 2420,
+    "nishimatsuida": 2420,
+    "yokokawa-shinetsu": 2420,
+    "shinonoi": 5390,
+    "imai": 5390,
+    "kawanakajima": 5390,
+    "amori": 5390,
+    "nagano": 5390,
+    "hiroka": 4180,
+    "murai": 4180,
+    "hirata": 4180,
+    "minamimatsumoto": 4180,
+    "tazawa": 4620,
+    "akashina": 4620,
+    "nishijo-shinonoi": 4620,
+    "sakakita": 5060,
+    "hijirikogen": 5060,
+    "kamuriki": 5060,
+    "obasute": 5060,
+    "inariyama": 5390,
     "shinnihonbashi": 341,
     "bakurocho": 341,
     "kinshicho": 341,
@@ -367,6 +562,33 @@
     "ubara": 2106,
     "kazusaokitsu": 2106,
     "namegawaairando": 2106,
+    "awakominato": 2414,
+    "awaamatsu": 2414,
+    "awakamogawa": 2414,
+    "hitachiaoyagi": 2383,
+    "hitachitsuda": 2383,
+    "godai": 2383,
+    "shimosugaya": 2383,
+    "nakasugaya": 2383,
+    "kamisugaya": 2383,
+    "hitachikonosu": 2713,
+    "urizura": 2713,
+    "shizu": 2713,
+    "hitachiomiya": 2713,
+    "tamagawamura": 2713,
+    "nogamihara": 3043,
+    "yamagatajuku": 3043,
+    "nakafunyu": 3043,
+    "shimogawa": 3043,
+    "saigane": 3043,
+    "kamiogawa": 3043,
+    "fukuroda": 3483,
+    "hitachidaigo": 3483,
+    "minamisakaide": 2713,
+    "nukada": 2713,
+    "kawai-suigun": 2713,
+    "yagawara": 2713,
+    "hitachiota": 2713,
     "miyahara": 715,
     "ageo": 715,
     "kitaageo": 803,
@@ -415,6 +637,16 @@
     "koganei": 1595,
     "jichiidai": 1782,
     "ishibashi": 1782,
+    "suzumenomiya": 2090,
+    "okamoto": 2090,
+    "ujiie": 2420,
+    "kamasusaka": 2420,
+    "kataoka": 2420,
+    "yaita": 2750,
+    "nozaki-tohoku": 2750,
+    "nishinasuno": 2750,
+    "nasushiobara": 2750,
+    "kuroiso": 3190,
     "oku-tohoku": 341,
     "yurakucho": 341,
     "shinbashi": 341,
@@ -441,6 +673,8 @@
     "odawara": 1782,
     "hayakawa": 1782,
     "nebukawa": 1782,
+    "manazuru": 2090,
+    "yugawara": 2090,
     "nishioi": 341,
     "shinkawasaki": 528,
     "hazawayokohamakokudai": 715,
@@ -472,6 +706,16 @@
     "hota": 1919,
     "awakatsuyama": 2106,
     "iwai": 2106,
+    "tomiura-uchibo": 2414,
+    "nakofunakata": 2414,
+    "tateyama-uchibo": 2414,
+    "kokonoe": 2414,
+    "chikura": 2414,
+    "chitose-uchibo": 2744,
+    "minamihara": 2744,
+    "wadaura": 2744,
+    "emi": 2414,
+    "futomi-uchibo": 2414,
     "osaki": 253,
     "gotanda": 253,
     "meguro": 253,
@@ -1219,6 +1463,18 @@
     "toyokatsutadai": 963
   },
   "via": {
+    "onogami": [
+      "metro",
+      "jre"
+    ],
+    "iwashima": [
+      "metro",
+      "jre"
+    ],
+    "fukurogura": [
+      "metro",
+      "jre"
+    ],
     "kuragano": [
       "metro",
       "jre"
@@ -1324,6 +1580,126 @@
       "jre"
     ],
     "uchihara": [
+      "metro",
+      "jre"
+    ],
+    "akatsuka": [
+      "metro",
+      "jre"
+    ],
+    "kairakuen": [
+      "metro",
+      "jre"
+    ],
+    "mito": [
+      "metro",
+      "jre"
+    ],
+    "katsuta": [
+      "metro",
+      "jre"
+    ],
+    "sawa-joban": [
+      "metro",
+      "jre"
+    ],
+    "tokai": [
+      "metro",
+      "jre"
+    ],
+    "omika": [
+      "metro",
+      "jre"
+    ],
+    "hitachitaga": [
+      "metro",
+      "jre"
+    ],
+    "hitachi": [
+      "metro",
+      "jre"
+    ],
+    "ogitsu": [
+      "metro",
+      "jre"
+    ],
+    "juo": [
+      "metro",
+      "jre"
+    ],
+    "takahagi": [
+      "metro",
+      "jre"
+    ],
+    "minaminakago": [
+      "metro",
+      "jre"
+    ],
+    "isohara": [
+      "metro",
+      "jre"
+    ],
+    "otsuko": [
+      "metro",
+      "jre"
+    ],
+    "nakoso": [
+      "metro",
+      "jre"
+    ],
+    "ueda-joban": [
+      "metro",
+      "jre"
+    ],
+    "izumi-joban": [
+      "metro",
+      "jre"
+    ],
+    "yumoto": [
+      "metro",
+      "jre"
+    ],
+    "uchigo": [
+      "metro",
+      "jre"
+    ],
+    "kusano-joban": [
+      "metro",
+      "jre"
+    ],
+    "yotsukura": [
+      "metro",
+      "jre"
+    ],
+    "hisanohama": [
+      "metro",
+      "jre"
+    ],
+    "jeibirejji": [
+      "metro",
+      "jre"
+    ],
+    "kido": [
+      "metro",
+      "jre"
+    ],
+    "tatsuta": [
+      "metro",
+      "jre"
+    ],
+    "ono": [
+      "metro",
+      "jre"
+    ],
+    "futaba": [
+      "metro",
+      "jre"
+    ],
+    "kamimoku": [
+      "metro",
+      "jre"
+    ],
+    "taki-karasuyama": [
       "metro",
       "jre"
     ],
@@ -1451,6 +1827,10 @@
       "metro",
       "jre"
     ],
+    "inada": [
+      "metro",
+      "jre"
+    ],
     "kasama": [
       "metro",
       "jre"
@@ -1543,6 +1923,14 @@
       "metro",
       "jre"
     ],
+    "shimosatoyosato": [
+      "metro",
+      "jre"
+    ],
+    "shiishiba": [
+      "metro",
+      "jre"
+    ],
     "matsugishi": [
       "metro",
       "jre"
@@ -1584,6 +1972,18 @@
       "jre"
     ],
     "narita-airport-t1": [
+      "metro",
+      "jre"
+    ],
+    "shimotsukeosawa": [
+      "metro",
+      "jre"
+    ],
+    "maebashioshima": [
+      "metro",
+      "jre"
+    ],
+    "ashikaga": [
       "metro",
       "jre"
     ],
@@ -1803,6 +2203,114 @@
       "metro",
       "jre"
     ],
+    "awakominato": [
+      "metro",
+      "jre"
+    ],
+    "awaamatsu": [
+      "metro",
+      "jre"
+    ],
+    "awakamogawa": [
+      "metro",
+      "jre"
+    ],
+    "hitachiaoyagi": [
+      "metro",
+      "jre"
+    ],
+    "hitachitsuda": [
+      "metro",
+      "jre"
+    ],
+    "godai": [
+      "metro",
+      "jre"
+    ],
+    "shimosugaya": [
+      "metro",
+      "jre"
+    ],
+    "nakasugaya": [
+      "metro",
+      "jre"
+    ],
+    "kamisugaya": [
+      "metro",
+      "jre"
+    ],
+    "hitachikonosu": [
+      "metro",
+      "jre"
+    ],
+    "urizura": [
+      "metro",
+      "jre"
+    ],
+    "shizu": [
+      "metro",
+      "jre"
+    ],
+    "hitachiomiya": [
+      "metro",
+      "jre"
+    ],
+    "tamagawamura": [
+      "metro",
+      "jre"
+    ],
+    "nogamihara": [
+      "metro",
+      "jre"
+    ],
+    "yamagatajuku": [
+      "metro",
+      "jre"
+    ],
+    "nakafunyu": [
+      "metro",
+      "jre"
+    ],
+    "shimogawa": [
+      "metro",
+      "jre"
+    ],
+    "saigane": [
+      "metro",
+      "jre"
+    ],
+    "kamiogawa": [
+      "metro",
+      "jre"
+    ],
+    "fukuroda": [
+      "metro",
+      "jre"
+    ],
+    "hitachidaigo": [
+      "metro",
+      "jre"
+    ],
+    "minamisakaide": [
+      "metro",
+      "jre"
+    ],
+    "nukada": [
+      "metro",
+      "jre"
+    ],
+    "kawai-suigun": [
+      "metro",
+      "jre"
+    ],
+    "yagawara": [
+      "metro",
+      "jre"
+    ],
+    "hitachiota": [
+      "metro",
+      "jre"
+    ],
     "fukutawara": [
       "metro",
       "jre"
@@ -1880,6 +2388,46 @@
       "jre"
     ],
     "iwai": [
+      "metro",
+      "jre"
+    ],
+    "tomiura-uchibo": [
+      "metro",
+      "jre"
+    ],
+    "nakofunakata": [
+      "metro",
+      "jre"
+    ],
+    "tateyama-uchibo": [
+      "metro",
+      "jre"
+    ],
+    "kokonoe": [
+      "metro",
+      "jre"
+    ],
+    "chikura": [
+      "metro",
+      "jre"
+    ],
+    "chitose-uchibo": [
+      "metro",
+      "jre"
+    ],
+    "minamihara": [
+      "metro",
+      "jre"
+    ],
+    "wadaura": [
+      "metro",
+      "jre"
+    ],
+    "emi": [
+      "metro",
+      "jre"
+    ],
+    "futomi-uchibo": [
       "metro",
       "jre"
     ],
